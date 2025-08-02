@@ -3408,6 +3408,12 @@
     },
     "done": true
   },
+  "resource_backpacks:recipes/misc/backpack_netherite": {
+    "criteria": {
+      "has_backpack_diamond": "2025-08-02 20:19:34 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
       "log_spam_fixer": "2025-08-02 20:13:09 +0000"
@@ -3419,6 +3425,12 @@
       "log_spam_fixer": "2025-08-02 20:13:09 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-08-02 20:25:45 +0000"
+    },
+    "done": true
   },
   "incendium:technical/using/trailblazer": {
     "criteria": {
@@ -3435,6 +3447,12 @@
   "resource_backpacks:recipes/misc/backpack_end": {
     "criteria": {
       "has_backpack_iron": "2025-08-02 20:17:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-08-02 20:25:45 +0000"
     },
     "done": true
   },

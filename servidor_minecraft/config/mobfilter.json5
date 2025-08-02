@@ -16,5 +16,5 @@
       when: {}
     }
   ],
-  logLevel: "DEBUG"
+  logLevel: "INFO"
 }

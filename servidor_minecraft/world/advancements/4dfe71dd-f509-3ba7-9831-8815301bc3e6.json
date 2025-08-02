@@ -28,6 +28,7 @@
       "minecraft:snowy_beach": "2025-07-31 16:39:08 +0000",
       "minecraft:windswept_savanna": "2025-08-02 17:22:58 +0000",
       "minecraft:plains": "2025-08-01 02:47:34 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-08-02 20:32:03 +0000",
       "minecraft:pale_garden": "2025-07-31 17:59:58 +0000"
     },
     "done": false
@@ -2344,6 +2345,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-08-02 20:24:33 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/return_scroll": {
+    "criteria": {
+      "has_paper": "2025-08-02 20:24:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-08-02 20:22:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-02 20:23:12 +0000"
+    },
+    "done": true
+  },
   "resource_backpacks:recipes/misc/backpack_diamond": {
     "criteria": {
       "has_backpack_iron": "2025-08-02 20:17:32 +0000"
@@ -2356,11 +2381,35 @@
     },
     "done": true
   },
+  "resource_backpacks:recipes/misc/backpack_netherite": {
+    "criteria": {
+      "has_backpack_diamond": "2025-08-02 20:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-02 20:23:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-02 20:23:12 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
       "log_spam_fixer": "2025-08-02 20:12:53 +0000"
     },
     "done": false
+  },
+  "resource_backpacks:recipes/misc/backpack_leather": {
+    "criteria": {
+      "has_leather": "2025-08-02 20:19:20 +0000"
+    },
+    "done": true
   },
   "incendium:technical/using/ragnarok": {
     "criteria": {
@@ -2373,6 +2422,24 @@
       "log_spam_fixer": "2025-08-02 20:12:53 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-02 20:23:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-08-02 20:24:33 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/blank_scroll": {
+    "criteria": {
+      "has_paper": "2025-08-02 20:24:33 +0000"
+    },
+    "done": true
   },
   "incendium:technical/using/shield": {
     "criteria": {

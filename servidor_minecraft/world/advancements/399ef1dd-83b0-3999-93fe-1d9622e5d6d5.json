@@ -30,7 +30,8 @@
       "minecraft:birch_forest": "2025-08-01 03:00:47 +0000",
       "minecraft:savanna": "2025-08-01 19:23:14 +0000",
       "minecraft:windswept_savanna": "2025-08-01 16:01:32 +0000",
-      "minecraft:plains": "2025-08-01 03:11:06 +0000"
+      "minecraft:plains": "2025-08-01 03:11:06 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-08-02 20:31:59 +0000"
     },
     "done": false
   },
@@ -2744,6 +2745,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-08-02 20:31:32 +0000"
+    },
+    "done": true
+  },
+  "resource_backpacks:recipes/misc/backpack_diamond": {
+    "criteria": {
+      "has_backpack_iron": "2025-08-02 20:21:31 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2025-08-02 20:14:41 +0000"
@@ -2773,6 +2786,12 @@
       "log_spam_fixer": "2025-08-02 20:14:41 +0000"
     },
     "done": false
+  },
+  "resource_backpacks:recipes/misc/backpack_end": {
+    "criteria": {
+      "has_backpack_iron": "2025-08-02 20:21:31 +0000"
+    },
+    "done": true
   },
   "DataVersion": 4440
 }
