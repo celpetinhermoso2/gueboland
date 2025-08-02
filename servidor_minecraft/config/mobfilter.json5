@@ -1,0 +1,20 @@
+{
+  rules: [
+    {
+      name: "Reduce hostile mobs at night in Overworld",
+      what: "DISALLOW_SPAWN",
+      when: {
+        dimensionId: ["minecraft:overworld"],
+        timeOfDay: [12000, 24000],
+        category: ["MONSTER"],
+        random: 0.2
+      }
+    },
+    {
+      name: "Allow all other spawns",
+      what: "ALLOW_SPAWN",
+      when: {}
+    }
+  ],
+  logLevel: "DEBUG"
+}

@@ -1,0 +1,15 @@
+{
+  "allowEatingWhenFull": false,
+  "campfireHealing": true,
+  "disableSprinting": false,
+  "fasterFluidConsumption": true,
+  "increaseHoneySaturation": true,
+  "instantConsumption": false,
+  "instantRegeneration": false,
+  "potionBundleStacking": true,
+  "healthGainMultiplier": 1.0,
+  "regenerationTimeMultiplier": 1.0,
+  "displayHealthGained": true,
+  "mirrorArmorBar": false,
+  "moveArmorBar": true
+}
