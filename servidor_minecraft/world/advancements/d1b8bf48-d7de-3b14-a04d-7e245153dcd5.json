@@ -2619,11 +2619,30 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-08-02 20:34:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-08-02 20:34:55 +0000"
+    },
+    "done": true
+  },
   "resource_backpacks:recipes/misc/backpack_diamond": {
     "criteria": {
       "has_backpack_iron": "2025-08-02 20:17:21 +0000"
     },
     "done": true
+  },
+  "hopo:minecraft/adventure/locate_all_underwater_structures": {
+    "criteria": {
+      "locate_shipwreck": "2025-08-02 20:37:16 +0000",
+      "locate_underwater_small_ruins": "2025-08-02 20:34:48 +0000"
+    },
+    "done": false
   },
   "resource_backpacks:recipes/misc/backpack_end": {
     "criteria": {

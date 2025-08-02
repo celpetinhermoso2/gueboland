@@ -17,6 +17,7 @@
       "minecraft:frozen_river": "2025-07-31 16:04:43 +0000",
       "minecraft:windswept_forest": "2025-08-01 22:29:55 +0000",
       "minecraft:ocean": "2025-07-31 16:46:59 +0000",
+      "minecraft:jungle": "2025-08-02 20:54:21 +0000",
       "minecraft:birch_forest": "2025-07-31 16:47:17 +0000",
       "minecraft:windswept_hills": "2025-08-01 22:56:48 +0000",
       "minecraft:snowy_beach": "2025-07-31 16:05:33 +0000",
@@ -3396,9 +3397,87 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-02 20:58:40 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-02 20:58:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-08-02 20:55:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-08-02 20:42:34 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-02 20:58:40 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-02 20:58:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2025-08-02 20:42:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-08-02 20:42:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-08-02 20:40:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2025-08-02 20:35:05 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-02 20:58:40 +0000"
+    },
+    "done": false
+  },
   "resource_backpacks:recipes/misc/backpack_diamond": {
     "criteria": {
       "has_backpack_iron": "2025-08-02 20:17:44 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-02 20:58:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-08-02 20:40:46 +0000"
     },
     "done": true
   },
@@ -3407,6 +3486,18 @@
       "requirement": "2025-08-02 20:13:08 +0000"
     },
     "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-02 20:58:40 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-02 20:58:40 +0000"
+    },
+    "done": false
   },
   "resource_backpacks:recipes/misc/backpack_netherite": {
     "criteria": {
@@ -3420,9 +3511,39 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2025-08-02 20:42:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-08-02 20:55:48 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-02 20:58:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2025-08-02 20:42:34 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/ragnarok": {
     "criteria": {
       "log_spam_fixer": "2025-08-02 20:13:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-02 20:58:40 +0000"
     },
     "done": false
   },
@@ -3435,6 +3556,24 @@
   "incendium:technical/using/trailblazer": {
     "criteria": {
       "log_spam_fixer": "2025-08-02 20:13:09 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-08-02 20:42:34 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-02 20:58:40 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-02 20:58:40 +0000"
     },
     "done": false
   },

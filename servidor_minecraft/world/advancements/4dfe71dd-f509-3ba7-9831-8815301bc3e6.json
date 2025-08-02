@@ -2345,6 +2345,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-02 20:40:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-02 20:40:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-08-02 20:24:33 +0000"
@@ -2363,9 +2375,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-08-02 20:40:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-08-02 20:23:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-08-02 20:40:52 +0000"
     },
     "done": true
   },
@@ -2375,15 +2399,52 @@
     },
     "done": true
   },
+  "hopo:minecraft/adventure/locate_all_underwater_structures": {
+    "criteria": {
+      "locate_shipwreck": "2025-08-02 20:37:07 +0000",
+      "locate_underwater_small_ruins": "2025-08-02 20:35:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-02 20:40:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-02 20:40:48 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2025-08-02 20:12:51 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-08-02 20:40:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-08-02 20:40:48 +0000"
+    },
+    "done": true
+  },
   "resource_backpacks:recipes/misc/backpack_netherite": {
     "criteria": {
       "has_backpack_diamond": "2025-08-02 20:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-08-02 20:40:48 +0000"
     },
     "done": true
   },
@@ -2417,11 +2478,23 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-08-02 20:39:36 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/trailblazer": {
     "criteria": {
       "log_spam_fixer": "2025-08-02 20:12:53 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-08-02 20:40:52 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
@@ -2447,9 +2520,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-08-02 20:40:48 +0000"
+    },
+    "done": true
+  },
   "resource_backpacks:recipes/misc/backpack_end": {
     "criteria": {
       "has_backpack_iron": "2025-08-02 20:17:32 +0000"
+    },
+    "done": true
+  },
+  "resource_backpacks:recipes/misc/backpack_copper": {
+    "criteria": {
+      "has_backpack_leather": "2025-08-02 20:48:05 +0000"
     },
     "done": true
   },
