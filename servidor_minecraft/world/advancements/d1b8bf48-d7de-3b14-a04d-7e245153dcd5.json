@@ -3042,6 +3042,12 @@
     },
     "done": true
   },
+  "onlyhammers:recipes/tools/wooden_hammer": {
+    "criteria": {
+      "has_oak_log": "2025-08-03 03:28:03 +0000"
+    },
+    "done": true
+  },
   "onlyhammers:recipes/tools/iron_hammer": {
     "criteria": {
       "has_iron_ingot": "2025-08-03 02:56:22 +0000"

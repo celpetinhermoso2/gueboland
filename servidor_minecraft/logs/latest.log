@@ -320,3 +320,16 @@
 [02:56:22] [Server thread/INFO]: faribel joined the game
 [02:56:22] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 1 player data objects (took 0s 330ms)
 [03:24:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@6ee8df93[id=4dfe71dd-f509-3ba7-9831-8815301bc3e6,name=klyo,properties={}] lost connection: Disconnected
+[03:25:37] [Server thread/INFO]: klyo[/100.114.68.51:52926] logged in with entity id 12511 at (-1396.454436622374, 51.0, -1665.751139869511)
+[03:25:37] [Server thread/INFO]: Syncing Server Configs with Client
+[03:25:37] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
+[03:25:37] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
+[03:25:37] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
+[03:25:37] [Server thread/INFO]: klyo joined the game
+[03:25:37] [ForkJoinPool.commonPool-worker-5/INFO]: Loaded 1 player data objects (took 0s 363ms)
+[03:30:05] [Server thread/INFO]: klyo died
+[03:30:21] [Server thread/INFO]: klyo was not rescued in time
+[03:42:12] [Server thread/INFO]: klyo was slain by Skeleton
+[03:42:16] [Server thread/INFO]: klyo was not rescued in time
+[03:43:03] [Server thread/INFO]: klyo died
+[03:43:05] [Server thread/INFO]: klyo was not rescued in time

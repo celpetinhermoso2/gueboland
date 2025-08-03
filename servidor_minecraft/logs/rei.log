@@ -658,3 +658,5 @@ java.lang.Throwable
 [02:53:40] [Server thread/DEBUG] [REI] Player DTav has outdated displays version 0 [latest version: 46B1E6AA00000001], sending reset packet request.
 [02:56:22] [Server thread/DEBUG] [REI] Player faribel has outdated displays version 0 [latest version: 46B1E6AA00000001]
 [02:56:22] [Server thread/DEBUG] [REI] Player faribel has outdated displays version 0 [latest version: 46B1E6AA00000001], sending reset packet request.
+[03:25:37] [Server thread/DEBUG] [REI] Player klyo has outdated displays version 0 [latest version: 46B1E6AA00000001]
+[03:25:37] [Server thread/DEBUG] [REI] Player klyo has outdated displays version 0 [latest version: 46B1E6AA00000001], sending reset packet request.
