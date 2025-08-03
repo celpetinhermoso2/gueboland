@@ -3255,6 +3255,78 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 05:10:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 05:10:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 05:10:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 05:10:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 05:10:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 05:10:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 05:10:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 05:10:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 05:10:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 05:10:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 05:10:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 05:10:35 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-08-03 04:06:01 +0000"
@@ -3285,6 +3357,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-08-03 04:59:47 +0000"
+    },
+    "done": true
+  },
   "onlyhammers:recipes/tools/emerald_hammer": {
     "criteria": {
       "has_emerald": "2025-08-03 03:35:59 +0000"
@@ -3306,6 +3384,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2025-08-03 04:06:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-03 05:07:22 +0000"
     },
     "done": true
   },
@@ -3339,9 +3423,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-03 05:07:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-03 04:06:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-03 05:07:22 +0000"
     },
     "done": true
   },
@@ -3363,6 +3459,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-08-03 04:59:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-03 04:06:01 +0000"
@@ -3372,6 +3474,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2025-08-03 03:49:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-03 05:07:22 +0000"
     },
     "done": true
   },
@@ -3390,6 +3498,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-03 04:06:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-03 05:07:22 +0000"
     },
     "done": true
   },
@@ -3414,6 +3528,12 @@
   "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2025-08-03 04:06:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-03 05:07:22 +0000"
     },
     "done": true
   },

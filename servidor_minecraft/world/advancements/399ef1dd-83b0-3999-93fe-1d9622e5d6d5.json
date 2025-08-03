@@ -3659,6 +3659,12 @@
     },
     "done": true
   },
+  "onlyhammers:recipes/tools/redstone_hammer": {
+    "criteria": {
+      "has_redstone": "2025-08-03 05:22:35 +0000"
+    },
+    "done": true
+  },
   "onlyhammers:recipes/tools/emerald_hammer": {
     "criteria": {
       "has_emerald": "2025-08-03 04:37:17 +0000"
@@ -3671,9 +3677,33 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-08-03 05:07:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-08-03 04:42:37 +0000"
+    },
+    "done": true
+  },
+  "onlyhammers:recipes/tools/diamond_hammer": {
+    "criteria": {
+      "has_diamond": "2025-08-03 05:14:36 +0000"
+    },
+    "done": true
+  },
+  "onlyhammers:recipes/tools/lapis_hammer": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-08-03 05:22:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-08-03 05:14:59 +0000"
     },
     "done": true
   },
