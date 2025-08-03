@@ -294,3 +294,16 @@
 [16:54:10] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
 [16:54:10] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
 [16:54:10] [Server thread/INFO]: DTav joined the game
+[17:00:14] [Server thread/INFO]: SaidKiller__[/100.99.253.91:65102] logged in with entity id 6578 at (-1775.6411771209544, 130.0, -1596.3142821366355)
+[17:00:14] [Server thread/INFO]: Syncing Server Configs with Client
+[17:00:14] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
+[17:00:14] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
+[17:00:14] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
+[17:00:14] [Server thread/INFO]: SaidKiller__ joined the game
+[17:00:14] [ForkJoinPool.commonPool-worker-8/INFO]: Loaded 1 player data objects (took 0s 430ms)
+[17:03:20] [Server thread/INFO]: klyo fell from a high place
+[17:03:26] [Server thread/INFO]: klyo was not rescued in time
+[17:04:19] [Server thread/INFO]: Set the weather to rain & thunder
+[17:04:52] [Server thread/INFO]: Set the weather to rain & thunder
+[17:05:44] [Server thread/INFO]: klyo was struck by lightning while fighting SaidKiller__
+[17:05:53] [Server thread/INFO]: faribel died
