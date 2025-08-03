@@ -379,3 +379,23 @@
 [18:43:58] [Server thread/INFO]: caquitoquito was shot by Skeleton
 [18:49:10] [Server thread/INFO]: DTav lost connection: Disconnected
 [18:49:10] [Server thread/INFO]: DTav left the game
+[19:05:40] [Server thread/INFO]: caquitoquito was killed by magic while trying to escape Skeleton
+[19:06:25] [Server thread/INFO]: caquitoquito was not rescued in time
+[19:07:39] [Server thread/INFO]: Don_Jaiba died
+[19:07:42] [Server thread/INFO]: Don_Jaiba was not rescued in time
+[19:15:15] [Server thread/INFO]: SaidKiller__[/100.99.253.91:56339] logged in with entity id 119686 at (-1763.5972914418128, 129.0, -1590.2660108389923)
+[19:15:15] [Server thread/INFO]: Syncing Server Configs with Client
+[19:15:15] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
+[19:15:15] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
+[19:15:15] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
+[19:15:15] [Server thread/INFO]: SaidKiller__ joined the game
+[19:15:15] [ForkJoinPool.commonPool-worker-18/INFO]: Loaded 1 player data objects (took 0s 381ms)
+[19:18:40] [Server thread/INFO]: SaidKiller__ lost connection: Disconnected
+[19:18:40] [Server thread/INFO]: SaidKiller__ left the game
+[19:18:46] [Server thread/INFO]: SaidKiller__[/100.99.253.91:56418] logged in with entity id 122135 at (-1606.6486127593978, 63.08576431274413, -1709.1198480162022)
+[19:18:46] [Server thread/INFO]: Loaded 1 player data objects (took 0s 0ms)
+[19:18:46] [Server thread/INFO]: Syncing Server Configs with Client
+[19:18:46] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
+[19:18:46] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
+[19:18:46] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
+[19:18:46] [Server thread/INFO]: SaidKiller__ joined the game
