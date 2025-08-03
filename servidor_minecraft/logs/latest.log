@@ -339,3 +339,145 @@
 [03:59:43] [Server thread/INFO]: com.mojang.authlib.GameProfile@4188b853[id=1c61e4f1-4529-31a2-826c-4942417f5b6a,name=Officie,properties={}] lost connection: Disconnected
 [03:59:46] [Server thread/INFO]: com.mojang.authlib.GameProfile@77dd5cc6[id=1c61e4f1-4529-31a2-826c-4942417f5b6a,name=Officie,properties={}] lost connection: Disconnected
 [04:01:16] [Server thread/INFO]: [Not Secure] <klyo> BANKAI
+[04:05:03] [Server thread/INFO]: com.mojang.authlib.GameProfile@79f1228e[id=399ef1dd-83b0-3999-93fe-1d9622e5d6d5,name=SaidKiller__,properties={}] lost connection: Disconnected
+[04:05:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@5f650854[id=399ef1dd-83b0-3999-93fe-1d9622e5d6d5,name=SaidKiller__,properties={}] lost connection: Disconnected
+[04:06:40] [Server thread/INFO]: com.mojang.authlib.GameProfile@411bcc88[id=399ef1dd-83b0-3999-93fe-1d9622e5d6d5,name=SaidKiller__,properties={}] lost connection: Disconnected
+[04:12:28] [Server thread/INFO]: SaidKiller__[/100.99.253.91:49217] logged in with entity id 45799 at (-232.45936706636556, 63.0, -1192.72748287159)
+[04:12:28] [Server thread/INFO]: Syncing Server Configs with Client
+[04:12:28] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
+[04:12:28] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
+[04:12:28] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
+[04:12:28] [Server thread/INFO]: SaidKiller__ joined the game
+[04:12:28] [ForkJoinPool.commonPool-worker-7/INFO]: Loaded 1 player data objects (took 0s 418ms)
+[04:12:31] [Worker-Main-3/ERROR]: Recoverable errors when loading section [-5, 4, -88]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[04:13:27] [Server thread/INFO]: SaidKiller__ lost connection: Disconnected
+[04:13:27] [Server thread/INFO]: SaidKiller__ left the game
+[04:14:23] [Server thread/INFO]: SaidKiller__[/100.99.253.91:49242] logged in with entity id 49149 at (-234.16337845327033, 63.0, -1193.3290195250806)
+[04:14:23] [Server thread/INFO]: Loaded 1 player data objects (took 0s 0ms)
+[04:14:23] [Server thread/INFO]: Syncing Server Configs with Client
+[04:14:23] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
+[04:14:23] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
+[04:14:23] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
+[04:14:23] [Server thread/INFO]: SaidKiller__ joined the game
+[04:14:27] [Worker-Main-3/ERROR]: Recoverable errors when loading section [-5, 4, -88]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[04:14:33] [Worker-Main-2/ERROR]: Recoverable errors when loading section [-10, 3, -89]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[04:14:33] [Worker-Main-2/ERROR]: Recoverable errors when loading section [-10, 4, -90]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[04:14:33] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-9, 4, -90]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[04:14:36] [Worker-Main-3/ERROR]: Recoverable errors when loading section [-5, 4, -89]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[04:21:51] [Server thread/INFO]: faribel lost connection: Disconnected
+[04:21:51] [Server thread/INFO]: faribel left the game
+[04:24:26] [Server thread/INFO]: Named entity class_1628['{"text":"Grumm","color":"black","obfuscated":true}'/62612, l='ServerLevel[world]', x=-1390.30, y=56.10, z=-1683.70] died: {"text":"Grumm","color":"black","obfuscated":true} was shot by klyo
+[04:24:54] [Server thread/INFO]: faribel[/100.102.41.71:2921] logged in with entity id 63309 at (-1595.1021894316789, 70.0, -1531.7640348475786)
+[04:24:54] [Server thread/INFO]: Syncing Server Configs with Client
+[04:24:54] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
+[04:24:54] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
+[04:24:55] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
+[04:24:55] [Server thread/INFO]: faribel joined the game
+[04:24:55] [ForkJoinPool.commonPool-worker-10/INFO]: Loaded 1 player data objects (took 0s 364ms)
+[04:25:59] [Server thread/INFO]: Officie[/100.107.174.27:54671] logged in with entity id 64902 at (-1345.5, 66.0, -1741.5)
+[04:25:59] [Server thread/INFO]: Syncing Server Configs with Client
+[04:25:59] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
+[04:25:59] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
+[04:25:59] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
+[04:25:59] [Server thread/INFO]: Officie joined the game
+[04:25:59] [ForkJoinPool.commonPool-worker-12/INFO]: Loaded 1 player data objects (took 0s 315ms)
+[04:26:10] [Server thread/INFO]: [Not Secure] <Officie> PORFIN COMPAI
+[04:26:15] [Server thread/INFO]: [Not Secure] <Officie> MLDTA MIELDA DE FABRIC
+[04:26:15] [Server thread/INFO]: [Not Secure] <DTav> klk papi
+[04:26:28] [Server thread/INFO]: [Not Secure] <DTav> cuanta vece al dia tu dice eso
+[04:26:28] [Server thread/INFO]: [Not Secure] <Officie> wey eperate no entiendo el ingleis
+[04:26:32] [Server thread/INFO]: [Not Secure] <Officie> 3
+[04:26:40] [Server thread/INFO]: [Not Secure] <klyo> tu ere un etupido
+[04:26:42] [Server thread/INFO]: [Not Secure] <faribel> que 3 que
+[04:26:45] [Server thread/INFO]: [Not Secure] <faribel> soy ariel
+[04:26:52] [Server thread/INFO]: [Not Secure] <Officie> puse el juego en español españa y HA lo que tu quiera
+[04:26:55] [Server thread/INFO]: [Not Secure] <klyo> no te lleves
+[04:26:56] [Server thread/INFO]: [Not Secure] <Officie> ami que me importa
+[04:26:58] [Server thread/INFO]: [Not Secure] <klyo> yo soy ariel
+[04:27:03] [Server thread/INFO]: [Not Secure] <klyo> :sob:
+[04:27:11] [Server thread/INFO]: [Not Secure] <Officie> Y TO ETO MOD
+[04:27:15] [Server thread/INFO]: [Not Secure] <Officie> VEO HOJA CAYENDO
+[04:27:30] [Server thread/INFO]: [Not Secure] <klyo> eso fui yo que puse to eso
+[04:27:40] [Server thread/INFO]: [Not Secure] <klyo> faribel es jose
+[04:27:44] [Server thread/INFO]: [Not Secure] <klyo> vete a matarlo
+[04:27:46] [Server thread/INFO]: [Not Secure] <faribel> mmg jose
+[04:27:47] [Server thread/INFO]: [Not Secure] <faribel> callate
+[04:27:48] [Server thread/INFO]: [Not Secure] <Officie> voy
+[04:28:33] [Server thread/INFO]: [Not Secure] <Officie> klk
+[04:28:35] [Server thread/INFO]: [Not Secure] <klyo> klk
+[04:28:38] [Server thread/INFO]: [Not Secure] <Officie> llego el trihald
+[04:28:41] [Server thread/INFO]: [Not Secure] <klyo> no
+[04:28:46] [Server thread/INFO]: [Not Secure] <klyo> ven
+[04:28:51] [Server thread/INFO]: [Not Secure] <klyo> pa la casa de jose
+[04:28:52] [Server thread/INFO]: [Not Secure] <DTav> klk gadiel
+[04:28:53] [Server thread/INFO]: [Not Secure] <klyo> sigueme
+[04:28:54] [Server thread/INFO]: [Not Secure] <Officie> klk
+[04:28:57] [Server thread/INFO]: [Not Secure] <DTav> eta casa la hice yo solo
+[04:29:05] [Server thread/INFO]: [Not Secure] <DTav> ven a ve
+[04:29:10] [Server thread/INFO]: [Not Secure] <Officie> PERATE
+[04:29:12] [Server thread/INFO]: [Not Secure] <Officie> PERALTA
+[04:29:23] [Server thread/INFO]: [Not Secure] <klyo> ven
+[04:29:29] [Server thread/INFO]: [Not Secure] <klyo> que jose ta en la casa esta
+[04:29:52] [Server thread/INFO]: [Not Secure] <Officie> denme comida
+[04:29:57] [Server thread/INFO]: [Not Secure] <klyo> ven
+[04:30:10] [Server thread/INFO]: [Not Secure] <Officie> que fea eta mielda
+[04:30:10] [Server thread/INFO]: [Not Secure] <klyo> miralo ahi al palomo ese
+[04:30:12] [Server thread/INFO]: [Not Secure] <Officie> me encanta
+[04:30:20] [Server thread/INFO]: [Not Secure] <Officie> wey ariel klk
+[04:30:25] [Server thread/INFO]: [Not Secure] <faribel> E
+[04:30:29] [Server thread/INFO]: [Not Secure] <klyo> dime
+[04:30:38] [Server thread/INFO]: [Not Secure] <klyo> mira a jose ahi
+[04:30:40] [Server thread/INFO]: [Not Secure] <Officie> wey DENME COMIDA
+[04:30:41] [Server thread/INFO]: [Not Secure] <klyo> entrale
+[04:30:50] [Server thread/INFO]: [Not Secure] <Officie> yo le entro a todito si me dan comida
+[04:31:08] [Server thread/INFO]: [Not Secure] <Officie> Y ETA VAINA
+[04:31:11] [Server thread/INFO]: [Not Secure] <Officie> COOLDOWN PA COME
+[04:31:13] [Server thread/INFO]: [Not Secure] <Officie> TMM
+[04:31:22] [Server thread/INFO]: [Not Secure] <faribel> aprende
+[04:31:24] [Server thread/INFO]: [Not Secure] <faribel> tonto
+[04:31:36] [Server thread/INFO]: [Not Secure] <SaidKiller__> mira un palomo hahah
+[04:31:43] [Server thread/INFO]: [Not Secure] <Officie> wey jose te tan hablando
+[04:32:01] [Server thread/INFO]: [Not Secure] <DTav> como se nota que lo hizo jose
+[04:32:05] [Server thread/INFO]: [Not Secure] <DTav> XD
+[04:32:38] [Server thread/INFO]: [Not Secure] <Officie> cuando se hace de dia eta m
+[04:32:49] [Server thread/INFO]: [Not Secure] <faribel> de aqui al jueve
+[04:32:56] [Server thread/INFO]: [Not Secure] <Officie> falta pila
+[04:33:53] [Server thread/INFO]: [Not Secure] <Officie> llego el jueve
+[04:34:32] [Server thread/INFO]: Officie has made the advancement [Monster Hunter]
+[04:34:54] [Server thread/INFO]: SaidKiller__ was slain by faribel
+[04:36:18] [Server thread/INFO]: Officie has made the advancement [Stone Age]
+[04:37:13] [Server thread/INFO]: [Not Secure] <Officie> como hago que no me apareca en la pantalla lo que tengo adentro del inv
+[04:37:17] [Server thread/INFO]: [Not Secure] <Officie> que aparece flotando esa mld
+[04:37:24] [Server thread/INFO]: [Not Secure] <klyo> eso es asi
+[04:37:28] [Server thread/INFO]: [Not Secure] <Officie> que diparate
+[04:37:33] [Server thread/INFO]: [Not Secure] <klyo> dale a la o creo
+[04:37:39] [Server thread/INFO]: [Not Secure] <Officie> GRACIA
+[04:37:42] [Server thread/INFO]: [Not Secure] <klyo> OK
+[04:37:46] [Server thread/INFO]: [Not Secure] <Officie> QUE MOLESTO ERA ESA MLD
+[04:37:57] [Server thread/INFO]: [Not Secure] <faribel> baja el tamano del gui tonto
+[04:38:07] [Server thread/INFO]: [Not Secure] <Officie> quien eh tamano
+[04:38:23] [Server thread/INFO]: [Not Secure] <SaidKiller__> dale a la i para quitarlo
+[04:38:30] [Server thread/INFO]: [Not Secure] <Officie> gracia gracia
+[04:38:33] [Server thread/INFO]: [Not Secure] <Officie> un beso a todas
+[04:38:40] [Server thread/INFO]: [Not Secure] <SaidKiller__> diablo que rico
+[04:40:18] [Server thread/INFO]: Officie has made the advancement [Getting an Upgrade]
+[04:40:35] [Server thread/INFO]: [Not Secure] <Officie> prestenme uno de hierro ahi
+[04:41:10] [Server thread/INFO]: [Not Secure] <Officie> wey eh obligao
+[04:41:44] [Server thread/INFO]: [Not Secure] <Officie> compai
+[04:41:47] [Server thread/INFO]: [Not Secure] <klyo> klk
+[04:41:49] [Server thread/INFO]: [Not Secure] <Officie> dame uno de hierro porfavor
+[04:41:53] [Server thread/INFO]: [Not Secure] <Officie> hay que mendiga en ete server
+[04:41:55] [Server thread/INFO]: Officie has made the advancement [Acquire Hardware]
+[04:41:58] [Server thread/INFO]: [Not Secure] <Officie> gracia
+[04:42:05] [Server thread/INFO]: [Not Secure] <klyo> me debes tu carrera
+[04:42:12] [Server thread/INFO]: [Not Secure] <Officie> tt
+[04:42:37] [Server thread/INFO]: SaidKiller__ has made the advancement [Hot Stuff]
+[04:51:05] [Server thread/INFO]: Officie has reached the goal [So we back in the mine...]
+[04:51:40] [Server thread/INFO]: Officie has made the advancement [Sneak 100]
+[04:51:50] [Server thread/INFO]: [Not Secure] <klyo> gadiel
+[04:51:53] [Server thread/INFO]: [Not Secure] <Officie> dime
+[04:51:59] [Server thread/INFO]: [Not Secure] <klyo> deja los CHETOS
+[04:52:14] [Server thread/INFO]: [Not Secure] <Officie> ariel me paso lo xray que el usa
+[04:52:28] [Server thread/INFO]: [Not Secure] <klyo> pq tu habla de mi en tercera persona :sob:
+[04:53:49] [Server thread/INFO]: [Not Secure] <faribel> give jose tetas
+[04:54:00] [Server thread/INFO]: [Not Secure] <klyo> bro se quiere dar tetas :sob:

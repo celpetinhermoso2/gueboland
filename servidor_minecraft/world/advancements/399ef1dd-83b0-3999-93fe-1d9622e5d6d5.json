@@ -3527,77 +3527,23 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
-      "log_spam_fixer": "2025-08-03 01:27:33 +0000"
+      "has_prismarine_crystals": "2025-08-03 00:35:57 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_honeycomb": {
     "criteria": {
-      "log_spam_fixer": "2025-08-03 01:27:33 +0000"
+      "has_oxidized_cut_copper_slab": "2025-08-03 00:40:34 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/building_blocks/oxidized_chiseled_copper": {
     "criteria": {
-      "log_spam_fixer": "2025-08-03 01:27:33 +0000"
+      "has_oxidized_cut_copper_slab": "2025-08-03 00:40:34 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 01:27:33 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 01:27:33 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 01:27:33 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 01:27:33 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 01:27:33 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 01:27:33 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 01:27:33 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 01:27:33 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 01:27:33 +0000"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/redstone/oxidized_copper_bulb": {
     "criteria": {
@@ -3623,18 +3569,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
-    "criteria": {
-      "has_dark_prismarine": "2025-08-03 01:18:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-08-03 01:12:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oxidized_copper_grate_from_oxidized_copper_stonecutting": {
     "criteria": {
       "has_oxidized_copper": "2025-08-03 00:40:37 +0000"
@@ -3647,9 +3581,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_honeycomb": {
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting": {
     "criteria": {
-      "has_oxidized_cut_copper_slab": "2025-08-03 00:40:34 +0000"
+      "has_oxidized_copper": "2025-08-03 00:40:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper": "2025-08-03 00:40:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_chiseled_copper_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-08-03 00:40:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-08-03 01:12:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-08-03 01:12:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-08-03 01:18:33 +0000"
     },
     "done": true
   },
@@ -3665,9 +3629,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting": {
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
-      "has_oxidized_copper": "2025-08-03 00:40:37 +0000"
+      "has_dark_prismarine": "2025-08-03 01:18:33 +0000"
     },
     "done": true
   },
@@ -3677,39 +3641,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_oxidized_copper_from_honeycomb": {
+  "onlyhammers:recipes/tools/gold_hammer": {
     "criteria": {
-      "has_oxidized_copper": "2025-08-03 00:40:37 +0000"
+      "has_gold_ingot": "2025-08-03 04:12:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+  "onlyhammers:recipes/tools/iron_hammer": {
     "criteria": {
-      "has_coast_armor_trim_smithing_template": "2025-08-03 01:12:12 +0000"
+      "has_iron_ingot": "2025-08-03 04:12:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oxidized_chiseled_copper": {
+  "onlyhammers:recipes/tools/stone_hammer": {
     "criteria": {
-      "has_oxidized_cut_copper_slab": "2025-08-03 00:40:34 +0000"
+      "has_stone": "2025-08-03 04:12:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sea_lantern": {
+  "onlyhammers:recipes/tools/emerald_hammer": {
     "criteria": {
-      "has_prismarine_crystals": "2025-08-03 00:35:57 +0000"
+      "has_emerald": "2025-08-03 04:37:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oxidized_chiseled_copper_from_oxidized_copper_stonecutting": {
+  "onlyhammers:recipes/tools/obsidian_hammer": {
     "criteria": {
-      "has_oxidized_copper": "2025-08-03 00:40:37 +0000"
+      "has_obsidian": "2025-08-03 04:43:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+  "minecraft:story/lava_bucket": {
     "criteria": {
-      "has_dark_prismarine": "2025-08-03 01:18:33 +0000"
+      "lava_bucket": "2025-08-03 04:42:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2025-08-03 04:50:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-08-03 04:43:16 +0000"
     },
     "done": true
   },
