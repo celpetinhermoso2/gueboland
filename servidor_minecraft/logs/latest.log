@@ -319,3 +319,4 @@
 [02:56:22] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
 [02:56:22] [Server thread/INFO]: faribel joined the game
 [02:56:22] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 1 player data objects (took 0s 330ms)
+[03:24:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@6ee8df93[id=4dfe71dd-f509-3ba7-9831-8815301bc3e6,name=klyo,properties={}] lost connection: Disconnected
