@@ -1084,3 +1084,9 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_91
 	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:291) ~[server-intermediary.jar:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
 [21:39:05] [Server thread/INFO]: [Don_Jaiba: Set own game mode to Creative Mode]
+[21:43:20] [Server thread/INFO]: caquitoquito lost connection: Disconnected
+[21:43:20] [Server thread/INFO]: caquitoquito left the game
+[21:43:49] [Server thread/INFO]: [Don_Jaiba: Set own game mode to Survival Mode]
+[21:43:54] [Server thread/INFO]: [Don_Jaiba: Made Don_Jaiba no longer a server operator]
+[21:44:08] [Server thread/INFO]: Don_Jaiba lost connection: Disconnected
+[21:44:08] [Server thread/INFO]: Don_Jaiba left the game
