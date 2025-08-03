@@ -311,3 +311,27 @@
 [17:31:27] [Server thread/INFO]: DTav left the game
 [17:36:06] [Server thread/INFO]: klyo lost connection: Disconnected
 [17:36:06] [Server thread/INFO]: klyo left the game
+[17:38:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@713be3d7[id=0b28e394-1b9e-312b-8931-ff0a685c6f28,name=Don_Jaiba,properties={}] lost connection: Disconnected
+[17:39:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@6045376b[id=0b28e394-1b9e-312b-8931-ff0a685c6f28,name=Don_Jaiba,properties={}] lost connection: Disconnected
+[17:39:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@7aece198[id=0b28e394-1b9e-312b-8931-ff0a685c6f28,name=Don_Jaiba,properties={}] lost connection: Disconnected
+[17:39:58] [Server thread/INFO]: com.mojang.authlib.GameProfile@3052107a[id=0b28e394-1b9e-312b-8931-ff0a685c6f28,name=Don_Jaiba,properties={}] lost connection: Disconnected
+[17:41:18] [Server thread/INFO]: Don_Jaiba[/100.90.141.112:61040] logged in with entity id 37593 at (-1266.729053612841, 63.0, -2305.4057436211783)
+[17:41:18] [Server thread/INFO]: Syncing Server Configs with Client
+[17:41:18] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
+[17:41:18] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
+[17:41:18] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
+[17:41:18] [Server thread/INFO]: Don_Jaiba joined the game
+[17:41:19] [ForkJoinPool.commonPool-worker-11/INFO]: Loaded 1 player data objects (took 0s 384ms)
+[17:42:00] [Server thread/INFO]: Made faribel a server operator
+[17:42:44] [Server thread/INFO]: Don_Jaiba was slain by Zombie
+[17:42:46] [Server thread/INFO]: Don_Jaiba was not rescued in time
+[17:42:53] [Server thread/INFO]: [faribel: Gave 1 [Iron Chestplate] to Don_Jaiba]
+[17:43:02] [Server thread/INFO]: [faribel: Gave 1 [Iron Boots] to Don_Jaiba]
+[17:43:08] [Server thread/INFO]: [faribel: Gave 1 [Iron Leggings] to Don_Jaiba]
+[17:43:15] [Server thread/INFO]: [faribel: Gave 1 [Iron Helmet] to Don_Jaiba]
+[17:43:34] [Server thread/INFO]: [faribel: Gave 1 [Diamond Axe] to Don_Jaiba]
+[17:43:37] [Server thread/INFO]: [faribel: Gave 1 [Diamond Pickaxe] to Don_Jaiba]
+[17:45:44] [Server thread/INFO]: [faribel: Gave 64 [Iron Ingot] to Don_Jaiba]
+[17:45:59] [Server thread/INFO]: [faribel: Gave 64 [Bread] to Don_Jaiba]
+[17:46:33] [Server thread/INFO]: [faribel: Set 25 experience levels on Don_Jaiba]
+[17:46:50] [Server thread/INFO]: Made faribel no longer a server operator
