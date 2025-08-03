@@ -1,12 +1,12 @@
-[02:52:59] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
-[02:53:01] [main/WARN]: Warnings were found!
+[16:47:01] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
+[16:47:01] [main/WARN]: Warnings were found!
  - Mod 'Dynamic Lights' (dynamiclights) 1.8.8+bump+mod recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
  - Mod 'Dynamic Lights' (dynamiclights) 1.8.8+bump+mod recommends any version of modmenu-badges-lib, which is missing!
 	 - You should install any version of modmenu-badges-lib for the optimal experience.
  - Mod 'Forge Config API Port' (forgeconfigapiport) 21.8.0 recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
-[02:53:01] [main/INFO]: Loading 134 mods:
+[16:47:01] [main/INFO]: Loading 134 mods:
 	- amber 6.0.12+1.21.8
 	- antixray 1.4.10
 	   \-- com_moandjiezana_toml_toml4j 0.7.2
@@ -156,474 +156,141 @@
 	- veinminer 2.4.8
 	   \-- de_miraculixx_core_dev 2.4.8
 	- waystones 21.8.1
-[02:53:03] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/gueboland/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[02:53:03] [main/INFO]: Compatibility level set to JAVA_18
-[02:53:03] [main/INFO]: Compatibility level set to JAVA_21
-[02:53:03] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[02:53:03] [main/WARN]: Reference map 'harvest_with_ease.refmap.json' for harvest_with_ease.mixins.json could not be read. If this is a development environment you can ignore this message
-[02:53:03] [main/WARN]: Reference map 'harvest_with_ease.refmap.json' for harvest_with_ease.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[02:53:03] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
-[02:53:03] [main/INFO]: Loaded configuration file for Lithium: 160 options available, 0 override(s) found.
-[02:53:04] [main/WARN]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity)
-[02:53:05] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[02:53:13] [main/INFO]: Initializing Everlasting Amber Dreams on Fabric...
-[02:53:13] [main/INFO]: Amber internal networking initialized
-[02:53:14] [main/INFO]: Successfully initialized antixray for fabric
-[02:53:14] [main/INFO]: Loading Collective version 8.4.
-[02:53:15] [main/INFO]: [Dynamic Lights] MidnightLib detected!
-[02:53:15] [main/INFO]: [Dynamic Lights] Registering server started event ...
-[02:53:15] [main/INFO]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
-[02:53:15] [main/INFO]: Config 'onlyhammersconfig' is missing, generating default one...
-[02:53:15] [main/INFO]: [STDOUT]: All 20 have been set properly
-[02:53:16] [main/INFO]: Constructing components for puzzleslib:common
-[02:53:16] [main/INFO]: Config 'appearance.json' from type 'CLIENT' was skipped.
-[02:53:16] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
-[02:53:16] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REICommonPlugin
-[02:53:16] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REICommonPlugin
-[02:53:16] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REICommonPlugin
-[02:53:16] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
-[02:53:16] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
-[02:53:16] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
-[02:53:16] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
-[02:53:16] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items_new
-[02:53:16] [main/INFO]: Initializing Silk
-[02:53:16] [main/INFO]: TorchToss initializing...
-[02:53:16] [main/INFO]: Veinminer Version: 2.4.8 (fabric)
-[02:53:16] [DefaultDispatcher-worker-2/INFO]: [STDOUT]: [VeinminerUpdater] veinminer is outdated (1.21.8). Installed: 2.4.8 -> Latest: 2.4.9
-[02:53:17] [main/INFO]: Loading configuration...
-[02:53:18] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:53:18] [main/WARN]: Pack file/Ender-Dragon-Fight-Remastered-5.0.zip declared support for versions [32, 48] but declared main format is 81, defaulting to 81
-[02:53:18] [main/INFO]: Found new data pack onlyhammers, loading it automatically
-[02:53:19] [main/ERROR]: Invalid path in mod resource-pack mr_blooming_biosphere: blooming_biosphere:worldgen/configured_feature/cliff/beach copy.json, ignoring
-[02:53:21] [Worker-Main-3/INFO]: Registering Amber commands for Fabric
-[02:53:23] [main/INFO]: Loaded 1483 recipes
-[02:53:23] [main/ERROR]: Couldn't load advancements: [catenary:recipes/paper_lanterns, catenary:rocket/placed, eroxified2:custom_block/data/block/catenary/workbench/placed, eroxified2:custom_block/data/block/catenary/zipline_mount_pad/placed, catenary:recipes/workbench, eroxified2:custom_block/data/block/catenary/workbench/on_default_block_use, catenary:recipes/zipline_lift_upgrade, eroxified2:interaction/internal/rclick, eroxified2:interaction/internal/lclick, catenary:recipes/zipline_mount_pad]
-[02:53:23] [main/INFO]: Loaded 1728 advancements
-[02:53:23] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 58 translation keys
-[02:53:23] [main/INFO]: Applied 77 biome modifications to 74 of 83 new biomes in 9.945 ms
-[02:53:23] [Server thread/INFO]: Initialized mcCoroutineScope (MinecraftServer as executor)
-[02:53:23] [Server thread/INFO]: [MobFilter] Loading config from /workspaces/gueboland/servidor_minecraft/config/mobfilter.json5
-[02:53:23] [Server thread/INFO]: [MobFilter] 2 rule(s) loaded:
-[02:53:23] [Server thread/INFO]: - FilterRule[ruleName=Reduce hostile mobs at night in Overworld, checks=[CategoryCheck[categories=[MONSTER]], DimensionCheck[dimensionMatcher=[minecraft:overworld][]], TimeOfDayCheck[min=12000, max=24000], RandomCheck[odds=0.1]], action=DISALLOW_SPAWN]
-[02:53:23] [Server thread/INFO]: - FilterRule[ruleName=Allow all other spawns, checks=[], action=ALLOW_SPAWN]
-[02:53:23] [Server thread/INFO]: [MobFilter] Log level is INFO
-[02:53:23] [Server thread/INFO]:         __    
-[02:53:23] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.10
-[02:53:23] [Server thread/INFO]:   |___ |      Running on Fabric - fabric@0.130.0+1.21.8
-[02:53:23] [Server thread/INFO]: 
-[02:53:23] [Server thread/INFO]: Loading storage provider... [H2]
-[02:53:23] [Server thread/INFO]: Loading internal permission managers...
-[02:53:24] [Server thread/INFO]: Performing initial data load...
-[02:53:24] [Server thread/INFO]: Successfully enabled. (took 606ms)
-[02:53:24] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[02:53:24] [Server thread/INFO]: Loading properties
-[02:53:24] [Server thread/INFO]: Default game type: SURVIVAL
-[02:53:24] [Server thread/INFO]: Generating keypair
-[02:53:24] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:53:24] [Server thread/INFO]: Using epoll channel type
-[02:53:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:53:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:53:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:53:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:53:24] [Server thread/INFO]: Preparing level "world"
-[02:53:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:53:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:53:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:53:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:53:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:53:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:53:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:53:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:53:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:53:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:53:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:53:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:53:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:53:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:53:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:53:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:53:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:53:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:53:34] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[02:53:34] [Server thread/INFO]: Time elapsed: 8974 ms
-[02:53:34] [Server thread/INFO]: Done (9.981s)! For help, type "help"
-[02:53:34] [Server thread/INFO]: [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-[02:53:34] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for START.
-[02:53:34] [Server thread/INFO]: [REI] Plugins (3):
-[02:53:34] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[02:53:34] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
-[02:53:34] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[02:53:34] [Server thread/INFO]: [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-[02:53:34] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for START in 1.863 ms, totaling 273.0 ms.
-[02:53:34] [Server thread/INFO]: [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-[02:53:34] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for END.
-[02:53:34] [Server thread/INFO]: [REI] Plugins (3):
-[02:53:34] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[02:53:34] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
-[02:53:34] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[02:53:34] [Server thread/INFO]: [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-[02:53:35] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for END in 904.3 μs, totaling 140.0 ms.
-[02:53:35] [Server thread/INFO]: [Dynamic Lights] Sending global config to world ...
-[02:53:35] [Worker-Main-2/ERROR]: Recoverable errors when loading section [-8, 4, -2]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[02:53:35] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-8, 4, -1]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[02:53:35] [Worker-Main-2/ERROR]: Recoverable errors when loading section [-6, 4, -5]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[02:53:35] [Worker-Main-2/ERROR]: Recoverable errors when loading section [-5, 4, -3]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[02:53:35] [Worker-Main-3/ERROR]: Recoverable errors when loading section [-5, 3, 6]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[02:53:35] [Worker-Main-2/ERROR]: Recoverable errors when loading section [-4, 4, -5]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[02:53:35] [Worker-Main-3/ERROR]: Recoverable errors when loading section [-4, 3, 5]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[02:53:35] [Worker-Main-3/ERROR]: Recoverable errors when loading section [-4, 4, 5]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[02:53:35] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-5, 3, 5]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[02:53:35] [Worker-Main-2/ERROR]: Recoverable errors when loading section [-3, 4, -7]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[02:53:35] [Worker-Main-2/ERROR]: Recoverable errors when loading section [-2, 4, -9]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[02:53:35] [Worker-Main-3/ERROR]: Recoverable errors when loading section [-2, 4, -7]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[02:53:35] [Worker-Main-2/ERROR]: Recoverable errors when loading section [-1, 4, -6]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[02:53:35] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-3, 4, -8]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[02:53:35] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-3, 4, -5]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[02:53:35] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-2, 4, -8]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[02:53:35] [Worker-Main-3/ERROR]: Recoverable errors when loading section [-1, 4, -5]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[02:53:35] [Worker-Main-2/ERROR]: Recoverable errors when loading section [1, 4, 5]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[02:53:36] [Worker-Main-3/ERROR]: Recoverable errors when loading section [3, 4, -7]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[02:53:36] [Worker-Main-1/ERROR]: Recoverable errors when loading section [3, 4, -6]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[02:53:36] [Worker-Main-2/ERROR]: Recoverable errors when loading section [5, 4, -4]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[02:53:36] [Worker-Main-3/ERROR]: Recoverable errors when loading section [5, 4, -3]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[02:53:36] [Worker-Main-1/ERROR]: Recoverable errors when loading section [6, 4, -3]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[02:53:36] [Worker-Main-3/ERROR]: Recoverable errors when loading section [6, 4, -4]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[02:53:36] [Worker-Main-2/ERROR]: Recoverable errors when loading section [6, 3, 7]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[02:53:36] [Worker-Main-3/ERROR]: Recoverable errors when loading section [6, 3, 8]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[02:53:36] [Worker-Main-3/ERROR]: Recoverable errors when loading section [6, 4, 8]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[02:53:36] [Worker-Main-1/ERROR]: Recoverable errors when loading section [6, 3, 6]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[02:53:36] [Worker-Main-1/ERROR]: Recoverable errors when loading section [8, 4, 10]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[02:53:36] [Worker-Main-1/ERROR]: Recoverable errors when loading section [8, 4, -3]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[02:53:36] [Worker-Main-1/ERROR]: Recoverable errors when loading section [8, 4, 11]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[02:53:36] [Worker-Main-2/ERROR]: Recoverable errors when loading section [9, 3, -1]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[02:53:36] [Worker-Main-1/ERROR]: Recoverable errors when loading section [9, 4, -3]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[02:53:36] [Worker-Main-1/ERROR]: Recoverable errors when loading section [9, 4, 13]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[02:53:36] [Worker-Main-1/ERROR]: Recoverable errors when loading section [11, 3, -5]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[02:53:36] [Worker-Main-1/ERROR]: Recoverable errors when loading section [11, 4, -5]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[02:53:36] [Worker-Main-3/ERROR]: Recoverable errors when loading section [12, 4, -7]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[02:53:36] [Worker-Main-1/ERROR]: Recoverable errors when loading section [10, 4, -10]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[02:53:36] [Worker-Main-2/ERROR]: Recoverable errors when loading section [3, 5, -10]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[02:53:36] [Worker-Main-3/ERROR]: Recoverable errors when loading section [11, 3, -10]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[02:53:40] [Server thread/INFO]: DTav[/100.64.141.62:12232] logged in with entity id 30 at (-1403.1819870574977, 58.0, -1665.5342557841977)
-[02:53:40] [Server thread/INFO]: Syncing Server Configs with Client
-[02:53:40] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
-[02:53:40] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
-[02:53:40] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
-[02:53:40] [Server thread/INFO]: DTav joined the game
-[02:53:40] [ForkJoinPool.commonPool-worker-3/INFO]: Loaded 1 player data objects (took 0s 386ms)
-[02:54:20] [Server thread/INFO]: com.mojang.authlib.GameProfile@6e79f59c[id=d1b8bf48-d7de-3b14-a04d-7e245153dcd5,name=faribel,properties={}] lost connection: Disconnected
-[02:56:22] [Server thread/INFO]: faribel[/100.102.41.71:6509] logged in with entity id 1299 at (-1518.2544679102275, 96.0, -1690.3804339222536)
-[02:56:22] [Server thread/INFO]: Syncing Server Configs with Client
-[02:56:22] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
-[02:56:22] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
-[02:56:22] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
-[02:56:22] [Server thread/INFO]: faribel joined the game
-[02:56:22] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 1 player data objects (took 0s 330ms)
-[03:24:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@6ee8df93[id=4dfe71dd-f509-3ba7-9831-8815301bc3e6,name=klyo,properties={}] lost connection: Disconnected
-[03:25:37] [Server thread/INFO]: klyo[/100.114.68.51:52926] logged in with entity id 12511 at (-1396.454436622374, 51.0, -1665.751139869511)
-[03:25:37] [Server thread/INFO]: Syncing Server Configs with Client
-[03:25:37] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
-[03:25:37] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
-[03:25:37] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
-[03:25:37] [Server thread/INFO]: klyo joined the game
-[03:25:37] [ForkJoinPool.commonPool-worker-5/INFO]: Loaded 1 player data objects (took 0s 363ms)
-[03:30:05] [Server thread/INFO]: klyo died
-[03:30:21] [Server thread/INFO]: klyo was not rescued in time
-[03:42:12] [Server thread/INFO]: klyo was slain by Skeleton
-[03:42:16] [Server thread/INFO]: klyo was not rescued in time
-[03:43:03] [Server thread/INFO]: klyo died
-[03:43:05] [Server thread/INFO]: klyo was not rescued in time
-[03:49:19] [Server thread/INFO]: klyo has made the advancement [Ice Bucket Challenge]
-[03:58:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@4d975a96[id=1c61e4f1-4529-31a2-826c-4942417f5b6a,name=Officie,properties={}] lost connection: Disconnected
-[03:58:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@4dc6ff7e[id=1c61e4f1-4529-31a2-826c-4942417f5b6a,name=Officie,properties={}] lost connection: Disconnected
-[03:59:43] [Server thread/INFO]: com.mojang.authlib.GameProfile@4188b853[id=1c61e4f1-4529-31a2-826c-4942417f5b6a,name=Officie,properties={}] lost connection: Disconnected
-[03:59:46] [Server thread/INFO]: com.mojang.authlib.GameProfile@77dd5cc6[id=1c61e4f1-4529-31a2-826c-4942417f5b6a,name=Officie,properties={}] lost connection: Disconnected
-[04:01:16] [Server thread/INFO]: [Not Secure] <klyo> BANKAI
-[04:05:03] [Server thread/INFO]: com.mojang.authlib.GameProfile@79f1228e[id=399ef1dd-83b0-3999-93fe-1d9622e5d6d5,name=SaidKiller__,properties={}] lost connection: Disconnected
-[04:05:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@5f650854[id=399ef1dd-83b0-3999-93fe-1d9622e5d6d5,name=SaidKiller__,properties={}] lost connection: Disconnected
-[04:06:40] [Server thread/INFO]: com.mojang.authlib.GameProfile@411bcc88[id=399ef1dd-83b0-3999-93fe-1d9622e5d6d5,name=SaidKiller__,properties={}] lost connection: Disconnected
-[04:12:28] [Server thread/INFO]: SaidKiller__[/100.99.253.91:49217] logged in with entity id 45799 at (-232.45936706636556, 63.0, -1192.72748287159)
-[04:12:28] [Server thread/INFO]: Syncing Server Configs with Client
-[04:12:28] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
-[04:12:28] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
-[04:12:28] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
-[04:12:28] [Server thread/INFO]: SaidKiller__ joined the game
-[04:12:28] [ForkJoinPool.commonPool-worker-7/INFO]: Loaded 1 player data objects (took 0s 418ms)
-[04:12:31] [Worker-Main-3/ERROR]: Recoverable errors when loading section [-5, 4, -88]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[04:13:27] [Server thread/INFO]: SaidKiller__ lost connection: Disconnected
-[04:13:27] [Server thread/INFO]: SaidKiller__ left the game
-[04:14:23] [Server thread/INFO]: SaidKiller__[/100.99.253.91:49242] logged in with entity id 49149 at (-234.16337845327033, 63.0, -1193.3290195250806)
-[04:14:23] [Server thread/INFO]: Loaded 1 player data objects (took 0s 0ms)
-[04:14:23] [Server thread/INFO]: Syncing Server Configs with Client
-[04:14:23] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
-[04:14:23] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
-[04:14:23] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
-[04:14:23] [Server thread/INFO]: SaidKiller__ joined the game
-[04:14:27] [Worker-Main-3/ERROR]: Recoverable errors when loading section [-5, 4, -88]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[04:14:33] [Worker-Main-2/ERROR]: Recoverable errors when loading section [-10, 3, -89]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[04:14:33] [Worker-Main-2/ERROR]: Recoverable errors when loading section [-10, 4, -90]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[04:14:33] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-9, 4, -90]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[04:14:36] [Worker-Main-3/ERROR]: Recoverable errors when loading section [-5, 4, -89]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[04:21:51] [Server thread/INFO]: faribel lost connection: Disconnected
-[04:21:51] [Server thread/INFO]: faribel left the game
-[04:24:26] [Server thread/INFO]: Named entity class_1628['{"text":"Grumm","color":"black","obfuscated":true}'/62612, l='ServerLevel[world]', x=-1390.30, y=56.10, z=-1683.70] died: {"text":"Grumm","color":"black","obfuscated":true} was shot by klyo
-[04:24:54] [Server thread/INFO]: faribel[/100.102.41.71:2921] logged in with entity id 63309 at (-1595.1021894316789, 70.0, -1531.7640348475786)
-[04:24:54] [Server thread/INFO]: Syncing Server Configs with Client
-[04:24:54] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
-[04:24:54] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
-[04:24:55] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
-[04:24:55] [Server thread/INFO]: faribel joined the game
-[04:24:55] [ForkJoinPool.commonPool-worker-10/INFO]: Loaded 1 player data objects (took 0s 364ms)
-[04:25:59] [Server thread/INFO]: Officie[/100.107.174.27:54671] logged in with entity id 64902 at (-1345.5, 66.0, -1741.5)
-[04:25:59] [Server thread/INFO]: Syncing Server Configs with Client
-[04:25:59] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
-[04:25:59] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
-[04:25:59] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
-[04:25:59] [Server thread/INFO]: Officie joined the game
-[04:25:59] [ForkJoinPool.commonPool-worker-12/INFO]: Loaded 1 player data objects (took 0s 315ms)
-[04:26:10] [Server thread/INFO]: [Not Secure] <Officie> PORFIN COMPAI
-[04:26:15] [Server thread/INFO]: [Not Secure] <Officie> MLDTA MIELDA DE FABRIC
-[04:26:15] [Server thread/INFO]: [Not Secure] <DTav> klk papi
-[04:26:28] [Server thread/INFO]: [Not Secure] <DTav> cuanta vece al dia tu dice eso
-[04:26:28] [Server thread/INFO]: [Not Secure] <Officie> wey eperate no entiendo el ingleis
-[04:26:32] [Server thread/INFO]: [Not Secure] <Officie> 3
-[04:26:40] [Server thread/INFO]: [Not Secure] <klyo> tu ere un etupido
-[04:26:42] [Server thread/INFO]: [Not Secure] <faribel> que 3 que
-[04:26:45] [Server thread/INFO]: [Not Secure] <faribel> soy ariel
-[04:26:52] [Server thread/INFO]: [Not Secure] <Officie> puse el juego en español españa y HA lo que tu quiera
-[04:26:55] [Server thread/INFO]: [Not Secure] <klyo> no te lleves
-[04:26:56] [Server thread/INFO]: [Not Secure] <Officie> ami que me importa
-[04:26:58] [Server thread/INFO]: [Not Secure] <klyo> yo soy ariel
-[04:27:03] [Server thread/INFO]: [Not Secure] <klyo> :sob:
-[04:27:11] [Server thread/INFO]: [Not Secure] <Officie> Y TO ETO MOD
-[04:27:15] [Server thread/INFO]: [Not Secure] <Officie> VEO HOJA CAYENDO
-[04:27:30] [Server thread/INFO]: [Not Secure] <klyo> eso fui yo que puse to eso
-[04:27:40] [Server thread/INFO]: [Not Secure] <klyo> faribel es jose
-[04:27:44] [Server thread/INFO]: [Not Secure] <klyo> vete a matarlo
-[04:27:46] [Server thread/INFO]: [Not Secure] <faribel> mmg jose
-[04:27:47] [Server thread/INFO]: [Not Secure] <faribel> callate
-[04:27:48] [Server thread/INFO]: [Not Secure] <Officie> voy
-[04:28:33] [Server thread/INFO]: [Not Secure] <Officie> klk
-[04:28:35] [Server thread/INFO]: [Not Secure] <klyo> klk
-[04:28:38] [Server thread/INFO]: [Not Secure] <Officie> llego el trihald
-[04:28:41] [Server thread/INFO]: [Not Secure] <klyo> no
-[04:28:46] [Server thread/INFO]: [Not Secure] <klyo> ven
-[04:28:51] [Server thread/INFO]: [Not Secure] <klyo> pa la casa de jose
-[04:28:52] [Server thread/INFO]: [Not Secure] <DTav> klk gadiel
-[04:28:53] [Server thread/INFO]: [Not Secure] <klyo> sigueme
-[04:28:54] [Server thread/INFO]: [Not Secure] <Officie> klk
-[04:28:57] [Server thread/INFO]: [Not Secure] <DTav> eta casa la hice yo solo
-[04:29:05] [Server thread/INFO]: [Not Secure] <DTav> ven a ve
-[04:29:10] [Server thread/INFO]: [Not Secure] <Officie> PERATE
-[04:29:12] [Server thread/INFO]: [Not Secure] <Officie> PERALTA
-[04:29:23] [Server thread/INFO]: [Not Secure] <klyo> ven
-[04:29:29] [Server thread/INFO]: [Not Secure] <klyo> que jose ta en la casa esta
-[04:29:52] [Server thread/INFO]: [Not Secure] <Officie> denme comida
-[04:29:57] [Server thread/INFO]: [Not Secure] <klyo> ven
-[04:30:10] [Server thread/INFO]: [Not Secure] <Officie> que fea eta mielda
-[04:30:10] [Server thread/INFO]: [Not Secure] <klyo> miralo ahi al palomo ese
-[04:30:12] [Server thread/INFO]: [Not Secure] <Officie> me encanta
-[04:30:20] [Server thread/INFO]: [Not Secure] <Officie> wey ariel klk
-[04:30:25] [Server thread/INFO]: [Not Secure] <faribel> E
-[04:30:29] [Server thread/INFO]: [Not Secure] <klyo> dime
-[04:30:38] [Server thread/INFO]: [Not Secure] <klyo> mira a jose ahi
-[04:30:40] [Server thread/INFO]: [Not Secure] <Officie> wey DENME COMIDA
-[04:30:41] [Server thread/INFO]: [Not Secure] <klyo> entrale
-[04:30:50] [Server thread/INFO]: [Not Secure] <Officie> yo le entro a todito si me dan comida
-[04:31:08] [Server thread/INFO]: [Not Secure] <Officie> Y ETA VAINA
-[04:31:11] [Server thread/INFO]: [Not Secure] <Officie> COOLDOWN PA COME
-[04:31:13] [Server thread/INFO]: [Not Secure] <Officie> TMM
-[04:31:22] [Server thread/INFO]: [Not Secure] <faribel> aprende
-[04:31:24] [Server thread/INFO]: [Not Secure] <faribel> tonto
-[04:31:36] [Server thread/INFO]: [Not Secure] <SaidKiller__> mira un palomo hahah
-[04:31:43] [Server thread/INFO]: [Not Secure] <Officie> wey jose te tan hablando
-[04:32:01] [Server thread/INFO]: [Not Secure] <DTav> como se nota que lo hizo jose
-[04:32:05] [Server thread/INFO]: [Not Secure] <DTav> XD
-[04:32:38] [Server thread/INFO]: [Not Secure] <Officie> cuando se hace de dia eta m
-[04:32:49] [Server thread/INFO]: [Not Secure] <faribel> de aqui al jueve
-[04:32:56] [Server thread/INFO]: [Not Secure] <Officie> falta pila
-[04:33:53] [Server thread/INFO]: [Not Secure] <Officie> llego el jueve
-[04:34:32] [Server thread/INFO]: Officie has made the advancement [Monster Hunter]
-[04:34:54] [Server thread/INFO]: SaidKiller__ was slain by faribel
-[04:36:18] [Server thread/INFO]: Officie has made the advancement [Stone Age]
-[04:37:13] [Server thread/INFO]: [Not Secure] <Officie> como hago que no me apareca en la pantalla lo que tengo adentro del inv
-[04:37:17] [Server thread/INFO]: [Not Secure] <Officie> que aparece flotando esa mld
-[04:37:24] [Server thread/INFO]: [Not Secure] <klyo> eso es asi
-[04:37:28] [Server thread/INFO]: [Not Secure] <Officie> que diparate
-[04:37:33] [Server thread/INFO]: [Not Secure] <klyo> dale a la o creo
-[04:37:39] [Server thread/INFO]: [Not Secure] <Officie> GRACIA
-[04:37:42] [Server thread/INFO]: [Not Secure] <klyo> OK
-[04:37:46] [Server thread/INFO]: [Not Secure] <Officie> QUE MOLESTO ERA ESA MLD
-[04:37:57] [Server thread/INFO]: [Not Secure] <faribel> baja el tamano del gui tonto
-[04:38:07] [Server thread/INFO]: [Not Secure] <Officie> quien eh tamano
-[04:38:23] [Server thread/INFO]: [Not Secure] <SaidKiller__> dale a la i para quitarlo
-[04:38:30] [Server thread/INFO]: [Not Secure] <Officie> gracia gracia
-[04:38:33] [Server thread/INFO]: [Not Secure] <Officie> un beso a todas
-[04:38:40] [Server thread/INFO]: [Not Secure] <SaidKiller__> diablo que rico
-[04:40:18] [Server thread/INFO]: Officie has made the advancement [Getting an Upgrade]
-[04:40:35] [Server thread/INFO]: [Not Secure] <Officie> prestenme uno de hierro ahi
-[04:41:10] [Server thread/INFO]: [Not Secure] <Officie> wey eh obligao
-[04:41:44] [Server thread/INFO]: [Not Secure] <Officie> compai
-[04:41:47] [Server thread/INFO]: [Not Secure] <klyo> klk
-[04:41:49] [Server thread/INFO]: [Not Secure] <Officie> dame uno de hierro porfavor
-[04:41:53] [Server thread/INFO]: [Not Secure] <Officie> hay que mendiga en ete server
-[04:41:55] [Server thread/INFO]: Officie has made the advancement [Acquire Hardware]
-[04:41:58] [Server thread/INFO]: [Not Secure] <Officie> gracia
-[04:42:05] [Server thread/INFO]: [Not Secure] <klyo> me debes tu carrera
-[04:42:12] [Server thread/INFO]: [Not Secure] <Officie> tt
-[04:42:37] [Server thread/INFO]: SaidKiller__ has made the advancement [Hot Stuff]
-[04:51:05] [Server thread/INFO]: Officie has reached the goal [So we back in the mine...]
-[04:51:40] [Server thread/INFO]: Officie has made the advancement [Sneak 100]
-[04:51:50] [Server thread/INFO]: [Not Secure] <klyo> gadiel
-[04:51:53] [Server thread/INFO]: [Not Secure] <Officie> dime
-[04:51:59] [Server thread/INFO]: [Not Secure] <klyo> deja los CHETOS
-[04:52:14] [Server thread/INFO]: [Not Secure] <Officie> ariel me paso lo xray que el usa
-[04:52:28] [Server thread/INFO]: [Not Secure] <klyo> pq tu habla de mi en tercera persona :sob:
-[04:53:49] [Server thread/INFO]: [Not Secure] <faribel> give jose tetas
-[04:54:00] [Server thread/INFO]: [Not Secure] <klyo> bro se quiere dar tetas :sob:
-[04:58:04] [Server thread/INFO]: Officie has made the advancement [Isn't It Iron Pick]
-[04:58:28] [Server thread/INFO]: [Not Secure] <faribel> gadiel
-[04:58:32] [Server thread/INFO]: [Not Secure] <Officie> eo
-[04:58:38] [Server thread/INFO]: [Not Secure] <faribel> pica un arbol agachao con una hacha
-[04:58:47] [Server thread/INFO]: [Not Secure] <Officie> pa que te de to?
-[04:58:50] [Server thread/INFO]: [Not Secure] <faribel> zi
-[04:58:52] [Server thread/INFO]: [Not Secure] <Officie> gracia
-[04:58:58] [Server thread/INFO]: [Not Secure] <Officie> ya hice eso porque soy un trihald
-[04:59:03] [Server thread/INFO]: [Not Secure] <faribel> gracias
-[04:59:36] [Server thread/INFO]: Officie has made the advancement [Not Today, Thank You]
-[05:01:54] [Server thread/INFO]: [Not Secure] <faribel> no hemos ido al nether aun
-[05:02:05] [Server thread/INFO]: [Not Secure] <klyo> yo soy faribel
-[05:02:13] [Server thread/INFO]: [Not Secure] <Officie> hoy no, gracias
-[05:02:18] [Server thread/INFO]: [Not Secure] <Officie> mi nuevo logro
-[05:02:26] [Server thread/INFO]: [Not Secure] <faribel> gracias loco
-[05:02:29] [Server thread/INFO]: [Not Secure] <klyo> LOCO TRADUCE ESTO
-[05:02:34] [Server thread/INFO]: [Not Secure] <klyo> KONICHIGUA
-[05:02:38] [Server thread/INFO]: [Not Secure] <Officie> gomenasai
-[05:02:59] [Server thread/INFO]: [Not Secure] <klyo> tenias que traducirlo :heartbroken: :sob:
-[05:07:27] [Server thread/INFO]: SaidKiller__ has reached the goal [You Need a Mint]
-[05:08:06] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-156, 4, -82]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[05:10:21] [Server thread/INFO]: faribel died
-[05:10:25] [Server thread/INFO]: faribel was not rescued in time
-[05:10:35] [Server thread/INFO]: Officie has made the advancement [Suit Up]
-[05:10:59] [Server thread/INFO]: klyo lost connection: Disconnected
-[05:10:59] [Server thread/INFO]: klyo left the game
-[05:12:34] [Worker-Main-3/ERROR]: Recoverable errors when loading section [-156, 4, -82]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[05:14:21] [Server thread/INFO]: Officie has made the advancement [Diamonds!]
-[05:14:29] [Server thread/INFO]: [Not Secure] <DTav> felicidade
-[05:14:32] [Server thread/INFO]: [Not Secure] <Officie> gracia gracia
-[05:20:52] [Server thread/INFO]: faribel died
-[05:20:54] [Server thread/INFO]: faribel was not rescued in time
-[05:29:32] [Server thread/INFO]: Officie has made the advancement [Ice Bucket Challenge]
-[05:30:27] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-156, 4, -82]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[05:34:43] [Server thread/INFO]: [Not Secure] <faribel> hazte tu mochila gandiel
-[05:35:03] [Server thread/INFO]: [Not Secure] <Officie> no tengo cuero
-[05:35:09] [Server thread/INFO]: [Not Secure] <Officie> precisamente el cuero de vaca no de mujere
-[05:35:11] [Server thread/INFO]: [Not Secure] <faribel> q bruto
-[05:35:13] [Server thread/INFO]: [Not Secure] <faribel> no tiene cuero
-[05:35:15] [Server thread/INFO]: [Not Secure] <DTav> encuerate
-[05:35:19] [Server thread/INFO]: [Not Secure] <Officie> a po gracia
-[05:35:32] [Server thread/INFO]: [Not Secure] <DTav> de nalga
-[05:47:31] [Server thread/INFO]: [Not Secure] <SaidKiller__> xaero-waypoint:cueva:C:-2295:-10:-829:1:false:0:Internal-overworld
-[05:48:04] [Server thread/INFO]: Villager class_1646['Farmer'/154303, l='ServerLevel[world]', x=-917.30, y=63.00, z=-1855.30] died, message: 'Farmer was slain by Zombie'
-[05:48:10] [Server thread/INFO]: Officie has reached the goal [advancement.luistercorp.dragon_fruit.carro_ambulante.title]
-[05:48:23] [Server thread/INFO]: [Not Secure] <faribel> barbaro gadiel hackeaste el server
-[05:48:27] [Server thread/INFO]: [Not Secure] <Officie> tu sabe
-[05:48:34] [Server thread/INFO]: [Not Secure] <Officie> como me intetate hackea ami
-[05:48:39] [Server thread/INFO]: [Not Secure] <Officie> poniendome a intala to eta vaina
-[05:48:57] [Server thread/INFO]: [Not Secure] <faribel> eso e por bueno q tu ta loco
-[05:49:18] [Server thread/INFO]: [Not Secure] <Officie> no lo puedo evitar
-[05:53:08] [Server thread/INFO]: [Not Secure] <Officie> hola linda
-[05:53:16] [Server thread/INFO]: [Not Secure] <DTav> holi
-[05:53:29] [Server thread/INFO]: [Not Secure] <DTav> te gusta mi casa?
-[05:53:36] [Server thread/INFO]: Villager class_1646['Farmer'/166306, l='ServerLevel[world]', x=-2324.74, y=71.25, z=-905.49] died, message: 'Farmer was slain by Zombie'
-[05:53:44] [Server thread/INFO]: [Not Secure] <Officie> esta curiosita como tu
-[05:53:54] [Server thread/INFO]: [Not Secure] <DTav> :(
-[05:54:01] [Server thread/INFO]: [Not Secure] <Officie> pero de la buena manera
-[05:54:09] [Server thread/INFO]: [Not Secure] <DTav> :)
-[06:07:57] [Server thread/INFO]: Officie has made the advancement [A Major Trial Of Strength]
-[06:08:02] [Server thread/INFO]: [Not Secure] <DTav> felicidades
-[06:08:10] [Server thread/INFO]: [Not Secure] <Officie> yo no me meto a eso ni loco
-[06:08:23] [Server thread/INFO]: [Not Secure] <DTav> metemelo entonce
-[06:08:28] [Server thread/INFO]: [Not Secure] <Officie> soy loco entonce
-[06:11:43] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=216, y=47, z=211}
-[06:12:27] [Server thread/INFO]: Officie has made the advancement [Safe Haven]
-[06:12:48] [Server thread/INFO]: [Not Secure] <Officie> una pregunta
-[06:12:51] [Server thread/INFO]: [Not Secure] <faribel> No
-[06:12:54] [Server thread/INFO]: [Not Secure] <Officie> y en eta mielda hay ALDEA coño
-[06:13:00] [Server thread/INFO]: [Not Secure] <DTav> unta gunta
-[06:13:02] [Server thread/INFO]: [Not Secure] <faribel> obvio
-[06:13:03] [Server thread/INFO]: [Not Secure] <Officie> porque vivo bucando y no jayo
-[06:13:07] [Server thread/INFO]: [Not Secure] <Officie> me aparecen
-[06:13:09] [Server thread/INFO]: [Not Secure] <Officie> mieldita de aldeano
-[06:13:12] [Server thread/INFO]: [Not Secure] <Officie> pero no ALDEA
-[06:13:16] [Server thread/INFO]: DTav has made the advancement [Ice Bucket Challenge]
-[06:13:34] [Server thread/INFO]: [Not Secure] <faribel> tienes que viajar
-[06:13:36] [Server thread/INFO]: [Not Secure] <faribel> pa encontrar
-[06:13:44] [Server thread/INFO]: [Not Secure] <Officie> toy haciendo eso
-[06:14:29] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=217, y=48, z=159}
-[06:14:35] [Worker-Main-1/WARN]: [net.minecraft.class_3499] Serialization errors:
-:
-  waystones:waystone // net.blay09.mods.waystones.block.entity.WaystoneBlockEntity@class_2338{x=-2951, y=66, z=1006}: Expected field 'Items' to contain value of type LIST, but got COMPOUND
-  waystones:waystone // net.blay09.mods.waystones.block.entity.WaystoneBlockEntity@class_2338{x=-2951, y=67, z=1006}: Expected field 'Items' to contain value of type LIST, but got COMPOUND
-[06:15:25] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=216, y=47, z=211}
-[06:15:26] [Server thread/INFO]: DTav has made the advancement [Enchanter]
-[06:15:41] [Server thread/INFO]: [Not Secure] <Officie> encanto su pico de madera
-[06:17:36] [Worker-Main-1/ERROR]: Detected setBlock in a far chunk [-168, 28], pos: class_2339{x=-2688, y=-14, z=458}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_tuff]
-[06:17:36] [Worker-Main-1/ERROR]: Detected setBlock in a far chunk [-168, 28], pos: class_2339{x=-2688, y=-13, z=458}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_tuff]
-[06:17:41] [Worker-Main-2/ERROR]: Detected setBlock in a far chunk [-168, 33], pos: class_2339{x=-2676, y=28, z=528}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_diorite_lower]
-[06:17:41] [Worker-Main-2/ERROR]: Detected setBlock in a far chunk [-168, 33], pos: class_2339{x=-2676, y=29, z=528}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_diorite_lower]
-[06:20:02] [Server thread/INFO]: Villager class_1646['Villager'/213714, l='ServerLevel[world]', x=-3119.50, y=105.02, z=227.15] died, message: 'Villager suffocated in a wall'
-[06:20:07] [Server thread/INFO]: [Not Secure] <Officie> EEEEEL DIABLOOO
-[06:20:11] [Server thread/INFO]: [Not Secure] <Officie> Y ESA MALDITASA ALDEA
-[06:20:14] [Server thread/INFO]: [Not Secure] <faribel> XD
-[06:20:16] [Server thread/INFO]: [Not Secure] <DTav> vite
-[06:20:21] [Server thread/INFO]: [Not Secure] <faribel> una ciudad e
-[06:20:25] [Server thread/INFO]: [Not Secure] <Officie> PP TIENEN UN GUEBO EN EL TEJADO
-[06:20:32] [Server thread/INFO]: [Not Secure] <DTav> ta parao?
-[06:20:32] [Server thread/INFO]: [Not Secure] <faribel> como asi
-[06:20:36] [Server thread/INFO]: [Not Secure] <Officie> TA PARAO PARAO
-[06:20:38] [Server thread/INFO]: [Not Secure] <Officie> Y ROSITA
-[06:20:48] [Server thread/INFO]: [Not Secure] <Officie> LOCO YO SOY EL HOMBRE MAS FELIZ AHORA MIMO
-[06:20:57] [Server thread/INFO]: [Not Secure] <Officie> VOY A ESCLAVISAR DEMASIADO
-[06:21:00] [Server thread/INFO]: [Not Secure] <DTav> pq no horita
-[06:21:10] [Server thread/INFO]: [Not Secure] <Officie> porque hoy en semana
-[06:21:24] [Server thread/INFO]: [Not Secure] <DTav> gadiel no
-[06:21:30] [Server thread/INFO]: [Not Secure] <DTav> tu no
-[06:21:42] [Server thread/INFO]: [Not Secure] <Officie> que paso
-[06:21:54] [Server thread/INFO]: [Not Secure] <DTav> que pasas
-[06:22:01] [Server thread/INFO]: [Not Secure] <DTav> pasa?
-[06:22:09] [Server thread/INFO]: [Not Secure] <DTav> ola ola, pasap sa
-[06:22:12] [Server thread/INFO]: [Not Secure] <DTav> mmg
-[06:22:15] [Server thread/INFO]: [Not Secure] <Officie> tmm
-[06:26:29] [Server thread/INFO]: [Not Secure] <Officie> hablamo mañana señore
-[06:26:34] [Server thread/INFO]: [Not Secure] <DTav> ba bai
-[06:26:34] [Server thread/INFO]: [Not Secure] <Officie> voy a sali temprano mañana
-[06:26:38] [Server thread/INFO]: [Not Secure] <Officie> pasen buena noche
-[06:26:40] [Server thread/INFO]: [Not Secure] <faribel> hablamo el marte bb
-[06:26:46] [Server thread/INFO]: [Not Secure] <Officie> nos vemos baby
-[06:26:50] [Server thread/INFO]: Officie lost connection: Disconnected
-[06:26:50] [Server thread/INFO]: Officie left the game
-[06:27:24] [Worker-Main-2/ERROR]: Recoverable errors when loading section [-156, 4, -82]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[06:33:04] [Server thread/INFO]: Made faribel a server operator
-[06:33:12] [Server thread/INFO]: [faribel: Killed 363 entities]
-[06:33:19] [Server thread/INFO]: [faribel: Made faribel no longer a server operator]
-[06:39:00] [Worker-Main-2/ERROR]: Recoverable errors when loading section [-156, 4, -82]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[06:43:18] [Server thread/INFO]: faribel died
-[06:43:21] [Server thread/INFO]: faribel was not rescued in time
-[06:47:14] [Worker-Main-2/ERROR]: Recoverable errors when loading section [-156, 4, -82]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
-[06:47:52] [Server thread/INFO]: Made faribel a server operator
-[06:47:58] [Server thread/INFO]: [faribel: Teleported faribel to -2109.500000, -38.500000, -1226.500000]
-[06:48:21] [Server thread/INFO]: [faribel: Made faribel no longer a server operator]
-[07:18:06] [Server thread/INFO]: [Not Secure] <faribel> alzarfata
-[07:22:15] [Server thread/INFO]: faribel fell from a high place
-[07:22:18] [Server thread/INFO]: faribel was not rescued in time
-[07:40:54] [Server thread/INFO]: DTav lost connection: Disconnected
-[07:40:54] [Server thread/INFO]: DTav left the game
-[07:43:04] [Server thread/INFO]: faribel has made the advancement [Enchanter]
-[07:50:08] [Server thread/INFO]: faribel has made the advancement [A Throwaway Joke]
-[07:50:11] [Server thread/INFO]: SaidKiller__ has made the advancement [A Throwaway Joke]
-[07:52:54] [Server thread/INFO]: faribel has made the advancement [Fishy Business]
-[07:57:26] [Server thread/INFO]: SaidKiller__ lost connection: Disconnected
-[07:57:26] [Server thread/INFO]: SaidKiller__ left the game
-[07:58:11] [Server thread/INFO]: faribel lost connection: Disconnected
-[07:58:11] [Server thread/INFO]: faribel left the game
+[16:47:01] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/gueboland/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[16:47:01] [main/INFO]: Compatibility level set to JAVA_18
+[16:47:01] [main/INFO]: Compatibility level set to JAVA_21
+[16:47:02] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:47:02] [main/WARN]: Reference map 'harvest_with_ease.refmap.json' for harvest_with_ease.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:47:02] [main/WARN]: Reference map 'harvest_with_ease.refmap.json' for harvest_with_ease.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:47:02] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
+[16:47:02] [main/INFO]: Loaded configuration file for Lithium: 160 options available, 0 override(s) found.
+[16:47:03] [main/WARN]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity)
+[16:47:03] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[16:47:11] [main/INFO]: Initializing Everlasting Amber Dreams on Fabric...
+[16:47:11] [main/INFO]: Amber internal networking initialized
+[16:47:11] [main/INFO]: Successfully initialized antixray for fabric
+[16:47:11] [main/INFO]: Loading Collective version 8.4.
+[16:47:12] [main/INFO]: [Dynamic Lights] MidnightLib detected!
+[16:47:12] [main/INFO]: [Dynamic Lights] Registering server started event ...
+[16:47:12] [main/INFO]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
+[16:47:12] [main/INFO]: [STDOUT]: All 20 have been set properly
+[16:47:12] [main/INFO]: Constructing components for puzzleslib:common
+[16:47:12] [main/INFO]: Config 'appearance.json' from type 'CLIENT' was skipped.
+[16:47:13] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
+[16:47:13] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REICommonPlugin
+[16:47:13] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REICommonPlugin
+[16:47:13] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REICommonPlugin
+[16:47:13] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
+[16:47:13] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
+[16:47:13] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
+[16:47:13] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
+[16:47:13] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items_new
+[16:47:13] [main/INFO]: Initializing Silk
+[16:47:13] [main/INFO]: TorchToss initializing...
+[16:47:13] [main/INFO]: Veinminer Version: 2.4.8 (fabric)
+[16:47:13] [DefaultDispatcher-worker-3/INFO]: [STDOUT]: [VeinminerUpdater] veinminer is outdated (1.21.8). Installed: 2.4.8 -> Latest: 2.4.9
+[16:47:13] [main/INFO]: Loading configuration...
+[16:47:14] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:47:14] [main/WARN]: Pack file/Ender-Dragon-Fight-Remastered-5.0.zip declared support for versions [32, 48] but declared main format is 81, defaulting to 81
+[16:47:15] [main/ERROR]: Invalid path in mod resource-pack mr_blooming_biosphere: blooming_biosphere:worldgen/configured_feature/cliff/beach copy.json, ignoring
+[16:47:17] [Worker-Main-3/INFO]: Registering Amber commands for Fabric
+[16:47:19] [main/INFO]: Loaded 1483 recipes
+[16:47:19] [main/ERROR]: Couldn't load advancements: [catenary:recipes/paper_lanterns, catenary:rocket/placed, eroxified2:custom_block/data/block/catenary/workbench/placed, eroxified2:custom_block/data/block/catenary/zipline_mount_pad/placed, catenary:recipes/workbench, eroxified2:custom_block/data/block/catenary/workbench/on_default_block_use, catenary:recipes/zipline_lift_upgrade, eroxified2:interaction/internal/rclick, eroxified2:interaction/internal/lclick, catenary:recipes/zipline_mount_pad]
+[16:47:19] [main/INFO]: Loaded 1728 advancements
+[16:47:19] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 58 translation keys
+[16:47:19] [main/INFO]: Applied 77 biome modifications to 74 of 83 new biomes in 9.938 ms
+[16:47:19] [Server thread/INFO]: Initialized mcCoroutineScope (MinecraftServer as executor)
+[16:47:19] [Server thread/INFO]: [MobFilter] Loading config from /workspaces/gueboland/servidor_minecraft/config/mobfilter.json5
+[16:47:19] [Server thread/INFO]: [MobFilter] 2 rule(s) loaded:
+[16:47:19] [Server thread/INFO]: - FilterRule[ruleName=Reduce hostile mobs at night in Overworld, checks=[CategoryCheck[categories=[MONSTER]], DimensionCheck[dimensionMatcher=[minecraft:overworld][]], TimeOfDayCheck[min=12000, max=24000], RandomCheck[odds=0.1]], action=DISALLOW_SPAWN]
+[16:47:19] [Server thread/INFO]: - FilterRule[ruleName=Allow all other spawns, checks=[], action=ALLOW_SPAWN]
+[16:47:19] [Server thread/INFO]: [MobFilter] Log level is INFO
+[16:47:19] [Server thread/INFO]:         __    
+[16:47:19] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.10
+[16:47:19] [Server thread/INFO]:   |___ |      Running on Fabric - fabric@0.130.0+1.21.8
+[16:47:19] [Server thread/INFO]: 
+[16:47:19] [Server thread/INFO]: Loading storage provider... [H2]
+[16:47:20] [Server thread/INFO]: Loading internal permission managers...
+[16:47:20] [Server thread/INFO]: Performing initial data load...
+[16:47:20] [Server thread/INFO]: Successfully enabled. (took 449ms)
+[16:47:20] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[16:47:20] [Server thread/INFO]: Loading properties
+[16:47:20] [Server thread/INFO]: Default game type: SURVIVAL
+[16:47:20] [Server thread/INFO]: Generating keypair
+[16:47:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:47:20] [Server thread/INFO]: Using epoll channel type
+[16:47:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:47:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:47:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:47:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:47:20] [Server thread/INFO]: Preparing level "world"
+[16:47:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:47:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:47:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:47:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:47:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:47:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:47:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:47:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:47:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:47:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:47:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:47:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:47:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:47:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:47:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:47:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:47:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:47:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:47:30] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:47:30] [Server thread/INFO]: Time elapsed: 8672 ms
+[16:47:30] [Server thread/INFO]: Done (9.783s)! For help, type "help"
+[16:47:30] [Server thread/INFO]: [REI] ----------------------------------------
+[16:47:30] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for START.
+[16:47:30] [Server thread/INFO]: [REI] Plugins (3):
+[16:47:30] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[16:47:30] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[16:47:30] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[16:47:30] [Server thread/INFO]: [REI] ----------------------------------------
+[16:47:30] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for START in 2.410 ms, totaling 106.6 ms.
+[16:47:30] [Server thread/INFO]: [REI] ########################################
+[16:47:30] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for END.
+[16:47:30] [Server thread/INFO]: [REI] Plugins (3):
+[16:47:30] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[16:47:30] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[16:47:30] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[16:47:30] [Server thread/INFO]: [REI] ########################################
+[16:47:30] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for END in 2.276 ms, totaling 112.3 ms.
+[16:47:30] [Server thread/INFO]: [Dynamic Lights] Sending global config to world ...
+[16:48:30] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[16:51:23] [Server thread/INFO]: faribel[/100.102.41.71:5553] logged in with entity id 55 at (-1522.8928080439443, 96.0, -1689.1277664057557)
+[16:51:23] [Server thread/INFO]: Syncing Server Configs with Client
+[16:51:23] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
+[16:51:23] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
+[16:51:23] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
+[16:51:23] [Server thread/INFO]: faribel joined the game
+[16:51:24] [ForkJoinPool.commonPool-worker-4/INFO]: Loaded 1 player data objects (took 0s 406ms)
+[16:51:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[16:52:06] [Server thread/INFO]: DTav[/100.64.141.62:6085] logged in with entity id 396 at (-1389.0103484040485, 52.0, -1665.823170240071)
+[16:52:06] [Server thread/INFO]: Syncing Server Configs with Client
+[16:52:06] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
+[16:52:06] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
+[16:52:06] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
+[16:52:06] [Server thread/INFO]: DTav joined the game
+[16:52:06] [ForkJoinPool.commonPool-worker-5/INFO]: Loaded 1 player data objects (took 0s 333ms)
+[16:53:48] [Server thread/INFO]: klyo[/100.114.68.51:51470] logged in with entity id 1363 at (-1383.5, 67.5625, -1666.5)
+[16:53:48] [Server thread/INFO]: Syncing Server Configs with Client
+[16:53:48] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
+[16:53:48] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
+[16:53:48] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
+[16:53:48] [Server thread/INFO]: klyo joined the game
+[16:53:48] [ForkJoinPool.commonPool-worker-4/INFO]: Loaded 1 player data objects (took 0s 370ms)
+[16:54:04] [Server thread/INFO]: DTav lost connection: Disconnected
+[16:54:04] [Server thread/INFO]: DTav left the game
+[16:54:10] [Server thread/INFO]: DTav[/100.64.141.62:6482] logged in with entity id 1607 at (-1389.831533162954, 67.0, -1668.0405405499293)
+[16:54:10] [Server thread/INFO]: Loaded 1 player data objects (took 0s 0ms)
+[16:54:10] [Server thread/INFO]: Syncing Server Configs with Client
+[16:54:10] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
+[16:54:10] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
+[16:54:10] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
+[16:54:10] [Server thread/INFO]: DTav joined the game
