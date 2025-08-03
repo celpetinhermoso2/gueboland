@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-08-03 05:59:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-08-03 04:36:01 +0000"
@@ -32,6 +38,12 @@
   "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-08-03 05:14:30 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_shrine": {
+    "criteria": {
+      "shrine_combat": "2025-08-03 06:07:57 +0000"
     },
     "done": true
   },
@@ -62,6 +74,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-03 04:46:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-08-03 05:59:09 +0000"
     },
     "done": true
   },
@@ -116,6 +134,12 @@
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-08-03 04:50:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-08-03 06:01:04 +0000"
     },
     "done": true
   },
@@ -395,6 +419,12 @@
     },
     "done": true
   },
+  "onlyhammers:recipes/tools/emerald_hammer": {
+    "criteria": {
+      "has_emerald": "2025-08-03 06:14:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-08-03 04:51:03 +0000"
@@ -467,6 +497,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 05:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/pale_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 05:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-08-03 05:59:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-08-03 04:41:55 +0000"
@@ -533,9 +581,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-08-03 06:14:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-03 04:46:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 05:54:20 +0000"
     },
     "done": true
   },
@@ -548,6 +608,12 @@
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-03 04:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 05:54:20 +0000"
     },
     "done": true
   },
@@ -633,6 +699,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-08-03 04:41:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 05:54:20 +0000"
     },
     "done": true
   },
@@ -774,15 +846,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-08-03 05:59:09 +0000"
+    },
+    "done": true
+  },
   "hopo:minecraft/adventure/locate_all_underwater_structures": {
     "criteria": {
       "locate_shipwreck": "2025-08-03 05:43:41 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 05:54:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2025-08-03 05:01:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/saddle": {
+    "criteria": {
+      "has_leather": "2025-08-03 05:59:09 +0000"
     },
     "done": true
   },
@@ -831,6 +921,18 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-08-03 05:46:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 05:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 05:54:20 +0000"
     },
     "done": true
   },
@@ -972,6 +1074,12 @@
     },
     "done": true
   },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-08-03 06:12:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-03 04:42:35 +0000"
@@ -1032,6 +1140,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 05:54:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-03 04:42:35 +0000"
@@ -1080,6 +1194,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-08-03 05:54:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-08-03 05:14:30 +0000"
@@ -1095,6 +1215,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-08-03 04:41:55 +0000"
+    },
+    "done": true
+  },
+  "resource_backpacks:recipes/misc/backpack_leather": {
+    "criteria": {
+      "has_leather": "2025-08-03 05:59:09 +0000"
     },
     "done": true
   },
@@ -1155,6 +1281,12 @@
   "minecraft:recipes/decorations/tuff_wall": {
     "criteria": {
       "has_tuff": "2025-08-03 05:14:30 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_spruce": "2025-08-03 06:12:27 +0000"
     },
     "done": true
   },
@@ -1251,6 +1383,12 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-08-03 04:37:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-08-03 05:59:09 +0000"
     },
     "done": true
   },
@@ -1482,6 +1620,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-08-03 06:21:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-03 04:45:35 +0000"
@@ -1516,10 +1660,15 @@
     "criteria": {
       "minecraft:beach": "2025-08-03 04:44:03 +0000",
       "minecraft:dark_forest": "2025-08-03 04:26:00 +0000",
+      "minecraft:mushroom_fields": "2025-08-03 05:58:42 +0000",
       "minecraft:forest": "2025-08-03 05:50:32 +0000",
       "minecraft:taiga": "2025-08-03 04:28:05 +0000",
-      "minecraft:ocean": "2025-08-03 04:53:06 +0000",
+      "minecraft:deep_ocean": "2025-08-03 05:57:21 +0000",
       "minecraft:river": "2025-08-03 04:27:58 +0000",
+      "minecraft:old_growth_birch_forest": "2025-08-03 06:12:10 +0000",
+      "minecraft:ocean": "2025-08-03 04:53:06 +0000",
+      "minecraft:cherry_grove": "2025-08-03 06:18:05 +0000",
+      "minecraft:meadow": "2025-08-03 06:17:21 +0000",
       "minecraft:birch_forest": "2025-08-03 04:43:24 +0000",
       "minecraft:plains": "2025-08-03 05:45:37 +0000"
     },
@@ -1534,6 +1683,12 @@
   "onlyhammers:recipes/tools/lapis_hammer": {
     "criteria": {
       "has_lapis_lazuli": "2025-08-03 04:50:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-08-03 05:59:09 +0000"
     },
     "done": true
   },
@@ -1594,6 +1749,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-08-03 04:53:58 +0000",
+      "bread": "2025-08-03 05:56:01 +0000",
       "cooked_chicken": "2025-08-03 04:59:52 +0000",
       "rotten_flesh": "2025-08-03 04:31:17 +0000",
       "cooked_cod": "2025-08-03 05:41:44 +0000",
@@ -1678,6 +1834,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-08-03 05:14:21 +0000"
+    },
+    "done": true
+  },
+  "resource_backpacks:recipes/misc/backpack_copper": {
+    "criteria": {
+      "has_backpack_leather": "2025-08-03 06:01:26 +0000"
     },
     "done": true
   },

@@ -540,3 +540,60 @@
 [05:53:54] [Server thread/INFO]: [Not Secure] <DTav> :(
 [05:54:01] [Server thread/INFO]: [Not Secure] <Officie> pero de la buena manera
 [05:54:09] [Server thread/INFO]: [Not Secure] <DTav> :)
+[06:07:57] [Server thread/INFO]: Officie has made the advancement [A Major Trial Of Strength]
+[06:08:02] [Server thread/INFO]: [Not Secure] <DTav> felicidades
+[06:08:10] [Server thread/INFO]: [Not Secure] <Officie> yo no me meto a eso ni loco
+[06:08:23] [Server thread/INFO]: [Not Secure] <DTav> metemelo entonce
+[06:08:28] [Server thread/INFO]: [Not Secure] <Officie> soy loco entonce
+[06:11:43] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=216, y=47, z=211}
+[06:12:27] [Server thread/INFO]: Officie has made the advancement [Safe Haven]
+[06:12:48] [Server thread/INFO]: [Not Secure] <Officie> una pregunta
+[06:12:51] [Server thread/INFO]: [Not Secure] <faribel> No
+[06:12:54] [Server thread/INFO]: [Not Secure] <Officie> y en eta mielda hay ALDEA coño
+[06:13:00] [Server thread/INFO]: [Not Secure] <DTav> unta gunta
+[06:13:02] [Server thread/INFO]: [Not Secure] <faribel> obvio
+[06:13:03] [Server thread/INFO]: [Not Secure] <Officie> porque vivo bucando y no jayo
+[06:13:07] [Server thread/INFO]: [Not Secure] <Officie> me aparecen
+[06:13:09] [Server thread/INFO]: [Not Secure] <Officie> mieldita de aldeano
+[06:13:12] [Server thread/INFO]: [Not Secure] <Officie> pero no ALDEA
+[06:13:16] [Server thread/INFO]: DTav has made the advancement [Ice Bucket Challenge]
+[06:13:34] [Server thread/INFO]: [Not Secure] <faribel> tienes que viajar
+[06:13:36] [Server thread/INFO]: [Not Secure] <faribel> pa encontrar
+[06:13:44] [Server thread/INFO]: [Not Secure] <Officie> toy haciendo eso
+[06:14:29] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=217, y=48, z=159}
+[06:14:35] [Worker-Main-1/WARN]: [net.minecraft.class_3499] Serialization errors:
+:
+  waystones:waystone // net.blay09.mods.waystones.block.entity.WaystoneBlockEntity@class_2338{x=-2951, y=66, z=1006}: Expected field 'Items' to contain value of type LIST, but got COMPOUND
+  waystones:waystone // net.blay09.mods.waystones.block.entity.WaystoneBlockEntity@class_2338{x=-2951, y=67, z=1006}: Expected field 'Items' to contain value of type LIST, but got COMPOUND
+[06:15:25] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=216, y=47, z=211}
+[06:15:26] [Server thread/INFO]: DTav has made the advancement [Enchanter]
+[06:15:41] [Server thread/INFO]: [Not Secure] <Officie> encanto su pico de madera
+[06:17:36] [Worker-Main-1/ERROR]: Detected setBlock in a far chunk [-168, 28], pos: class_2339{x=-2688, y=-14, z=458}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_tuff]
+[06:17:36] [Worker-Main-1/ERROR]: Detected setBlock in a far chunk [-168, 28], pos: class_2339{x=-2688, y=-13, z=458}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_tuff]
+[06:17:41] [Worker-Main-2/ERROR]: Detected setBlock in a far chunk [-168, 33], pos: class_2339{x=-2676, y=28, z=528}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_diorite_lower]
+[06:17:41] [Worker-Main-2/ERROR]: Detected setBlock in a far chunk [-168, 33], pos: class_2339{x=-2676, y=29, z=528}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_diorite_lower]
+[06:20:02] [Server thread/INFO]: Villager class_1646['Villager'/213714, l='ServerLevel[world]', x=-3119.50, y=105.02, z=227.15] died, message: 'Villager suffocated in a wall'
+[06:20:07] [Server thread/INFO]: [Not Secure] <Officie> EEEEEL DIABLOOO
+[06:20:11] [Server thread/INFO]: [Not Secure] <Officie> Y ESA MALDITASA ALDEA
+[06:20:14] [Server thread/INFO]: [Not Secure] <faribel> XD
+[06:20:16] [Server thread/INFO]: [Not Secure] <DTav> vite
+[06:20:21] [Server thread/INFO]: [Not Secure] <faribel> una ciudad e
+[06:20:25] [Server thread/INFO]: [Not Secure] <Officie> PP TIENEN UN GUEBO EN EL TEJADO
+[06:20:32] [Server thread/INFO]: [Not Secure] <DTav> ta parao?
+[06:20:32] [Server thread/INFO]: [Not Secure] <faribel> como asi
+[06:20:36] [Server thread/INFO]: [Not Secure] <Officie> TA PARAO PARAO
+[06:20:38] [Server thread/INFO]: [Not Secure] <Officie> Y ROSITA
+[06:20:48] [Server thread/INFO]: [Not Secure] <Officie> LOCO YO SOY EL HOMBRE MAS FELIZ AHORA MIMO
+[06:20:57] [Server thread/INFO]: [Not Secure] <Officie> VOY A ESCLAVISAR DEMASIADO
+[06:21:00] [Server thread/INFO]: [Not Secure] <DTav> pq no horita
+[06:21:10] [Server thread/INFO]: [Not Secure] <Officie> porque hoy en semana
+[06:21:24] [Server thread/INFO]: [Not Secure] <DTav> gadiel no
+[06:21:30] [Server thread/INFO]: [Not Secure] <DTav> tu no
+[06:21:42] [Server thread/INFO]: [Not Secure] <Officie> que paso
+[06:21:54] [Server thread/INFO]: [Not Secure] <DTav> que pasas
+[06:22:01] [Server thread/INFO]: [Not Secure] <DTav> pasa?
+[06:22:09] [Server thread/INFO]: [Not Secure] <DTav> ola ola, pasap sa
+[06:22:12] [Server thread/INFO]: [Not Secure] <DTav> mmg
+[06:22:15] [Server thread/INFO]: [Not Secure] <Officie> tmm
+[06:26:29] [Server thread/INFO]: [Not Secure] <Officie> hablamo mañana señore
+[06:26:34] [Server thread/INFO]: [Not Secure] <DTav> ba bai
