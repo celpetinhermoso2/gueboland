@@ -365,3 +365,15 @@
 [18:30:48] [ForkJoinPool.commonPool-worker-15/INFO]: Loaded 1 player data objects (took 0s 328ms)
 [18:32:54] [Server thread/INFO]: caquitoquito has made the advancement [Safe Haven]
 [18:37:19] [Server thread/WARN]: DTav moved too quickly! -10.10307289579805,0.41999998688697815,1.5571633818140072
+[18:39:35] [Server thread/INFO]: caquitoquito died
+[18:39:53] [Server thread/INFO]: DTav lost connection: Disconnected
+[18:39:53] [Server thread/INFO]: DTav left the game
+[18:40:20] [Server thread/INFO]: caquitoquito died
+[18:40:38] [Server thread/INFO]: DTav[/100.64.141.62:33788] logged in with entity id 93692 at (-1525.8998658525381, 73.0, -1690.880986137283)
+[18:40:38] [Server thread/INFO]: Loaded 1 player data objects (took 0s 0ms)
+[18:40:38] [Server thread/INFO]: Syncing Server Configs with Client
+[18:40:38] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
+[18:40:38] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
+[18:40:38] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
+[18:40:38] [Server thread/INFO]: DTav joined the game
+[18:43:58] [Server thread/INFO]: caquitoquito was shot by Skeleton
