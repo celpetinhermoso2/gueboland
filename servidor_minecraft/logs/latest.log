@@ -340,3 +340,28 @@
 [18:01:11] [Server thread/INFO]: faribel has made the advancement [Eye Spy]
 [18:13:17] [Server thread/INFO]: SaidKiller__ lost connection: Disconnected
 [18:13:17] [Server thread/INFO]: SaidKiller__ left the game
+[18:22:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@428c37b[id=65a25835-9df9-317e-8c7b-2ceb2a2091cf,name=caquitoquito,properties={}] lost connection: Disconnected
+[18:23:29] [Server thread/INFO]: com.mojang.authlib.GameProfile@657b7d84[id=65a25835-9df9-317e-8c7b-2ceb2a2091cf,name=caquitoquito,properties={}] lost connection: Disconnected
+[18:26:38] [Server thread/INFO]: caquitoquito[/100.69.176.22:51056] logged in with entity id 79339 at (-1367.9505566645532, 64.79673560066871, -1653.1584778940396)
+[18:26:38] [Server thread/INFO]: Syncing Server Configs with Client
+[18:26:38] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
+[18:26:38] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
+[18:26:38] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
+[18:26:38] [Server thread/INFO]: caquitoquito joined the game
+[18:26:39] [ForkJoinPool.commonPool-worker-13/INFO]: Loaded 1 player data objects (took 0s 423ms)
+[18:29:15] [Server thread/INFO]: caquitoquito has made the advancement [Sweet Dreams]
+[18:29:18] [Server thread/INFO]: [Not Secure] <caquitoquito> zzz
+[18:29:19] [Server thread/INFO]: [Not Secure] <caquitoquito> zzz
+[18:29:20] [Server thread/INFO]: [Not Secure] <caquitoquito> zzz
+[18:29:21] [Server thread/INFO]: [Not Secure] <caquitoquito> zzz
+[18:29:22] [Server thread/INFO]: [Not Secure] <caquitoquito> zzzzz
+[18:29:23] [Server thread/INFO]: [Not Secure] <Don_Jaiba> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[18:30:48] [Server thread/INFO]: DTav[/100.64.141.62:30475] logged in with entity id 84223 at (-1529.232564363571, 74.0, -1678.4483240584643)
+[18:30:48] [Server thread/INFO]: Syncing Server Configs with Client
+[18:30:48] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
+[18:30:48] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
+[18:30:48] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
+[18:30:48] [Server thread/INFO]: DTav joined the game
+[18:30:48] [ForkJoinPool.commonPool-worker-15/INFO]: Loaded 1 player data objects (took 0s 328ms)
+[18:32:54] [Server thread/INFO]: caquitoquito has made the advancement [Safe Haven]
+[18:37:19] [Server thread/WARN]: DTav moved too quickly! -10.10307289579805,0.41999998688697815,1.5571633818140072

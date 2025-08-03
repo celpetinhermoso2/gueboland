@@ -666,3 +666,7 @@ java.lang.Throwable
 [17:00:14] [Server thread/DEBUG] [REI] Player SaidKiller__ has outdated displays version 0 [latest version: 5E947CAF00000001], sending reset packet request.
 [17:41:19] [Server thread/DEBUG] [REI] Player Don_Jaiba has outdated displays version 0 [latest version: 5E947CAF00000001]
 [17:41:19] [Server thread/DEBUG] [REI] Player Don_Jaiba has outdated displays version 0 [latest version: 5E947CAF00000001], sending reset packet request.
+[18:26:38] [Server thread/DEBUG] [REI] Player caquitoquito has outdated displays version 0 [latest version: 5E947CAF00000001]
+[18:26:38] [Server thread/DEBUG] [REI] Player caquitoquito has outdated displays version 0 [latest version: 5E947CAF00000001], sending reset packet request.
+[18:30:48] [Server thread/DEBUG] [REI] Player DTav has outdated displays version 0 [latest version: 5E947CAF00000001]
+[18:30:48] [Server thread/DEBUG] [REI] Player DTav has outdated displays version 0 [latest version: 5E947CAF00000001], sending reset packet request.
