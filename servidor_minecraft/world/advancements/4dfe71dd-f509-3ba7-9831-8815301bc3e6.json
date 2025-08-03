@@ -3255,6 +3255,12 @@
     },
     "done": true
   },
+  "waystones:recipes/decorations/deepslate_shard": {
+    "criteria": {
+      "has_deepslate": "2025-08-03 03:48:00 +0000"
+    },
+    "done": true
+  },
   "resource_backpacks:recipes/misc/backpack_gold": {
     "criteria": {
       "has_backpack_copper": "2025-08-03 03:33:26 +0000"
@@ -3273,15 +3279,45 @@
     },
     "done": true
   },
+  "onlyhammers:recipes/tools/obsidian_hammer": {
+    "criteria": {
+      "has_obsidian": "2025-08-03 03:49:19 +0000"
+    },
+    "done": true
+  },
   "onlyhammers:recipes/tools/iron_hammer": {
     "criteria": {
       "has_iron_ingot": "2025-08-03 03:32:00 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-08-03 03:49:19 +0000"
+    },
+    "done": true
+  },
   "onlyhammers:recipes/tools/stone_hammer": {
     "criteria": {
       "has_stone": "2025-08-03 03:25:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-08-03 03:49:19 +0000"
+    },
+    "done": true
+  },
+  "onlyhammers:recipes/tools/diamond_hammer": {
+    "criteria": {
+      "has_diamond": "2025-08-03 03:44:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-08-03 03:49:19 +0000"
     },
     "done": true
   },
