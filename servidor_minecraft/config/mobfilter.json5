@@ -5,9 +5,8 @@
       what: "DISALLOW_SPAWN",
       when: {
         dimensionId: ["minecraft:overworld"],
-        timeOfDay: [12000, 24000],
         category: ["MONSTER"],
-        random: 0.1
+        random: 0.5
       }
     },
     {

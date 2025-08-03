@@ -1,12 +1,12 @@
-[16:47:01] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
-[16:47:01] [main/WARN]: Warnings were found!
+[23:04:18] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
+[23:04:18] [main/WARN]: Warnings were found!
  - Mod 'Dynamic Lights' (dynamiclights) 1.8.8+bump+mod recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
  - Mod 'Dynamic Lights' (dynamiclights) 1.8.8+bump+mod recommends any version of modmenu-badges-lib, which is missing!
 	 - You should install any version of modmenu-badges-lib for the optimal experience.
  - Mod 'Forge Config API Port' (forgeconfigapiport) 21.8.0 recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
-[16:47:01] [main/INFO]: Loading 134 mods:
+[23:04:18] [main/INFO]: Loading 127 mods:
 	- amber 6.0.12+1.21.8
 	- antixray 1.4.10
 	   \-- com_moandjiezana_toml_toml4j 0.7.2
@@ -101,7 +101,6 @@
 	- minecraft 1.21.8
 	- mobfilter 0.18.0+1.21.7
 	- mr_blooming_biosphere 1.1.11
-	- mr_ly_graves 1-v2.4.2
 	- mss 1.3.6-1.21.8-fabric
 	- mvs 4.4.6-1.21.8-fabric
 	- netherportalfix 21.8.1
@@ -146,947 +145,204 @@
 	- subtle_effects 1.11.1
 	- torchtoss 2.2.0+1.21.7
 	- treeharvester 9.2
-	- universal-graves 3.8.1+1.21.6
-	   |-- common-protection-api 1.0.0
-	   |-- placeholder-api 2.7.0+1.21.6
-	   |-- predicate-api 0.6.0+1.21.2
-	   |-- server_translations_api 2.5.1+1.21.5
-	   |    \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
-	   \-- sgui 1.10.0+1.21.6
 	- veinminer 2.4.8
 	   \-- de_miraculixx_core_dev 2.4.8
 	- waystones 21.8.1
-[16:47:01] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/gueboland/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[16:47:01] [main/INFO]: Compatibility level set to JAVA_18
-[16:47:01] [main/INFO]: Compatibility level set to JAVA_21
-[16:47:02] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[16:47:02] [main/WARN]: Reference map 'harvest_with_ease.refmap.json' for harvest_with_ease.mixins.json could not be read. If this is a development environment you can ignore this message
-[16:47:02] [main/WARN]: Reference map 'harvest_with_ease.refmap.json' for harvest_with_ease.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[16:47:02] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
-[16:47:02] [main/INFO]: Loaded configuration file for Lithium: 160 options available, 0 override(s) found.
-[16:47:03] [main/WARN]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity)
-[16:47:03] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[16:47:11] [main/INFO]: Initializing Everlasting Amber Dreams on Fabric...
-[16:47:11] [main/INFO]: Amber internal networking initialized
-[16:47:11] [main/INFO]: Successfully initialized antixray for fabric
-[16:47:11] [main/INFO]: Loading Collective version 8.4.
-[16:47:12] [main/INFO]: [Dynamic Lights] MidnightLib detected!
-[16:47:12] [main/INFO]: [Dynamic Lights] Registering server started event ...
-[16:47:12] [main/INFO]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
-[16:47:12] [main/INFO]: [STDOUT]: All 20 have been set properly
-[16:47:12] [main/INFO]: Constructing components for puzzleslib:common
-[16:47:12] [main/INFO]: Config 'appearance.json' from type 'CLIENT' was skipped.
-[16:47:13] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
-[16:47:13] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REICommonPlugin
-[16:47:13] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REICommonPlugin
-[16:47:13] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REICommonPlugin
-[16:47:13] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
-[16:47:13] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
-[16:47:13] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
-[16:47:13] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
-[16:47:13] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items_new
-[16:47:13] [main/INFO]: Initializing Silk
-[16:47:13] [main/INFO]: TorchToss initializing...
-[16:47:13] [main/INFO]: Veinminer Version: 2.4.8 (fabric)
-[16:47:13] [DefaultDispatcher-worker-3/INFO]: [STDOUT]: [VeinminerUpdater] veinminer is outdated (1.21.8). Installed: 2.4.8 -> Latest: 2.4.9
-[16:47:13] [main/INFO]: Loading configuration...
-[16:47:14] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:47:14] [main/WARN]: Pack file/Ender-Dragon-Fight-Remastered-5.0.zip declared support for versions [32, 48] but declared main format is 81, defaulting to 81
-[16:47:15] [main/ERROR]: Invalid path in mod resource-pack mr_blooming_biosphere: blooming_biosphere:worldgen/configured_feature/cliff/beach copy.json, ignoring
-[16:47:17] [Worker-Main-3/INFO]: Registering Amber commands for Fabric
-[16:47:19] [main/INFO]: Loaded 1483 recipes
-[16:47:19] [main/ERROR]: Couldn't load advancements: [catenary:recipes/paper_lanterns, catenary:rocket/placed, eroxified2:custom_block/data/block/catenary/workbench/placed, eroxified2:custom_block/data/block/catenary/zipline_mount_pad/placed, catenary:recipes/workbench, eroxified2:custom_block/data/block/catenary/workbench/on_default_block_use, catenary:recipes/zipline_lift_upgrade, eroxified2:interaction/internal/rclick, eroxified2:interaction/internal/lclick, catenary:recipes/zipline_mount_pad]
-[16:47:19] [main/INFO]: Loaded 1728 advancements
-[16:47:19] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 58 translation keys
-[16:47:19] [main/INFO]: Applied 77 biome modifications to 74 of 83 new biomes in 9.938 ms
-[16:47:19] [Server thread/INFO]: Initialized mcCoroutineScope (MinecraftServer as executor)
-[16:47:19] [Server thread/INFO]: [MobFilter] Loading config from /workspaces/gueboland/servidor_minecraft/config/mobfilter.json5
-[16:47:19] [Server thread/INFO]: [MobFilter] 2 rule(s) loaded:
-[16:47:19] [Server thread/INFO]: - FilterRule[ruleName=Reduce hostile mobs at night in Overworld, checks=[CategoryCheck[categories=[MONSTER]], DimensionCheck[dimensionMatcher=[minecraft:overworld][]], TimeOfDayCheck[min=12000, max=24000], RandomCheck[odds=0.1]], action=DISALLOW_SPAWN]
-[16:47:19] [Server thread/INFO]: - FilterRule[ruleName=Allow all other spawns, checks=[], action=ALLOW_SPAWN]
-[16:47:19] [Server thread/INFO]: [MobFilter] Log level is INFO
-[16:47:19] [Server thread/INFO]:         __    
-[16:47:19] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.10
-[16:47:19] [Server thread/INFO]:   |___ |      Running on Fabric - fabric@0.130.0+1.21.8
-[16:47:19] [Server thread/INFO]: 
-[16:47:19] [Server thread/INFO]: Loading storage provider... [H2]
-[16:47:20] [Server thread/INFO]: Loading internal permission managers...
-[16:47:20] [Server thread/INFO]: Performing initial data load...
-[16:47:20] [Server thread/INFO]: Successfully enabled. (took 449ms)
-[16:47:20] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[16:47:20] [Server thread/INFO]: Loading properties
-[16:47:20] [Server thread/INFO]: Default game type: SURVIVAL
-[16:47:20] [Server thread/INFO]: Generating keypair
-[16:47:20] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:47:20] [Server thread/INFO]: Using epoll channel type
-[16:47:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:47:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:47:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:47:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:47:20] [Server thread/INFO]: Preparing level "world"
-[16:47:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:47:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[16:47:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[16:47:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[16:47:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[16:47:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[16:47:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[16:47:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[16:47:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[16:47:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[16:47:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[16:47:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[16:47:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[16:47:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[16:47:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[16:47:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[16:47:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[16:47:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[16:47:30] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[16:47:30] [Server thread/INFO]: Time elapsed: 8672 ms
-[16:47:30] [Server thread/INFO]: Done (9.783s)! For help, type "help"
-[16:47:30] [Server thread/INFO]: [REI] ----------------------------------------
-[16:47:30] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for START.
-[16:47:30] [Server thread/INFO]: [REI] Plugins (3):
-[16:47:30] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[16:47:30] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
-[16:47:30] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[16:47:30] [Server thread/INFO]: [REI] ----------------------------------------
-[16:47:30] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for START in 2.410 ms, totaling 106.6 ms.
-[16:47:30] [Server thread/INFO]: [REI] ########################################
-[16:47:30] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for END.
-[16:47:30] [Server thread/INFO]: [REI] Plugins (3):
-[16:47:30] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[16:47:30] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
-[16:47:30] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[16:47:30] [Server thread/INFO]: [REI] ########################################
-[16:47:30] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for END in 2.276 ms, totaling 112.3 ms.
-[16:47:30] [Server thread/INFO]: [Dynamic Lights] Sending global config to world ...
-[16:48:30] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[16:51:23] [Server thread/INFO]: faribel[/100.102.41.71:5553] logged in with entity id 55 at (-1522.8928080439443, 96.0, -1689.1277664057557)
-[16:51:23] [Server thread/INFO]: Syncing Server Configs with Client
-[16:51:23] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
-[16:51:23] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
-[16:51:23] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
-[16:51:23] [Server thread/INFO]: faribel joined the game
-[16:51:24] [ForkJoinPool.commonPool-worker-4/INFO]: Loaded 1 player data objects (took 0s 406ms)
-[16:51:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[16:52:06] [Server thread/INFO]: DTav[/100.64.141.62:6085] logged in with entity id 396 at (-1389.0103484040485, 52.0, -1665.823170240071)
-[16:52:06] [Server thread/INFO]: Syncing Server Configs with Client
-[16:52:06] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
-[16:52:06] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
-[16:52:06] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
-[16:52:06] [Server thread/INFO]: DTav joined the game
-[16:52:06] [ForkJoinPool.commonPool-worker-5/INFO]: Loaded 1 player data objects (took 0s 333ms)
-[16:53:48] [Server thread/INFO]: klyo[/100.114.68.51:51470] logged in with entity id 1363 at (-1383.5, 67.5625, -1666.5)
-[16:53:48] [Server thread/INFO]: Syncing Server Configs with Client
-[16:53:48] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
-[16:53:48] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
-[16:53:48] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
-[16:53:48] [Server thread/INFO]: klyo joined the game
-[16:53:48] [ForkJoinPool.commonPool-worker-4/INFO]: Loaded 1 player data objects (took 0s 370ms)
-[16:54:04] [Server thread/INFO]: DTav lost connection: Disconnected
-[16:54:04] [Server thread/INFO]: DTav left the game
-[16:54:10] [Server thread/INFO]: DTav[/100.64.141.62:6482] logged in with entity id 1607 at (-1389.831533162954, 67.0, -1668.0405405499293)
-[16:54:10] [Server thread/INFO]: Loaded 1 player data objects (took 0s 0ms)
-[16:54:10] [Server thread/INFO]: Syncing Server Configs with Client
-[16:54:10] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
-[16:54:10] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
-[16:54:10] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
-[16:54:10] [Server thread/INFO]: DTav joined the game
-[17:00:14] [Server thread/INFO]: SaidKiller__[/100.99.253.91:65102] logged in with entity id 6578 at (-1775.6411771209544, 130.0, -1596.3142821366355)
-[17:00:14] [Server thread/INFO]: Syncing Server Configs with Client
-[17:00:14] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
-[17:00:14] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
-[17:00:14] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
-[17:00:14] [Server thread/INFO]: SaidKiller__ joined the game
-[17:00:14] [ForkJoinPool.commonPool-worker-8/INFO]: Loaded 1 player data objects (took 0s 430ms)
-[17:03:20] [Server thread/INFO]: klyo fell from a high place
-[17:03:26] [Server thread/INFO]: klyo was not rescued in time
-[17:04:19] [Server thread/INFO]: Set the weather to rain & thunder
-[17:04:52] [Server thread/INFO]: Set the weather to rain & thunder
-[17:05:44] [Server thread/INFO]: klyo was struck by lightning while fighting SaidKiller__
-[17:05:53] [Server thread/INFO]: faribel died
-[17:31:27] [Server thread/INFO]: DTav lost connection: Disconnected
-[17:31:27] [Server thread/INFO]: DTav left the game
-[17:36:06] [Server thread/INFO]: klyo lost connection: Disconnected
-[17:36:06] [Server thread/INFO]: klyo left the game
-[17:38:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@713be3d7[id=0b28e394-1b9e-312b-8931-ff0a685c6f28,name=Don_Jaiba,properties={}] lost connection: Disconnected
-[17:39:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@6045376b[id=0b28e394-1b9e-312b-8931-ff0a685c6f28,name=Don_Jaiba,properties={}] lost connection: Disconnected
-[17:39:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@7aece198[id=0b28e394-1b9e-312b-8931-ff0a685c6f28,name=Don_Jaiba,properties={}] lost connection: Disconnected
-[17:39:58] [Server thread/INFO]: com.mojang.authlib.GameProfile@3052107a[id=0b28e394-1b9e-312b-8931-ff0a685c6f28,name=Don_Jaiba,properties={}] lost connection: Disconnected
-[17:41:18] [Server thread/INFO]: Don_Jaiba[/100.90.141.112:61040] logged in with entity id 37593 at (-1266.729053612841, 63.0, -2305.4057436211783)
-[17:41:18] [Server thread/INFO]: Syncing Server Configs with Client
-[17:41:18] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
-[17:41:18] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
-[17:41:18] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
-[17:41:18] [Server thread/INFO]: Don_Jaiba joined the game
-[17:41:19] [ForkJoinPool.commonPool-worker-11/INFO]: Loaded 1 player data objects (took 0s 384ms)
-[17:42:00] [Server thread/INFO]: Made faribel a server operator
-[17:42:44] [Server thread/INFO]: Don_Jaiba was slain by Zombie
-[17:42:46] [Server thread/INFO]: Don_Jaiba was not rescued in time
-[17:42:53] [Server thread/INFO]: [faribel: Gave 1 [Iron Chestplate] to Don_Jaiba]
-[17:43:02] [Server thread/INFO]: [faribel: Gave 1 [Iron Boots] to Don_Jaiba]
-[17:43:08] [Server thread/INFO]: [faribel: Gave 1 [Iron Leggings] to Don_Jaiba]
-[17:43:15] [Server thread/INFO]: [faribel: Gave 1 [Iron Helmet] to Don_Jaiba]
-[17:43:34] [Server thread/INFO]: [faribel: Gave 1 [Diamond Axe] to Don_Jaiba]
-[17:43:37] [Server thread/INFO]: [faribel: Gave 1 [Diamond Pickaxe] to Don_Jaiba]
-[17:45:44] [Server thread/INFO]: [faribel: Gave 64 [Iron Ingot] to Don_Jaiba]
-[17:45:59] [Server thread/INFO]: [faribel: Gave 64 [Bread] to Don_Jaiba]
-[17:46:33] [Server thread/INFO]: [faribel: Set 25 experience levels on Don_Jaiba]
-[17:46:50] [Server thread/INFO]: Made faribel no longer a server operator
-[17:53:17] [Server thread/INFO]: [Not Secure] <SaidKiller__> xaero-waypoint:CASA DEL KILLER:C:-1773:130:-1590:12:false:0:Internal-overworld
-[18:01:03] [Server thread/INFO]: [Not Secure] <faribel> xaero-waypoint:portal del end:P:-1424:-31:-2085:5:false:0:Internal-overworld
-[18:01:11] [Server thread/INFO]: faribel has made the advancement [Eye Spy]
-[18:13:17] [Server thread/INFO]: SaidKiller__ lost connection: Disconnected
-[18:13:17] [Server thread/INFO]: SaidKiller__ left the game
-[18:22:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@428c37b[id=65a25835-9df9-317e-8c7b-2ceb2a2091cf,name=caquitoquito,properties={}] lost connection: Disconnected
-[18:23:29] [Server thread/INFO]: com.mojang.authlib.GameProfile@657b7d84[id=65a25835-9df9-317e-8c7b-2ceb2a2091cf,name=caquitoquito,properties={}] lost connection: Disconnected
-[18:26:38] [Server thread/INFO]: caquitoquito[/100.69.176.22:51056] logged in with entity id 79339 at (-1367.9505566645532, 64.79673560066871, -1653.1584778940396)
-[18:26:38] [Server thread/INFO]: Syncing Server Configs with Client
-[18:26:38] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
-[18:26:38] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
-[18:26:38] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
-[18:26:38] [Server thread/INFO]: caquitoquito joined the game
-[18:26:39] [ForkJoinPool.commonPool-worker-13/INFO]: Loaded 1 player data objects (took 0s 423ms)
-[18:29:15] [Server thread/INFO]: caquitoquito has made the advancement [Sweet Dreams]
-[18:29:18] [Server thread/INFO]: [Not Secure] <caquitoquito> zzz
-[18:29:19] [Server thread/INFO]: [Not Secure] <caquitoquito> zzz
-[18:29:20] [Server thread/INFO]: [Not Secure] <caquitoquito> zzz
-[18:29:21] [Server thread/INFO]: [Not Secure] <caquitoquito> zzz
-[18:29:22] [Server thread/INFO]: [Not Secure] <caquitoquito> zzzzz
-[18:29:23] [Server thread/INFO]: [Not Secure] <Don_Jaiba> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[18:30:48] [Server thread/INFO]: DTav[/100.64.141.62:30475] logged in with entity id 84223 at (-1529.232564363571, 74.0, -1678.4483240584643)
-[18:30:48] [Server thread/INFO]: Syncing Server Configs with Client
-[18:30:48] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
-[18:30:48] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
-[18:30:48] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
-[18:30:48] [Server thread/INFO]: DTav joined the game
-[18:30:48] [ForkJoinPool.commonPool-worker-15/INFO]: Loaded 1 player data objects (took 0s 328ms)
-[18:32:54] [Server thread/INFO]: caquitoquito has made the advancement [Safe Haven]
-[18:37:19] [Server thread/WARN]: DTav moved too quickly! -10.10307289579805,0.41999998688697815,1.5571633818140072
-[18:39:35] [Server thread/INFO]: caquitoquito died
-[18:39:53] [Server thread/INFO]: DTav lost connection: Disconnected
-[18:39:53] [Server thread/INFO]: DTav left the game
-[18:40:20] [Server thread/INFO]: caquitoquito died
-[18:40:38] [Server thread/INFO]: DTav[/100.64.141.62:33788] logged in with entity id 93692 at (-1525.8998658525381, 73.0, -1690.880986137283)
-[18:40:38] [Server thread/INFO]: Loaded 1 player data objects (took 0s 0ms)
-[18:40:38] [Server thread/INFO]: Syncing Server Configs with Client
-[18:40:38] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
-[18:40:38] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
-[18:40:38] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
-[18:40:38] [Server thread/INFO]: DTav joined the game
-[18:43:58] [Server thread/INFO]: caquitoquito was shot by Skeleton
-[18:49:10] [Server thread/INFO]: DTav lost connection: Disconnected
-[18:49:10] [Server thread/INFO]: DTav left the game
-[19:05:40] [Server thread/INFO]: caquitoquito was killed by magic while trying to escape Skeleton
-[19:06:25] [Server thread/INFO]: caquitoquito was not rescued in time
-[19:07:39] [Server thread/INFO]: Don_Jaiba died
-[19:07:42] [Server thread/INFO]: Don_Jaiba was not rescued in time
-[19:15:15] [Server thread/INFO]: SaidKiller__[/100.99.253.91:56339] logged in with entity id 119686 at (-1763.5972914418128, 129.0, -1590.2660108389923)
-[19:15:15] [Server thread/INFO]: Syncing Server Configs with Client
-[19:15:15] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
-[19:15:15] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
-[19:15:15] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
-[19:15:15] [Server thread/INFO]: SaidKiller__ joined the game
-[19:15:15] [ForkJoinPool.commonPool-worker-18/INFO]: Loaded 1 player data objects (took 0s 381ms)
-[19:18:40] [Server thread/INFO]: SaidKiller__ lost connection: Disconnected
-[19:18:40] [Server thread/INFO]: SaidKiller__ left the game
-[19:18:46] [Server thread/INFO]: SaidKiller__[/100.99.253.91:56418] logged in with entity id 122135 at (-1606.6486127593978, 63.08576431274413, -1709.1198480162022)
-[19:18:46] [Server thread/INFO]: Loaded 1 player data objects (took 0s 0ms)
-[19:18:46] [Server thread/INFO]: Syncing Server Configs with Client
-[19:18:46] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
-[19:18:46] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
-[19:18:46] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
-[19:18:46] [Server thread/INFO]: SaidKiller__ joined the game
-[19:26:07] [Server thread/INFO]: Don_Jaiba has made the advancement [Ice Bucket Challenge]
-[19:31:47] [Server thread/WARN]: Birch Boat (vehicle of SaidKiller__) moved wrongly! 0.3351945280619475
-[19:43:38] [Server thread/INFO]: faribel died
-[19:43:40] [Server thread/INFO]: faribel was not rescued in time
-[19:51:46] [Server thread/INFO]: faribel died
-[19:51:49] [Server thread/INFO]: faribel was not rescued in time
-[20:05:32] [Server thread/INFO]: caquitoquito has made the advancement [Suit Up]
-[20:09:19] [Server thread/INFO]: SaidKiller__ was slain by Zombie
-[20:11:11] [Server thread/INFO]: Set the weather to rain & thunder
-[20:12:40] [Server thread/INFO]: Don_Jaiba has made the advancement [A Throwaway Joke]
-[20:13:45] [Server thread/INFO]: caquitoquito died
-[20:14:07] [Server thread/INFO]: Don_Jaiba has made the advancement [Safe Haven]
-[20:27:46] [Server thread/INFO]: [Not Secure] <SaidKiller__> w
-[20:28:04] [Server thread/INFO]: [Not Secure] <caquitoquito> wasd
-[20:55:06] [Server thread/INFO]: SaidKiller__ lost connection: Disconnected
-[20:55:06] [Server thread/INFO]: SaidKiller__ left the game
-[21:02:23] [Server thread/INFO]: Don_Jaiba has made the advancement [A Major Trial Of Strength]
-[21:08:09] [Server thread/INFO]: Don_Jaiba has made the advancement [Under Lock and Key]
-[21:17:25] [Server thread/INFO]: Named entity class_1549['{"text":"Grumm","color":"black","obfuscated":true}'/232074, l='ServerLevel[world]', x=-1479.65, y=-21.50, z=-2356.65] died: {"text":"Grumm","color":"black","obfuscated":true} was slain by Don_Jaiba
-[21:23:57] [Server thread/INFO]: [Not Secure] <caquitoquito> d
-[21:24:02] [Server thread/INFO]: [Not Secure] <faribel> a
-[21:24:24] [Server thread/INFO]: Don_Jaiba lost connection: Disconnected
-[21:24:24] [Server thread/INFO]: Don_Jaiba left the game
-[21:24:32] [Server thread/INFO]: Don_Jaiba[/100.90.141.112:64928] logged in with entity id 237148 at (-1498.1951592033322, -29.0, -2347.663294906981)
-[21:24:32] [Server thread/INFO]: Syncing Server Configs with Client
-[21:24:32] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
-[21:24:32] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
-[21:24:32] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
-[21:24:32] [Server thread/INFO]: Don_Jaiba joined the game
-[21:24:33] [ForkJoinPool.commonPool-worker-22/INFO]: Loaded 1 player data objects (took 0s 400ms)
-[21:25:02] [Server thread/INFO]: Don_Jaiba was slain by Cave Spider
-[21:25:18] [Server thread/INFO]: Don_Jaiba was not rescued in time
-[21:31:30] [Server thread/INFO]: Don_Jaiba lost connection: Disconnected
-[21:31:30] [Server thread/INFO]: Don_Jaiba left the game
-[21:31:42] [Server thread/INFO]: faribel lost connection: Disconnected
-[21:31:42] [Server thread/INFO]: faribel left the game
-[21:32:30] [Server thread/INFO]: Don_Jaiba[/100.102.41.71:8743] logged in with entity id 242639 at (-1492.6327733927951, -30.0, -2357.70959099583)
-[21:32:30] [Server thread/INFO]: Loaded 1 player data objects (took 0s 0ms)
-[21:32:30] [Server thread/INFO]: Syncing Server Configs with Client
-[21:32:30] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
-[21:32:30] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
-[21:32:30] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
-[21:32:30] [Server thread/INFO]: Don_Jaiba joined the game
-[21:33:00] [Server thread/INFO]: Made Don_Jaiba a server operator
-[21:33:13] [Server thread/INFO]: [Don_Jaiba: Set own game mode to Creative Mode]
-[21:34:11] [Server thread/INFO]: [Don_Jaiba: Running function graves:config/commands]
-[21:34:14] [Server thread/INFO]: [Don_Jaiba: Running function graves:config/commands/loot_nearest_grave_inventory]
-[21:34:18] [Server thread/INFO]: [Don_Jaiba: Running function graves:config/commands/loot_all_graves]
-[21:34:20] [Server thread/INFO]: [Don_Jaiba: Running function graves:config/commands/loot_nearest_grave]
-[21:34:23] [Server thread/INFO]: [Don_Jaiba: Running function graves:config/commands/tp_nearest]
-[21:34:28] [Server thread/INFO]: [Don_Jaiba: Running function graves:config/commands/tp_nearest]
-[21:34:38] [Server thread/INFO]: Don_Jaiba lost connection: You logged in from another location
-[21:34:38] [Server thread/INFO]: Don_Jaiba left the game
-[21:34:38] [Server thread/WARN]: handleDisconnection() called twice
-[21:34:39] [Server thread/INFO]: Don_Jaiba[/100.90.141.112:65137] logged in with entity id 243320 at (-1494.1399060174997, -30.0, -2357.64424852009)
-[21:34:39] [Server thread/INFO]: Loaded 1 player data objects (took 0s 0ms)
-[21:34:39] [Server thread/INFO]: Syncing Server Configs with Client
-[21:34:39] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
-[21:34:39] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
-[21:34:39] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
-[21:34:39] [Server thread/INFO]: Don_Jaiba joined the game
-[21:34:46] [Server thread/INFO]: Don_Jaiba lost connection: Disconnected
-[21:34:46] [Server thread/INFO]: Don_Jaiba left the game
-[21:34:49] [Server thread/INFO]: Don_Jaiba[/100.102.41.71:8767] logged in with entity id 243665 at (-1493.7118672186061, -30.0, -2357.643306743925)
-[21:34:49] [Server thread/INFO]: Loaded 1 player data objects (took 0s 0ms)
-[21:34:49] [Server thread/INFO]: Syncing Server Configs with Client
-[21:34:49] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
-[21:34:49] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
-[21:34:49] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
-[21:34:49] [Server thread/INFO]: Don_Jaiba joined the game
-[21:35:36] [Server thread/ERROR]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/me.shedaniel.rei.RoughlyEnoughItemsNetwork.lambda$onInitialize$2(RoughlyEnoughItemsNetwork.java:123) ~[RoughlyEnoughItems-20.0.810-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:74) ~[fabric-networking-api-v1-5.0.1+946bf4c32c-6ecf7b4c557aba73.jar:?]
-	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:883) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:179) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:865) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:859) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18857(class_1255.java:147) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:823) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:830) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:713) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:291) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[21:35:45] [Server thread/ERROR]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/me.shedaniel.rei.RoughlyEnoughItemsNetwork.lambda$onInitialize$2(RoughlyEnoughItemsNetwork.java:123) ~[RoughlyEnoughItems-20.0.810-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:74) ~[fabric-networking-api-v1-5.0.1+946bf4c32c-6ecf7b4c557aba73.jar:?]
-	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:883) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:179) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:865) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:859) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18857(class_1255.java:147) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:823) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:830) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:713) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:291) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[21:37:25] [Server thread/INFO]: [Don_Jaiba: Set own game mode to Survival Mode]
-[21:37:37] [Server thread/ERROR]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/me.shedaniel.rei.RoughlyEnoughItemsNetwork.lambda$onInitialize$2(RoughlyEnoughItemsNetwork.java:123) ~[RoughlyEnoughItems-20.0.810-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:74) ~[fabric-networking-api-v1-5.0.1+946bf4c32c-6ecf7b4c557aba73.jar:?]
-	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:883) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:179) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:865) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:859) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18857(class_1255.java:147) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:823) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:830) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:713) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:291) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[21:37:39] [Server thread/ERROR]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/me.shedaniel.rei.RoughlyEnoughItemsNetwork.lambda$onInitialize$2(RoughlyEnoughItemsNetwork.java:123) ~[RoughlyEnoughItems-20.0.810-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:74) ~[fabric-networking-api-v1-5.0.1+946bf4c32c-6ecf7b4c557aba73.jar:?]
-	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:883) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:179) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:865) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:859) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18857(class_1255.java:147) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:823) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:830) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:713) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:291) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[21:37:40] [Server thread/ERROR]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/me.shedaniel.rei.RoughlyEnoughItemsNetwork.lambda$onInitialize$2(RoughlyEnoughItemsNetwork.java:123) ~[RoughlyEnoughItems-20.0.810-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:74) ~[fabric-networking-api-v1-5.0.1+946bf4c32c-6ecf7b4c557aba73.jar:?]
-	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:883) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:179) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:865) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:859) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_5383(class_1255.java:123) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:827) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:713) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:291) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[21:37:42] [Server thread/ERROR]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/me.shedaniel.rei.RoughlyEnoughItemsNetwork.lambda$onInitialize$2(RoughlyEnoughItemsNetwork.java:123) ~[RoughlyEnoughItems-20.0.810-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:74) ~[fabric-networking-api-v1-5.0.1+946bf4c32c-6ecf7b4c557aba73.jar:?]
-	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:883) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:179) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:865) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:859) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18857(class_1255.java:147) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:823) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:830) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:713) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:291) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[21:38:05] [Server thread/ERROR]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/me.shedaniel.rei.RoughlyEnoughItemsNetwork.lambda$onInitialize$2(RoughlyEnoughItemsNetwork.java:123) ~[RoughlyEnoughItems-20.0.810-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:74) ~[fabric-networking-api-v1-5.0.1+946bf4c32c-6ecf7b4c557aba73.jar:?]
-	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:883) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:179) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:865) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:859) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18857(class_1255.java:147) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:823) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:830) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:713) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:291) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[21:38:17] [Server thread/ERROR]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/me.shedaniel.rei.RoughlyEnoughItemsNetwork.lambda$onInitialize$2(RoughlyEnoughItemsNetwork.java:123) ~[RoughlyEnoughItems-20.0.810-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:74) ~[fabric-networking-api-v1-5.0.1+946bf4c32c-6ecf7b4c557aba73.jar:?]
-	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:883) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:179) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:865) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:859) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18857(class_1255.java:147) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:823) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:830) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:713) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:291) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[21:38:17] [Server thread/ERROR]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/me.shedaniel.rei.RoughlyEnoughItemsNetwork.lambda$onInitialize$2(RoughlyEnoughItemsNetwork.java:123) ~[RoughlyEnoughItems-20.0.810-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:74) ~[fabric-networking-api-v1-5.0.1+946bf4c32c-6ecf7b4c557aba73.jar:?]
-	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:883) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:179) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:865) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:859) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_5383(class_1255.java:123) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:827) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:713) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:291) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[21:38:18] [Server thread/ERROR]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/me.shedaniel.rei.RoughlyEnoughItemsNetwork.lambda$onInitialize$2(RoughlyEnoughItemsNetwork.java:123) ~[RoughlyEnoughItems-20.0.810-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:74) ~[fabric-networking-api-v1-5.0.1+946bf4c32c-6ecf7b4c557aba73.jar:?]
-	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:883) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:179) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:865) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:859) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_5383(class_1255.java:123) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:827) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:713) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:291) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[21:38:18] [Server thread/ERROR]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/me.shedaniel.rei.RoughlyEnoughItemsNetwork.lambda$onInitialize$2(RoughlyEnoughItemsNetwork.java:123) ~[RoughlyEnoughItems-20.0.810-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:74) ~[fabric-networking-api-v1-5.0.1+946bf4c32c-6ecf7b4c557aba73.jar:?]
-	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:883) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:179) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:865) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:859) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18857(class_1255.java:147) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:823) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:830) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:713) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:291) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[21:38:18] [Server thread/ERROR]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/me.shedaniel.rei.RoughlyEnoughItemsNetwork.lambda$onInitialize$2(RoughlyEnoughItemsNetwork.java:123) ~[RoughlyEnoughItems-20.0.810-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:74) ~[fabric-networking-api-v1-5.0.1+946bf4c32c-6ecf7b4c557aba73.jar:?]
-	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:883) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:179) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:865) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:859) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18857(class_1255.java:147) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:823) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:830) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:713) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:291) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[21:38:18] [Server thread/ERROR]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/me.shedaniel.rei.RoughlyEnoughItemsNetwork.lambda$onInitialize$2(RoughlyEnoughItemsNetwork.java:123) ~[RoughlyEnoughItems-20.0.810-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:74) ~[fabric-networking-api-v1-5.0.1+946bf4c32c-6ecf7b4c557aba73.jar:?]
-	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:883) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:179) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:865) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:859) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_5383(class_1255.java:123) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:827) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:713) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:291) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[21:38:18] [Server thread/ERROR]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/me.shedaniel.rei.RoughlyEnoughItemsNetwork.lambda$onInitialize$2(RoughlyEnoughItemsNetwork.java:123) ~[RoughlyEnoughItems-20.0.810-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:74) ~[fabric-networking-api-v1-5.0.1+946bf4c32c-6ecf7b4c557aba73.jar:?]
-	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:883) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:179) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:865) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:859) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18857(class_1255.java:147) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:823) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:830) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:713) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:291) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[21:38:18] [Server thread/ERROR]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/me.shedaniel.rei.RoughlyEnoughItemsNetwork.lambda$onInitialize$2(RoughlyEnoughItemsNetwork.java:123) ~[RoughlyEnoughItems-20.0.810-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:74) ~[fabric-networking-api-v1-5.0.1+946bf4c32c-6ecf7b4c557aba73.jar:?]
-	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:883) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:179) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:865) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:859) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18857(class_1255.java:147) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:823) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:830) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:713) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:291) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[21:38:18] [Server thread/ERROR]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/me.shedaniel.rei.RoughlyEnoughItemsNetwork.lambda$onInitialize$2(RoughlyEnoughItemsNetwork.java:123) ~[RoughlyEnoughItems-20.0.810-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:74) ~[fabric-networking-api-v1-5.0.1+946bf4c32c-6ecf7b4c557aba73.jar:?]
-	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:883) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:179) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:865) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:859) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_5383(class_1255.java:123) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:827) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:713) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:291) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[21:38:18] [Server thread/ERROR]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/me.shedaniel.rei.RoughlyEnoughItemsNetwork.lambda$onInitialize$2(RoughlyEnoughItemsNetwork.java:123) ~[RoughlyEnoughItems-20.0.810-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:74) ~[fabric-networking-api-v1-5.0.1+946bf4c32c-6ecf7b4c557aba73.jar:?]
-	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:883) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:179) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:865) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:859) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_5383(class_1255.java:123) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:827) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:713) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:291) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[21:38:19] [Server thread/ERROR]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/me.shedaniel.rei.RoughlyEnoughItemsNetwork.lambda$onInitialize$2(RoughlyEnoughItemsNetwork.java:123) ~[RoughlyEnoughItems-20.0.810-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:74) ~[fabric-networking-api-v1-5.0.1+946bf4c32c-6ecf7b4c557aba73.jar:?]
-	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:883) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:179) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:865) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:859) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_5383(class_1255.java:123) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:827) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:713) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:291) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[21:38:19] [Server thread/ERROR]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/me.shedaniel.rei.RoughlyEnoughItemsNetwork.lambda$onInitialize$2(RoughlyEnoughItemsNetwork.java:123) ~[RoughlyEnoughItems-20.0.810-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:74) ~[fabric-networking-api-v1-5.0.1+946bf4c32c-6ecf7b4c557aba73.jar:?]
-	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:883) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:179) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:865) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:859) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18857(class_1255.java:147) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:823) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:830) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:713) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:291) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[21:38:19] [Server thread/ERROR]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/me.shedaniel.rei.RoughlyEnoughItemsNetwork.lambda$onInitialize$2(RoughlyEnoughItemsNetwork.java:123) ~[RoughlyEnoughItems-20.0.810-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:74) ~[fabric-networking-api-v1-5.0.1+946bf4c32c-6ecf7b4c557aba73.jar:?]
-	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:883) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:179) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:865) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:859) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_5383(class_1255.java:123) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:827) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:713) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:291) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[21:38:19] [Server thread/ERROR]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/me.shedaniel.rei.RoughlyEnoughItemsNetwork.lambda$onInitialize$2(RoughlyEnoughItemsNetwork.java:123) ~[RoughlyEnoughItems-20.0.810-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:74) ~[fabric-networking-api-v1-5.0.1+946bf4c32c-6ecf7b4c557aba73.jar:?]
-	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:883) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:179) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:865) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:859) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18857(class_1255.java:147) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:823) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:830) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:713) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:291) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[21:38:19] [Server thread/ERROR]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/me.shedaniel.rei.RoughlyEnoughItemsNetwork.lambda$onInitialize$2(RoughlyEnoughItemsNetwork.java:123) ~[RoughlyEnoughItems-20.0.810-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:74) ~[fabric-networking-api-v1-5.0.1+946bf4c32c-6ecf7b4c557aba73.jar:?]
-	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:883) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:179) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:865) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:859) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18857(class_1255.java:147) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:823) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:830) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:713) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:291) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[21:39:00] [Server thread/ERROR]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/me.shedaniel.rei.RoughlyEnoughItemsNetwork.lambda$onInitialize$2(RoughlyEnoughItemsNetwork.java:123) ~[RoughlyEnoughItems-20.0.810-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-17.0.8-fabric.jar:?]
-	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:74) ~[fabric-networking-api-v1-5.0.1+946bf4c32c-6ecf7b4c557aba73.jar:?]
-	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:883) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:179) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:865) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:859) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18857(class_1255.java:147) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:823) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:830) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:713) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:291) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[21:39:05] [Server thread/INFO]: [Don_Jaiba: Set own game mode to Creative Mode]
-[21:43:20] [Server thread/INFO]: caquitoquito lost connection: Disconnected
-[21:43:20] [Server thread/INFO]: caquitoquito left the game
-[21:43:49] [Server thread/INFO]: [Don_Jaiba: Set own game mode to Survival Mode]
-[21:43:54] [Server thread/INFO]: [Don_Jaiba: Made Don_Jaiba no longer a server operator]
-[21:44:08] [Server thread/INFO]: Don_Jaiba lost connection: Disconnected
-[21:44:08] [Server thread/INFO]: Don_Jaiba left the game
+[23:04:19] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/gueboland/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[23:04:19] [main/INFO]: Compatibility level set to JAVA_18
+[23:04:19] [main/INFO]: Compatibility level set to JAVA_21
+[23:04:19] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:04:19] [main/WARN]: Reference map 'harvest_with_ease.refmap.json' for harvest_with_ease.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:04:19] [main/WARN]: Reference map 'harvest_with_ease.refmap.json' for harvest_with_ease.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:04:19] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
+[23:04:19] [main/INFO]: Loaded configuration file for Lithium: 160 options available, 0 override(s) found.
+[23:04:20] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[23:04:29] [main/INFO]: Initializing Everlasting Amber Dreams on Fabric...
+[23:04:29] [main/INFO]: Amber internal networking initialized
+[23:04:29] [main/INFO]: Successfully initialized antixray for fabric
+[23:04:29] [main/INFO]: Loading Collective version 8.4.
+[23:04:30] [main/INFO]: [Dynamic Lights] MidnightLib detected!
+[23:04:30] [main/INFO]: [Dynamic Lights] Registering server started event ...
+[23:04:30] [main/INFO]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
+[23:04:31] [main/INFO]: [STDOUT]: All 20 have been set properly
+[23:04:31] [main/INFO]: Constructing components for puzzleslib:common
+[23:04:31] [main/INFO]: Config 'appearance.json' from type 'CLIENT' was skipped.
+[23:04:31] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
+[23:04:31] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REICommonPlugin
+[23:04:31] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REICommonPlugin
+[23:04:31] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REICommonPlugin
+[23:04:31] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
+[23:04:31] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
+[23:04:31] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
+[23:04:31] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
+[23:04:31] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items_new
+[23:04:31] [main/INFO]: Initializing Silk
+[23:04:31] [main/INFO]: TorchToss initializing...
+[23:04:31] [main/INFO]: Veinminer Version: 2.4.8 (fabric)
+[23:04:32] [DefaultDispatcher-worker-3/INFO]: [STDOUT]: [VeinminerUpdater] veinminer is outdated (1.21.8). Installed: 2.4.8 -> Latest: 2.4.9
+[23:04:32] [main/INFO]: Loading configuration...
+[23:04:32] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:04:33] [main/WARN]: Pack file/Ender-Dragon-Fight-Remastered-5.0.zip declared support for versions [32, 48] but declared main format is 81, defaulting to 81
+[23:04:34] [main/ERROR]: Invalid path in mod resource-pack mr_blooming_biosphere: blooming_biosphere:worldgen/configured_feature/cliff/beach copy.json, ignoring
+[23:04:36] [Worker-Main-3/INFO]: Registering Amber commands for Fabric
+[23:04:37] [main/INFO]: Loaded 1482 recipes
+[23:04:37] [main/ERROR]: Couldn't load advancements: [catenary:recipes/paper_lanterns, catenary:rocket/placed, eroxified2:custom_block/data/block/catenary/workbench/placed, eroxified2:custom_block/data/block/catenary/zipline_mount_pad/placed, catenary:recipes/workbench, eroxified2:custom_block/data/block/catenary/workbench/on_default_block_use, catenary:recipes/zipline_lift_upgrade, eroxified2:interaction/internal/rclick, eroxified2:interaction/internal/lclick, catenary:recipes/zipline_mount_pad]
+[23:04:37] [main/INFO]: Loaded 1727 advancements
+[23:04:38] [main/INFO]: Applied 77 biome modifications to 74 of 83 new biomes in 9.600 ms
+[23:04:38] [Server thread/INFO]: Initialized mcCoroutineScope (MinecraftServer as executor)
+[23:04:38] [Server thread/INFO]: [MobFilter] Loading config from /workspaces/gueboland/servidor_minecraft/config/mobfilter.json5
+[23:04:38] [Server thread/INFO]: [MobFilter] 2 rule(s) loaded:
+[23:04:38] [Server thread/INFO]: - FilterRule[ruleName=Reduce hostile mobs at night in Overworld, checks=[CategoryCheck[categories=[MONSTER]], DimensionCheck[dimensionMatcher=[minecraft:overworld][]], RandomCheck[odds=0.5]], action=DISALLOW_SPAWN]
+[23:04:38] [Server thread/INFO]: - FilterRule[ruleName=Allow all other spawns, checks=[], action=ALLOW_SPAWN]
+[23:04:38] [Server thread/INFO]: [MobFilter] Log level is INFO
+[23:04:38] [Server thread/INFO]:         __    
+[23:04:38] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.10
+[23:04:38] [Server thread/INFO]:   |___ |      Running on Fabric - fabric@0.130.0+1.21.8
+[23:04:38] [Server thread/INFO]: 
+[23:04:38] [Server thread/INFO]: Loading storage provider... [H2]
+[23:04:38] [Server thread/INFO]: Loading internal permission managers...
+[23:04:38] [Server thread/INFO]: Performing initial data load...
+[23:04:38] [Server thread/INFO]: Successfully enabled. (took 450ms)
+[23:04:38] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[23:04:38] [Server thread/INFO]: Loading properties
+[23:04:38] [Server thread/INFO]: Default game type: SURVIVAL
+[23:04:38] [Server thread/INFO]: Generating keypair
+[23:04:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:04:38] [Server thread/INFO]: Using epoll channel type
+[23:04:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:04:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:04:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:04:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:04:38] [Server thread/INFO]: Preparing level "world"
+[23:04:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:04:48] [Server thread/INFO]: Time elapsed: 8530 ms
+[23:04:48] [Server thread/INFO]: Done (9.468s)! For help, type "help"
+[23:04:48] [Server thread/INFO]: [REI] ++++++++++++++++++++++++++++++++++++++++
+[23:04:48] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for START.
+[23:04:48] [Server thread/INFO]: [REI] Plugins (3):
+[23:04:48] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[23:04:48] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[23:04:48] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[23:04:48] [Server thread/INFO]: [REI] ++++++++++++++++++++++++++++++++++++++++
+[23:04:48] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for START in 2.079 ms, totaling 172.4 ms.
+[23:04:48] [Server thread/INFO]: [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[23:04:48] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for END.
+[23:04:48] [Server thread/INFO]: [REI] Plugins (3):
+[23:04:48] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[23:04:48] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[23:04:48] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[23:04:48] [Server thread/INFO]: [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[23:04:48] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for END in 742.4 μs, totaling 70.66 ms.
+[23:04:48] [Server thread/INFO]: [Dynamic Lights] Sending global config to world ...
+[23:04:54] [Server thread/INFO]: faribel[/100.102.41.71:9753] logged in with entity id 36 at (-1507.3517086370982, 102.24918707874468, -1686.287698822657)
+[23:04:54] [Server thread/INFO]: Syncing Server Configs with Client
+[23:04:54] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
+[23:04:54] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
+[23:04:54] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
+[23:04:54] [Server thread/INFO]: faribel joined the game
+[23:04:55] [ForkJoinPool.commonPool-worker-3/INFO]: Loaded 1 player data objects (took 0s 387ms)
+[23:04:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[23:04:59] [Server thread/INFO]: caquitoquito[/100.69.176.22:59093] logged in with entity id 340 at (-1357.1390737633521, 59.25220334025373, -1577.9152066434847)
+[23:04:59] [Server thread/INFO]: Syncing Server Configs with Client
+[23:04:59] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
+[23:04:59] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
+[23:04:59] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
+[23:04:59] [Server thread/INFO]: caquitoquito joined the game
+[23:04:59] [Server thread/INFO]: Don_Jaiba[/100.90.141.112:50474] logged in with entity id 339 at (-1270.7940017371543, 63.0, -2286.6161576841755)
+[23:04:59] [Server thread/INFO]: Syncing Server Configs with Client
+[23:04:59] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
+[23:04:59] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
+[23:04:59] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
+[23:04:59] [Server thread/INFO]: Don_Jaiba joined the game
+[23:04:59] [ForkJoinPool.commonPool-worker-3/INFO]: Loaded 1 player data objects (took 0s 111ms)
+[23:04:59] [ForkJoinPool.commonPool-worker-2/INFO]: Loaded 1 player data objects (took 0s 112ms)
+[23:08:02] [Server thread/INFO]: Made faribel a server operator
+[23:08:08] [Server thread/INFO]: [faribel: Set own game mode to Creative Mode]
+[23:08:35] [Server thread/INFO]: [faribel: Set own game mode to Survival Mode]
+[23:08:40] [Server thread/INFO]: Made faribel no longer a server operator
+[23:12:49] [Server thread/INFO]: Unknown game mode: faribel
+[23:12:49] [Server thread/INFO]: ...de faribel creative<--[HERE]
+[23:13:02] [Server thread/INFO]: Set faribel's game mode to Creative Mode
+[23:15:06] [Server thread/INFO]: Made faribel a server operator
+[23:15:18] [Server thread/INFO]: [faribel: Set own game mode to Survival Mode]
+[23:15:25] [Server thread/INFO]: [Not Secure] <caquitoquito> zzz
+[23:15:25] [Server thread/INFO]: [Not Secure] <caquitoquito> z
+[23:15:27] [Server thread/INFO]: [Not Secure] <caquitoquito> zzzz
+[23:15:28] [Server thread/INFO]: [Not Secure] <Don_Jaiba> zzzzz
+[23:15:29] [Server thread/INFO]: [Not Secure] <caquitoquito> zzzzz
+[23:15:30] [Server thread/INFO]: [Not Secure] <caquitoquito> zzzz
+[23:15:30] [Server thread/INFO]: [Not Secure] <caquitoquito> z
+[23:15:30] [Server thread/INFO]: [Not Secure] <caquitoquito> z
+[23:15:30] [Server thread/INFO]: [Not Secure] <caquitoquito> z
+[23:15:30] [Server thread/INFO]: [faribel: Set own game mode to Creative Mode]
+[23:15:31] [Server thread/INFO]: [Not Secure] <caquitoquito> z
+[23:15:31] [Server thread/INFO]: [Not Secure] <caquitoquito> z
+[23:15:31] [Server thread/INFO]: [Not Secure] <caquitoquito> z
+[23:15:31] [Server thread/INFO]: [Not Secure] <caquitoquito> z
+[23:15:31] [Server thread/INFO]: [Not Secure] <caquitoquito> zz
+[23:15:32] [Server thread/INFO]: [Not Secure] <caquitoquito> z
+[23:15:33] [Server thread/INFO]: [Not Secure] <caquitoquito> zzzz
+[23:15:37] [Server thread/INFO]: [Not Secure] <Don_Jaiba> me rapo a samuellll
+[23:15:38] [Server thread/INFO]: [Not Secure] <Don_Jaiba> zzzzzzzzzz
+[23:15:43] [Server thread/INFO]: [Not Secure] <caquitoquito> way mi mai
+[23:15:44] [Server thread/INFO]: [Not Secure] <caquitoquito> zzz
+[23:15:49] [Server thread/INFO]: [Not Secure] <Don_Jaiba> diq pa subir la nota
+[23:15:50] [Server thread/INFO]: [Not Secure] <Don_Jaiba> z
+[23:16:08] [Server thread/INFO]: [faribel: Set own game mode to Survival Mode]
+[23:16:11] [Server thread/INFO]: [faribel: Made faribel no longer a server operator]
+[23:18:37] [Server thread/INFO]: Don_Jaiba lost connection: Disconnected
+[23:18:37] [Server thread/INFO]: Don_Jaiba left the game
+[23:27:32] [Server thread/WARN]: Ignored advancement 'graves:tick' in progress file ./world/advancements/1c61e4f1-4529-31a2-826c-4942417f5b6a.json - it doesn't exist anymore?
+[23:27:33] [Server thread/INFO]: Officie[/100.107.174.27:62369] logged in with entity id 18067 at (-3086.5671620852672, 91.0, 216.4160436998706)
+[23:27:33] [Server thread/INFO]: Syncing Server Configs with Client
+[23:27:33] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
+[23:27:33] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
+[23:27:33] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
+[23:27:33] [Server thread/INFO]: Officie joined the game
+[23:27:34] [ForkJoinPool.commonPool-worker-4/INFO]: Loaded 1 player data objects (took 0s 394ms)
+[23:28:02] [Server thread/INFO]: [Not Secure] <Officie> permiso
+[23:28:07] [Server thread/INFO]: [Not Secure] <faribel> klk tu dice
+[23:28:10] [Server thread/INFO]: [Not Secure] <faribel> boxer
+[23:28:17] [Server thread/INFO]: [Not Secure] <Officie> permiso
+[23:29:30] [Server thread/INFO]: Villager class_1646['Villager'/18077, l='ServerLevel[world]', x=-3062.68, y=89.06, z=227.74] died, message: 'Villager was slain by Zombie'
+[23:30:22] [Server thread/INFO]: [Not Secure] <caquitoquito> gadiel
+[23:30:24] [Server thread/INFO]: [Not Secure] <caquitoquito> hola
+[23:30:27] [Server thread/INFO]: [Not Secure] <Officie> hola
+[23:30:27] [Server thread/INFO]: [Not Secure] <caquitoquito> duerme bb
+[23:30:31] [Server thread/INFO]: [Not Secure] <Officie> quien es caquito
+[23:30:33] [Server thread/INFO]: Officie has made the advancement [Sweet Dreams]
+[23:30:35] [Server thread/INFO]: [Not Secure] <caquitoquito> samuel
+[23:30:40] [Server thread/INFO]: [Not Secure] <Officie> que lindo tu ere
+[23:30:45] [Server thread/INFO]: [Not Secure] <caquitoquito> gracias
+[23:30:52] [Server thread/INFO]: [Not Secure] <caquitoquito> espera que ariel se duerma
+[23:31:02] [Server thread/INFO]: [Not Secure] <Officie> ese sucio
+[23:31:05] [Server thread/INFO]: [Not Secure] <Officie> tu va a ve
+[23:31:54] [Server thread/INFO]: [Not Secure] <Officie> pp toy roncando mucho y ariel
+[23:31:55] [Server thread/INFO]: [Not Secure] <Officie> no duerme\
+[23:31:56] [Server thread/INFO]: [Not Secure] <faribel> ya
+[23:31:57] [Server thread/INFO]: [Not Secure] <Officie> gracia
+[23:32:01] [Server thread/INFO]: [Not Secure] <Officie> desde que hable
+[23:32:05] [Server thread/INFO]: [Not Secure] <Officie> el me hace caso
+[23:32:14] [Server thread/INFO]: [Not Secure] <faribel> sigue ahi
+[23:32:19] [Server thread/INFO]: [Not Secure] <faribel> te wa singa
+[23:32:25] [Server thread/INFO]: [Not Secure] <Officie> hmm nono
+[23:32:30] [Server thread/INFO]: caquitoquito drowned
+[23:32:37] [Server thread/INFO]: [Not Secure] <Officie> con mi pene
+[23:33:14] [Server thread/INFO]: caquitoquito was not rescued in time
