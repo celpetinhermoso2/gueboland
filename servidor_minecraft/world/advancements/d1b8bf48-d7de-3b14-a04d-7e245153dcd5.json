@@ -3424,76 +3424,136 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-08-03 17:05:25 +0000"
+      "log_spam_fixer": "2025-08-03 17:15:25 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-08-03 17:05:25 +0000"
+      "log_spam_fixer": "2025-08-03 17:15:25 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-08-03 17:05:25 +0000"
+      "log_spam_fixer": "2025-08-03 17:15:25 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-08-03 17:05:53 +0000",
-      "log_spam_fixer": "2025-08-03 17:05:25 +0000"
+      "requirement": "2025-08-03 17:15:40 +0000",
+      "log_spam_fixer": "2025-08-03 17:15:25 +0000"
     },
     "done": true
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-08-03 17:05:25 +0000"
+      "log_spam_fixer": "2025-08-03 17:15:25 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-08-03 17:05:25 +0000"
+      "log_spam_fixer": "2025-08-03 17:15:25 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-08-03 17:05:25 +0000"
+      "log_spam_fixer": "2025-08-03 17:15:25 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-08-03 17:05:25 +0000"
+      "log_spam_fixer": "2025-08-03 17:15:25 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-08-03 17:05:25 +0000"
+      "log_spam_fixer": "2025-08-03 17:15:25 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-08-03 17:05:25 +0000"
+      "log_spam_fixer": "2025-08-03 17:15:25 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-08-03 17:05:25 +0000"
+      "log_spam_fixer": "2025-08-03 17:15:25 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-08-03 17:05:25 +0000"
+      "log_spam_fixer": "2025-08-03 17:15:25 +0000"
     },
     "done": false
+  },
+  "minecraft:husbandry/leash_all_frog_variants": {
+    "criteria": {
+      "minecraft:warm": "2025-08-03 17:12:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-03 17:06:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_door": {
+    "criteria": {
+      "has_planks": "2025-08-03 17:06:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-03 17:06:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_fence": {
+    "criteria": {
+      "has_planks": "2025-08-03 17:06:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-03 17:06:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-03 17:06:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_sign": {
+    "criteria": {
+      "has_planks": "2025-08-03 17:06:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_button": {
+    "criteria": {
+      "has_planks": "2025-08-03 17:06:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_slab": {
+    "criteria": {
+      "has_planks": "2025-08-03 17:06:27 +0000"
+    },
+    "done": true
   },
   "DataVersion": 4440
 }
