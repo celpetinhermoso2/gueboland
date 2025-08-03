@@ -334,3 +334,8 @@
 [03:43:03] [Server thread/INFO]: klyo died
 [03:43:05] [Server thread/INFO]: klyo was not rescued in time
 [03:49:19] [Server thread/INFO]: klyo has made the advancement [Ice Bucket Challenge]
+[03:58:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@4d975a96[id=1c61e4f1-4529-31a2-826c-4942417f5b6a,name=Officie,properties={}] lost connection: Disconnected
+[03:58:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@4dc6ff7e[id=1c61e4f1-4529-31a2-826c-4942417f5b6a,name=Officie,properties={}] lost connection: Disconnected
+[03:59:43] [Server thread/INFO]: com.mojang.authlib.GameProfile@4188b853[id=1c61e4f1-4529-31a2-826c-4942417f5b6a,name=Officie,properties={}] lost connection: Disconnected
+[03:59:46] [Server thread/INFO]: com.mojang.authlib.GameProfile@77dd5cc6[id=1c61e4f1-4529-31a2-826c-4942417f5b6a,name=Officie,properties={}] lost connection: Disconnected
+[04:01:16] [Server thread/INFO]: [Not Secure] <klyo> BANKAI
