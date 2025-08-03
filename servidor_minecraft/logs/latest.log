@@ -597,3 +597,20 @@
 [06:22:15] [Server thread/INFO]: [Not Secure] <Officie> tmm
 [06:26:29] [Server thread/INFO]: [Not Secure] <Officie> hablamo mañana señore
 [06:26:34] [Server thread/INFO]: [Not Secure] <DTav> ba bai
+[06:26:34] [Server thread/INFO]: [Not Secure] <Officie> voy a sali temprano mañana
+[06:26:38] [Server thread/INFO]: [Not Secure] <Officie> pasen buena noche
+[06:26:40] [Server thread/INFO]: [Not Secure] <faribel> hablamo el marte bb
+[06:26:46] [Server thread/INFO]: [Not Secure] <Officie> nos vemos baby
+[06:26:50] [Server thread/INFO]: Officie lost connection: Disconnected
+[06:26:50] [Server thread/INFO]: Officie left the game
+[06:27:24] [Worker-Main-2/ERROR]: Recoverable errors when loading section [-156, 4, -82]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[06:33:04] [Server thread/INFO]: Made faribel a server operator
+[06:33:12] [Server thread/INFO]: [faribel: Killed 363 entities]
+[06:33:19] [Server thread/INFO]: [faribel: Made faribel no longer a server operator]
+[06:39:00] [Worker-Main-2/ERROR]: Recoverable errors when loading section [-156, 4, -82]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[06:43:18] [Server thread/INFO]: faribel died
+[06:43:21] [Server thread/INFO]: faribel was not rescued in time
+[06:47:14] [Worker-Main-2/ERROR]: Recoverable errors when loading section [-156, 4, -82]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[06:47:52] [Server thread/INFO]: Made faribel a server operator
+[06:47:58] [Server thread/INFO]: [faribel: Teleported faribel to -2109.500000, -38.500000, -1226.500000]
+[06:48:21] [Server thread/INFO]: [faribel: Made faribel no longer a server operator]
