@@ -38,6 +38,7 @@
       "minecraft:snowy_taiga": "2025-07-31 16:04:51 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-31 17:39:22 +0000",
       "minecraft:swamp": "2025-07-31 18:46:32 +0000",
+      "minecraft:meadow": "2025-08-04 03:49:17 +0000",
       "minecraft:savanna": "2025-08-01 02:42:18 +0000",
       "minecraft:plains": "2025-07-31 16:23:37 +0000",
       "minecraft:pale_garden": "2025-08-03 01:00:09 +0000"
@@ -4160,6 +4161,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-08-04 03:55:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-08-04 03:36:38 +0000"
@@ -4187,6 +4194,12 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-08-04 03:34:26 +0000"
+    },
+    "done": true
+  },
+  "onlyhammers:recipes/tools/wooden_hammer": {
+    "criteria": {
+      "has_oak_log": "2025-08-04 03:59:00 +0000"
     },
     "done": true
   },

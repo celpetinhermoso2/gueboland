@@ -24,6 +24,7 @@
       "minecraft:birch_forest": "2025-07-31 16:47:27 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-31 17:30:23 +0000",
       "minecraft:snowy_beach": "2025-07-31 16:05:35 +0000",
+      "minecraft:bamboo_jungle": "2025-08-04 04:07:09 +0000",
       "minecraft:windswept_savanna": "2025-08-02 17:23:08 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-08-02 20:32:01 +0000",
       "minecraft:beach": "2025-07-31 16:39:11 +0000",
@@ -3827,6 +3828,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-08-04 04:10:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-08-03 23:51:16 +0000"
@@ -3836,6 +3843,12 @@
   "waystones:recipes/decorations/mossy_waystone_from_moss_blocks": {
     "criteria": {
       "has_waystone": "2025-08-03 23:13:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-08-04 04:10:47 +0000"
     },
     "done": true
   },

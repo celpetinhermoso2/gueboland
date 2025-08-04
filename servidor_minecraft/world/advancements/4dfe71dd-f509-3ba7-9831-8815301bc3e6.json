@@ -8,28 +8,30 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2025-07-31 16:39:15 +0000",
-      "minecraft:beach": "2025-07-31 16:39:12 +0000",
       "minecraft:old_growth_pine_taiga": "2025-07-31 17:43:44 +0000",
-      "minecraft:dark_forest": "2025-07-31 16:49:57 +0000",
       "minecraft:mushroom_fields": "2025-07-31 18:10:09 +0000",
       "minecraft:forest": "2025-07-31 16:33:38 +0000",
       "minecraft:taiga": "2025-07-31 16:41:03 +0000",
-      "minecraft:mangrove_swamp": "2025-08-02 23:32:02 +0000",
       "minecraft:deep_ocean": "2025-07-31 18:09:56 +0000",
-      "minecraft:river": "2025-07-31 16:40:59 +0000",
-      "minecraft:snowy_plains": "2025-07-31 16:27:12 +0000",
-      "minecraft:stony_shore": "2025-07-31 16:40:18 +0000",
       "minecraft:lush_caves": "2025-07-31 17:20:42 +0000",
       "minecraft:deep_cold_ocean": "2025-07-31 18:07:13 +0000",
-      "minecraft:old_growth_birch_forest": "2025-07-31 18:28:18 +0000",
       "minecraft:frozen_river": "2025-07-31 16:34:39 +0000",
       "minecraft:windswept_forest": "2025-07-31 18:35:02 +0000",
       "minecraft:ocean": "2025-07-31 18:20:46 +0000",
+      "minecraft:cherry_grove": "2025-08-04 03:49:18 +0000",
       "minecraft:birch_forest": "2025-07-31 16:48:14 +0000",
       "minecraft:snowy_beach": "2025-07-31 16:39:08 +0000",
       "minecraft:windswept_savanna": "2025-08-02 17:22:58 +0000",
-      "minecraft:plains": "2025-08-01 02:47:34 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-08-02 20:32:03 +0000",
+      "minecraft:beach": "2025-07-31 16:39:12 +0000",
+      "minecraft:dark_forest": "2025-07-31 16:49:57 +0000",
+      "minecraft:mangrove_swamp": "2025-08-02 23:32:02 +0000",
+      "minecraft:river": "2025-07-31 16:40:59 +0000",
+      "minecraft:snowy_plains": "2025-07-31 16:27:12 +0000",
+      "minecraft:stony_shore": "2025-07-31 16:40:18 +0000",
+      "minecraft:old_growth_birch_forest": "2025-07-31 18:28:18 +0000",
+      "minecraft:meadow": "2025-08-04 03:49:15 +0000",
+      "minecraft:plains": "2025-08-01 02:47:34 +0000",
       "minecraft:pale_garden": "2025-07-31 17:59:58 +0000"
     },
     "done": false
@@ -3513,6 +3515,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-08-04 04:04:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-08-04 02:05:14 +0000"
@@ -3711,6 +3719,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-08-04 04:04:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-08-04 02:44:04 +0000"
@@ -3744,6 +3758,12 @@
   "waystones:recipes/decorations/mossy_waystone_from_moss_blocks": {
     "criteria": {
       "has_waystone": "2025-08-04 03:12:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-08-04 04:01:59 +0000"
     },
     "done": true
   },
@@ -3897,6 +3917,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-08-04 04:04:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-08-04 03:11:25 +0000"
@@ -3954,6 +3980,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-08-04 02:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-08-04 04:04:45 +0000"
     },
     "done": true
   },

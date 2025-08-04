@@ -675,3 +675,5 @@ java.lang.Throwable
 [03:02:50] [Server thread/DEBUG] [REI] Player caquitoquito has outdated displays version 0 [latest version: B9432A8100000001], sending reset packet request.
 [03:16:23] [Server thread/DEBUG] [REI] Player DTav has outdated displays version 0 [latest version: B9432A8100000001]
 [03:16:23] [Server thread/DEBUG] [REI] Player DTav has outdated displays version 0 [latest version: B9432A8100000001], sending reset packet request.
+[04:18:18] [Server thread/DEBUG] [REI] Player Officie has outdated displays version 0 [latest version: B9432A8100000001]
+[04:18:18] [Server thread/DEBUG] [REI] Player Officie has outdated displays version 0 [latest version: B9432A8100000001], sending reset packet request.
