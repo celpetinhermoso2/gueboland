@@ -166,7 +166,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-08-03 05:06:38 +0000",
       "minecraft:phantom": "2025-08-04 00:10:54 +0000",
-      "minecraft:zombie": "2025-08-03 04:34:32 +0000"
+      "minecraft:zombie": "2025-08-03 04:34:32 +0000",
+      "minecraft:slime": "2025-08-04 00:33:49 +0000"
     },
     "done": false
   },
@@ -1928,9 +1929,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-08-04 00:33:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_button": {
     "criteria": {
       "has_planks": "2025-08-03 23:57:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/magenta_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-08-04 00:31:44 +0000"
     },
     "done": true
   },
@@ -1952,9 +1965,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/yellow_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-08-04 00:31:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-08-03 23:45:07 +0000"
+      "minecraft:crimson_forest": "2025-08-03 23:45:07 +0000",
+      "minecraft:nether_wastes": "2025-08-04 00:30:20 +0000",
+      "minecraft:soul_sand_valley": "2025-08-04 00:30:29 +0000"
     },
     "done": false
   },
@@ -2036,9 +2057,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/red_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-08-04 00:31:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-08-04 00:21:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/green_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-08-04 00:31:44 +0000"
     },
     "done": true
   },
@@ -2054,9 +2087,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-08-04 00:31:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-08-04 00:25:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crimson_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-08-03 23:47:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/purple_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-08-04 00:31:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/white_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-08-04 00:31:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-08-04 00:25:14 +0000"
     },
     "done": true
   },
@@ -2072,15 +2135,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-08-04 00:25:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2025-08-03 23:28:27 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-08-04 00:25:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/light_gray_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-08-04 00:31:44 +0000"
+    },
+    "done": true
+  },
   "incendium:misc/loot_piglin_village": {
     "criteria": {
       "incendium:medium": "2025-08-03 23:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-08-04 00:25:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-08-04 00:25:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/gray_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-08-04 00:31:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/black_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-08-04 00:31:44 +0000"
     },
     "done": true
   },
@@ -2096,6 +2201,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-08-04 00:33:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-08-03 23:45:01 +0000"
@@ -2108,9 +2219,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/pink_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-08-04 00:31:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2025-08-03 23:44:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/orange_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-08-04 00:31:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/light_blue_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-08-04 00:31:44 +0000"
     },
     "done": true
   },
@@ -2132,6 +2261,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/cyan_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-08-04 00:31:44 +0000"
+    },
+    "done": true
+  },
   "incendium:infernal_dunes/root": {
     "criteria": {
       "incendium:infernal_dunes": "2025-08-04 00:15:34 +0000"
@@ -2141,6 +2276,18 @@
   "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
     "criteria": {
       "has_log": "2025-08-03 23:47:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/brown_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-08-04 00:31:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-08-04 00:33:50 +0000"
     },
     "done": true
   },
@@ -2156,6 +2303,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-08-04 00:32:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2025-08-03 23:28:27 +0000"
@@ -2164,11 +2317,24 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:weeping_valley": "2025-08-04 00:33:15 +0000",
       "incendium:infernal_dunes": "2025-08-04 00:15:34 +0000",
       "incendium:toxic_heap": "2025-08-04 00:16:26 +0000",
       "incendium:withered_forest": "2025-08-04 00:07:06 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/combat/lime_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-08-04 00:31:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/blue_harness": {
+    "criteria": {
+      "has_dried_ghast": "2025-08-04 00:31:44 +0000"
+    },
+    "done": true
   },
   "minecraft:nether/find_fortress": {
     "criteria": {
