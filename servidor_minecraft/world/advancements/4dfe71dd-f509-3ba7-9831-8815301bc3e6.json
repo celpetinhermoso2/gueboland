@@ -3519,9 +3519,21 @@
     },
     "done": true
   },
+  "nova_structures:adventure/find_shrine": {
+    "criteria": {
+      "shrine_combat": "2025-08-04 03:11:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/magenta_harness": {
     "criteria": {
       "has_dried_ghast": "2025-08-04 02:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-04 03:11:25 +0000"
     },
     "done": true
   },
@@ -3537,6 +3549,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-04 03:11:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-08-04 02:07:40 +0000"
@@ -3546,6 +3564,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-08-04 02:18:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-04 03:11:25 +0000"
     },
     "done": true
   },
@@ -3567,6 +3591,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-04 03:11:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-08-04 01:59:11 +0000"
@@ -3579,6 +3609,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-04 03:11:25 +0000"
+    },
+    "done": true
+  },
   "nova_structures:nether/find_piglins": {
     "criteria": {
       "nova_structures:piglin_camp": "2025-08-04 02:53:59 +0000"
@@ -3588,6 +3624,12 @@
   "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
       "has_logs": "2025-08-04 02:35:29 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/mossy_waystone_from_vines": {
+    "criteria": {
+      "has_waystone": "2025-08-04 03:12:07 +0000"
     },
     "done": true
   },
@@ -3639,6 +3681,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-04 03:11:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/green_harness": {
     "criteria": {
       "has_dried_ghast": "2025-08-04 02:28:33 +0000"
@@ -3681,9 +3729,21 @@
     },
     "done": true
   },
+  "waystones:recipes/decorations/mossy_waystone_from_moss_blocks": {
+    "criteria": {
+      "has_waystone": "2025-08-04 03:12:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-08-04 02:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-04 03:11:25 +0000"
     },
     "done": true
   },
@@ -3729,6 +3789,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-04 03:11:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-08-04 02:44:04 +0000"
@@ -3750,6 +3816,12 @@
   "incendium:toxic_heap/root": {
     "criteria": {
       "requirement": "2025-08-04 02:27:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-04 03:11:25 +0000"
     },
     "done": true
   },
@@ -3798,6 +3870,12 @@
   "minecraft:recipes/combat/pink_harness": {
     "criteria": {
       "has_dried_ghast": "2025-08-04 02:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-04 03:11:25 +0000"
     },
     "done": true
   },
@@ -3879,6 +3957,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-04 03:11:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/cyan_harness": {
     "criteria": {
       "has_dried_ghast": "2025-08-04 02:28:33 +0000"
@@ -3909,6 +3993,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-04 03:11:25 +0000"
+    },
+    "done": true
+  },
   "incendium:misc/soul_searcher": {
     "criteria": {
       "incendium:weeping_valley": "2025-08-04 02:29:10 +0000",
@@ -3916,6 +4006,12 @@
       "incendium:withered_forest": "2025-08-04 02:48:49 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-04 03:11:25 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/combat/lime_harness": {
     "criteria": {
@@ -3935,9 +4031,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-04 03:11:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-08-04 02:15:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-04 03:11:25 +0000"
     },
     "done": true
   },

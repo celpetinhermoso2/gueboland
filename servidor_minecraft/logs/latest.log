@@ -511,3 +511,41 @@
 [03:03:44] [Server thread/WARN]: Birch Boat (vehicle of Don_Jaiba) moved too quickly! -133.88427734375,42.5,-14.832275390625
 [03:03:44] [Server thread/WARN]: Birch Boat (vehicle of Don_Jaiba) moved too quickly! -133.88427734375,42.5,-14.832275390625
 [03:03:44] [Server thread/WARN]: Birch Boat (vehicle of Don_Jaiba) moved too quickly! -133.88427734375,42.5,-14.832275390625
+[03:09:52] [Server thread/INFO]: caquitoquito has made the advancement [A Seedy Place]
+[03:11:12] [Server thread/WARN]: Oak Boat (vehicle of klyo) moved too quickly! -41.30425448424489,27.5,641.4569257476196
+[03:11:13] [Server thread/INFO]: klyo has made the advancement [A Major Trial Of Strength]
+[03:11:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[03:12:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[03:12:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4958ms or 99 ticks behind
+[03:12:31] [Server thread/INFO]: [Not Secure] <faribel> gadiel
+[03:12:34] [Server thread/INFO]: [Not Secure] <faribel> te wa visita
+[03:12:35] [Server thread/INFO]: [Not Secure] <Officie> dime
+[03:12:37] [Server thread/INFO]: [Not Secure] <Officie> dale
+[03:12:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7337ms or 146 ticks behind
+[03:13:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5876ms or 117 ticks behind
+[03:13:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3245ms or 64 ticks behind
+[03:13:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3520ms or 70 ticks behind
+[03:14:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3686ms or 73 ticks behind
+[03:14:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2868ms or 57 ticks behind
+[03:14:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2875ms or 57 ticks behind
+[03:14:52] [Server thread/INFO]: [Not Secure] <faribel> mmg tu si ta lejo
+[03:15:01] [Server thread/INFO]: [Not Secure] <Officie> aqui fue donde encontre la aldea
+[03:15:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3436ms or 68 ticks behind
+[03:15:09] [Server thread/INFO]: [Not Secure] <Officie> depue yo conecto portale del nether no te preocupe
+[03:15:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3602ms or 72 ticks behind
+[03:15:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2867ms or 57 ticks behind
+[03:15:42] [Server thread/INFO]: Don_Jaiba lost connection: Disconnected
+[03:15:42] [Server thread/INFO]: Don_Jaiba left the game
+[03:16:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[03:16:23] [Server thread/WARN]: Ignored advancement 'graves:tick' in progress file ./world/advancements/f00ffddc-696b-3060-89a3-ec82f708f68e.json - it doesn't exist anymore?
+[03:16:23] [Server thread/INFO]: DTav[/100.64.141.62:2535] logged in with entity id 291438 at (-1393.4765191363883, 44.0, -1696.6910421001955)
+[03:16:23] [Server thread/INFO]: Syncing Server Configs with Client
+[03:16:23] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
+[03:16:23] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
+[03:16:23] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
+[03:16:23] [Server thread/INFO]: DTav joined the game
+[03:16:23] [ForkJoinPool.commonPool-worker-23/INFO]: Loaded 1 player data objects (took 0s 353ms)
+[03:16:29] [Server thread/INFO]: [Not Secure] <Officie> que lindo
+[03:16:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2597ms or 51 ticks behind
+[03:16:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2154ms or 43 ticks behind
+[03:17:07] [Server thread/INFO]: SaidKiller__ has made the advancement [A Major Trial Of Strength]
