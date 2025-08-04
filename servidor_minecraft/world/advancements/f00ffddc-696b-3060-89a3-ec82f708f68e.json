@@ -4131,6 +4131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/suspicious_stew_from_red_tulip": {
+    "criteria": {
+      "has_red_tulip": "2025-08-04 04:35:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-08-04 03:29:51 +0000"
@@ -4278,6 +4284,12 @@
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-08-04 03:32:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-08-04 04:36:14 +0000"
     },
     "done": true
   },
@@ -4431,6 +4443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/suspicious_stew_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-08-04 04:36:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-08-04 03:32:39 +0000"
@@ -4440,6 +4458,12 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-08-04 03:36:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-08-04 04:35:36 +0000"
     },
     "done": true
   },

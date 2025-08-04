@@ -3845,6 +3845,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-08-04 04:46:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/gray_harness": {
     "criteria": {
       "has_dried_ghast": "2025-08-04 02:28:33 +0000"

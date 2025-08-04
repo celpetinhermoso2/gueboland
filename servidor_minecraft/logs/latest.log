@@ -802,3 +802,24 @@
 [04:28:51] [Server thread/INFO]: faribel was slain by DTav
 [04:28:53] [Server thread/INFO]: DTav died
 [04:29:00] [Server thread/INFO]: DTav was slain by SaidKiller__
+[04:33:02] [Server thread/INFO]: Made faribel a server operator
+[04:33:12] [Server thread/INFO]: [faribel: Set own game mode to Spectator Mode]
+[04:33:15] [Server thread/WARN]: Jungle Boat (vehicle of SaidKiller__) moved wrongly! 2521.1600435590044
+[04:33:27] [Server thread/WARN]: faribel moved too quickly! 3.2972271898513554,-2.6909409029168927,-9.205666283632809
+[04:33:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2918ms or 58 ticks behind
+[04:34:08] [Server thread/INFO]: [faribel: Teleported faribel to DTav]
+[04:36:39] [Server thread/INFO]: [faribel: Teleported faribel to DTav]
+[04:42:53] [Server thread/INFO]: [faribel: Teleported faribel to klyo]
+[04:43:01] [Server thread/INFO]: [faribel: Teleported faribel to klyo]
+[04:44:36] [Server thread/INFO]: [faribel: Teleported faribel to -1517.500000, 96.500000, -1690.500000]
+[04:45:09] [Server thread/INFO]: [faribel: Set own game mode to Survival Mode]
+[04:46:22] [Server thread/INFO]: klyo has made the advancement [Hot Stuff]
+[04:46:28] [Worker-Main-2/ERROR]: Recoverable errors when loading section [3, 4, -16]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[04:46:28] [Worker-Main-3/ERROR]: Recoverable errors when loading section [5, 4, -4]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[04:46:28] [Worker-Main-2/ERROR]: Recoverable errors when loading section [5, 4, -3]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[04:46:28] [Worker-Main-3/ERROR]: Recoverable errors when loading section [6, 4, -4]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[04:46:28] [Worker-Main-3/ERROR]: Recoverable errors when loading section [6, 4, -3]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[04:46:28] [Server thread/INFO]: [faribel: Set own game mode to Spectator Mode]
+[04:46:32] [Server thread/INFO]: [faribel: Teleported faribel to klyo]
+[04:47:21] [Server thread/INFO]: [faribel: Teleported faribel to DTav]
+[04:48:00] [Server thread/INFO]: [faribel: Teleported faribel to DTav]
