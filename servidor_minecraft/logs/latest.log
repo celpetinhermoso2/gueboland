@@ -316,3 +316,39 @@
 [01:54:08] [Server thread/INFO]: Officie joined the game
 [01:54:08] [ForkJoinPool.commonPool-worker-13/INFO]: Loaded 1 player data objects (took 0s 350ms)
 [01:55:00] [Server thread/INFO]: [Not Secure] <Officie> loco eto mod tan de to
+[01:58:44] [Server thread/INFO]: [Not Secure] <Officie> vengo ahora
+[01:58:46] [Server thread/INFO]: [Not Secure] <Officie> tengo hambre
+[01:58:49] [Server thread/INFO]: [Not Secure] <faribel> dale
+[01:58:55] [Server thread/INFO]: Officie lost connection: Disconnected
+[01:58:55] [Server thread/INFO]: Officie left the game
+[01:59:11] [Server thread/INFO]: No return portal found
+[01:59:11] [Server thread/INFO]: klyo has made the advancement [Incendium]
+[01:59:11] [Server thread/INFO]: klyo has made the advancement [We Need to Go Deeper]
+[02:01:21] [Server thread/INFO]: Named entity class_4836['Piglin Civilian'/190014, l='ServerLevel[world]', x=-296.34, y=52.00, z=38.52] died: Piglin Civilian was slain by Wither Skeleton
+[02:01:31] [Server thread/INFO]: Named entity class_4836['Piglin Civilian'/189282, l='ServerLevel[world]', x=-292.17, y=50.00, z=39.83] died: Piglin Civilian was slain by Wither Skeleton
+[02:02:03] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-25, 3, 15]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[02:02:03] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-25, 4, 15]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[02:02:03] [Worker-Main-3/ERROR]: Recoverable errors when loading section [-24, 4, 17]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[02:02:03] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-24, 3, 16]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[02:02:03] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-24, 4, 16]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[02:02:03] [Worker-Main-2/ERROR]: Recoverable errors when loading section [-19, 4, 12]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[02:02:03] [Worker-Main-3/ERROR]: Recoverable errors when loading section [-19, 4, 13]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[02:02:03] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-18, 5, 17]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[02:02:03] [Worker-Main-2/ERROR]: Recoverable errors when loading section [-18, 4, 13]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[02:02:03] [Worker-Main-3/ERROR]: Recoverable errors when loading section [-16, 4, 17]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[02:02:03] [Worker-Main-3/ERROR]: Recoverable errors when loading section [-14, 4, 12]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[02:02:03] [Worker-Main-2/ERROR]: Recoverable errors when loading section [-16, 4, 16]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[02:02:03] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-13, 4, 12]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[02:02:03] [Worker-Main-2/ERROR]: Recoverable errors when loading section [-11, 4, 17]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[02:02:03] [Worker-Main-3/ERROR]: Recoverable errors when loading section [-8, 4, -1]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[02:02:03] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-8, 4, -2]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[02:02:03] [Worker-Main-2/ERROR]: Recoverable errors when loading section [-5, 4, -3]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[02:02:03] [Worker-Main-2/ERROR]: Recoverable errors when loading section [-5, 3, 6]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[02:02:03] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-5, 3, 5]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[02:02:03] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-4, 3, 5]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[02:02:03] [Worker-Main-1/ERROR]: Recoverable errors when loading section [-4, 4, 5]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[02:02:48] [Server thread/INFO]: No return portal found
+[02:04:54] [Server thread/INFO]: klyo has made the advancement [Those Were the Days]
+[02:05:03] [Server thread/INFO]: klyo has made the advancement [War Pigs]
+[02:06:27] [Server thread/INFO]: caquitoquito lost connection: Disconnected
+[02:06:27] [Server thread/INFO]: caquitoquito left the game
