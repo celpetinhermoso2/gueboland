@@ -4170,6 +4170,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-08-04 06:30:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-08-04 06:04:56 +0000"
@@ -4179,6 +4185,12 @@
   "resource_backpacks:recipes/misc/backpack_netherite": {
     "criteria": {
       "has_backpack_diamond": "2025-08-04 04:39:23 +0000"
+    },
+    "done": true
+  },
+  "torchtoss:recipes/decorations/vanilla_to_throwable_redstone_torch": {
+    "criteria": {
+      "has_redstone_torch": "2025-08-04 06:30:13 +0000"
     },
     "done": true
   },
