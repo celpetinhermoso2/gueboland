@@ -11,6 +11,7 @@
       "minecraft:dark_forest": "2025-08-01 14:42:13 +0000",
       "minecraft:taiga": "2025-08-02 20:24:08 +0000",
       "minecraft:mangrove_swamp": "2025-08-03 20:06:18 +0000",
+      "minecraft:windswept_forest": "2025-08-04 03:37:25 +0000",
       "minecraft:ocean": "2025-08-03 19:04:11 +0000",
       "minecraft:river": "2025-08-02 20:24:02 +0000",
       "minecraft:birch_forest": "2025-08-01 14:46:13 +0000",
@@ -191,6 +192,7 @@
     "criteria": {
       "cooked_porkchop": "2025-08-01 14:51:35 +0000",
       "apple": "2025-08-03 20:24:44 +0000",
+      "golden_apple": "2025-08-04 03:39:12 +0000",
       "rotten_flesh": "2025-08-03 23:28:49 +0000",
       "cooked_cod": "2025-08-03 23:52:58 +0000",
       "cooked_beef": "2025-08-03 18:50:53 +0000",
@@ -1700,6 +1702,30 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-08-04 00:19:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2025-08-04 03:39:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-08-04 03:41:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-08-04 03:41:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-08-04 03:40:14 +0000"
     },
     "done": true
   },

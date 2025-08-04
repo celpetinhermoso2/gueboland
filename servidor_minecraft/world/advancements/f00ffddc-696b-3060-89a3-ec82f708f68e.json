@@ -531,6 +531,7 @@
       "cooked_cod": "2025-07-31 17:13:56 +0000",
       "dried_kelp": "2025-08-01 21:07:21 +0000",
       "cooked_beef": "2025-07-31 16:08:37 +0000",
+      "baked_potato": "2025-08-04 03:45:27 +0000",
       "melon_slice": "2025-07-31 16:41:36 +0000",
       "pumpkin_pie": "2025-07-31 18:38:33 +0000",
       "carrot": "2025-07-31 18:35:26 +0000"
@@ -4144,6 +4145,12 @@
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2025-08-04 03:36:38 +0000"
+    },
+    "done": true
+  },
+  "onlyhammers:recipes/tools/gold_hammer": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-04 03:37:03 +0000"
     },
     "done": true
   },

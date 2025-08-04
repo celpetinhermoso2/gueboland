@@ -3807,6 +3807,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-08-04 03:36:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-08-04 02:44:04 +0000"
@@ -3876,6 +3882,12 @@
   "incendium:misc/root": {
     "criteria": {
       "incendium:weeping_valley": "2025-08-04 02:29:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-08-04 03:38:37 +0000"
     },
     "done": true
   },
@@ -3987,6 +3999,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-04 03:36:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/brown_harness": {
     "criteria": {
       "has_dried_ghast": "2025-08-04 02:28:33 +0000"
@@ -4076,6 +4094,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
     "criteria": {
       "has_polished_deepslate": "2025-08-04 03:11:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-08-04 03:36:48 +0000"
     },
     "done": true
   },
