@@ -17,6 +17,7 @@
       "minecraft:deep_ocean": "2025-07-31 18:49:49 +0000",
       "minecraft:river": "2025-07-31 18:55:39 +0000",
       "minecraft:snowy_plains": "2025-07-31 18:38:43 +0000",
+      "minecraft:dripstone_caves": "2025-08-03 23:52:36 +0000",
       "minecraft:deep_cold_ocean": "2025-07-31 18:45:19 +0000",
       "minecraft:windswept_forest": "2025-08-01 03:21:19 +0000",
       "minecraft:ocean": "2025-07-31 18:54:24 +0000",
@@ -766,12 +767,14 @@
       "minecraft:pillager": "2025-08-01 03:21:40 +0000",
       "minecraft:cave_spider": "2025-08-03 21:10:13 +0000",
       "minecraft:skeleton": "2025-08-01 04:44:06 +0000",
+      "minecraft:guardian": "2025-08-03 23:53:49 +0000",
       "minecraft:phantom": "2025-08-02 20:56:17 +0000",
       "minecraft:silverfish": "2025-08-02 22:07:38 +0000",
       "minecraft:spider": "2025-08-01 19:49:25 +0000",
       "minecraft:zombie": "2025-08-01 02:52:12 +0000",
       "minecraft:creeper": "2025-08-01 03:15:25 +0000",
-      "minecraft:drowned": "2025-08-01 20:07:13 +0000"
+      "minecraft:drowned": "2025-08-01 20:07:13 +0000",
+      "minecraft:slime": "2025-08-03 23:51:33 +0000"
     },
     "done": false
   },
@@ -3253,71 +3256,11 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 23:17:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 23:17:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 23:17:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 23:17:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 23:17:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 23:17:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 23:17:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 23:17:50 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/misc/leaf_litter": {
     "criteria": {
       "has_leaves": "2025-08-03 23:18:04 +0000"
     },
     "done": true
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 23:17:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 23:17:50 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
@@ -3325,17 +3268,71 @@
     },
     "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "onlyhammers:recipes/tools/emerald_hammer": {
     "criteria": {
-      "log_spam_fixer": "2025-08-03 23:17:50 +0000"
+      "has_emerald": "2025-08-04 00:05:52 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/food/suspicious_stew_from_oxeye_daisy": {
     "criteria": {
-      "log_spam_fixer": "2025-08-03 23:17:50 +0000"
+      "has_oxeye_daisy": "2025-08-03 23:41:57 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-08-03 23:48:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-08-03 23:41:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-08-03 23:48:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-08-03 23:53:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-08-03 23:51:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-08-03 23:51:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-08-03 23:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-08-03 23:41:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-08-04 00:01:34 +0000"
+    },
+    "done": true
   },
   "DataVersion": 4440
 }

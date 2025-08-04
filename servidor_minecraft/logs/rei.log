@@ -657,3 +657,7 @@ java.lang.Throwable
 [23:27:34] [Server thread/DEBUG] [REI] Player Officie has outdated displays version 0 [latest version: B9432A8100000001], sending reset packet request.
 [23:40:42] [Server thread/DEBUG] [REI] Player Don_Jaiba has outdated displays version 0 [latest version: B9432A8100000001]
 [23:40:42] [Server thread/DEBUG] [REI] Player Don_Jaiba has outdated displays version 0 [latest version: B9432A8100000001], sending reset packet request.
+[00:10:23] [Server thread/DEBUG] [REI] Player klyo has outdated displays version 0 [latest version: B9432A8100000001]
+[00:10:23] [Server thread/DEBUG] [REI] Player klyo has outdated displays version 0 [latest version: B9432A8100000001], sending reset packet request.
+[00:13:50] [Server thread/DEBUG] [REI] Player klyo has outdated displays version 0 [latest version: B9432A8100000001]
+[00:13:50] [Server thread/DEBUG] [REI] Player klyo has outdated displays version 0 [latest version: B9432A8100000001], sending reset packet request.

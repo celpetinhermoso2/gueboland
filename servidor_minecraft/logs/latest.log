@@ -1,394 +1,62 @@
-[23:04:18] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
-[23:04:18] [main/WARN]: Warnings were found!
- - Mod 'Dynamic Lights' (dynamiclights) 1.8.8+bump+mod recommends any version of modmenu, which is missing!
-	 - You should install any version of modmenu for the optimal experience.
- - Mod 'Dynamic Lights' (dynamiclights) 1.8.8+bump+mod recommends any version of modmenu-badges-lib, which is missing!
-	 - You should install any version of modmenu-badges-lib for the optimal experience.
- - Mod 'Forge Config API Port' (forgeconfigapiport) 21.8.0 recommends any version of modmenu, which is missing!
-	 - You should install any version of modmenu for the optimal experience.
-[23:04:18] [main/INFO]: Loading 127 mods:
-	- amber 6.0.12+1.21.8
-	- antixray 1.4.10
-	   \-- com_moandjiezana_toml_toml4j 0.7.2
-	- architectury 17.0.8
-	- balm 21.8.4
-	   \-- kuma_api 21.8.2
-	- cloth-config 19.0.147
-	   \-- cloth-basic-math 0.6.1
-	- clumps 26.0.0.1
-	- cobweb 1.3.3
-	- collective 8.4
-	- dismountentity 3.6
-	- dynamiclights 1.8.8+bump+mod
-	- emotecraft 3.0.0-a.build.108
-	   |-- bendable_cuboids 1.0.2+mc1.21.7
-	   |-- net_raphimc_noteblocklib 3.1.0-SNAPSHOT
-	   \-- player_animation_library 1.0.4+mc1.21.7
-	        \-- org_javassist_javassist 3.30.2-GA
-	- fabric-api 0.130.0+1.21.8
-	   |-- fabric-api-base 0.4.64+9ec45cd82c
-	   |-- fabric-api-lookup-api-v1 1.6.100+946bf4c32c
-	   |-- fabric-biome-api-v1 16.0.11+946bf4c32c
-	   |-- fabric-block-api-v1 1.1.3+946bf4c32c
-	   |-- fabric-block-view-api-v2 1.0.31+946bf4c32c
-	   |-- fabric-command-api-v2 2.3.0+52fff9ec2c
-	   |-- fabric-content-registries-v0 10.0.18+946bf4c32c
-	   |-- fabric-convention-tags-v1 2.1.40+7f945d5b2c
-	   |-- fabric-convention-tags-v2 2.15.5+eb5df52f2c
-	   |-- fabric-crash-report-info-v1 0.3.15+946bf4c32c
-	   |-- fabric-data-attachment-api-v1 1.8.10+946bf4c32c
-	   |-- fabric-data-generation-api-v1 23.2.5+9fc9c3b12c
-	   |-- fabric-dimensions-v1 4.0.19+946bf4c32c
-	   |-- fabric-entity-events-v1 2.1.1+c9e472732c
-	   |-- fabric-events-interaction-v0 4.0.23+946bf4c32c
-	   |-- fabric-game-rule-api-v1 1.0.73+c64c9c5b2c
-	   |-- fabric-item-api-v1 11.4.3+946bf4c32c
-	   |-- fabric-item-group-api-v1 4.2.13+946bf4c32c
-	   |-- fabric-key-binding-api-v1 1.0.65+946bf4c32c
-	   |-- fabric-lifecycle-events-v1 2.6.3+db4dfd852c
-	   |-- fabric-loot-api-v2 3.0.55+3f89f5a52c
-	   |-- fabric-loot-api-v3 2.0.2+946bf4c32c
-	   |-- fabric-message-api-v1 6.1.1+946bf4c32c
-	   |-- fabric-model-loading-api-v1 5.2.5+946bf4c32c
-	   |-- fabric-networking-api-v1 5.0.1+946bf4c32c
-	   |-- fabric-object-builder-api-v1 21.1.7+946bf4c32c
-	   |-- fabric-particles-v1 4.1.7+946bf4c32c
-	   |-- fabric-recipe-api-v1 8.1.14+946bf4c32c
-	   |-- fabric-registry-sync-v0 6.1.27+946bf4c32c
-	   |-- fabric-renderer-api-v1 7.0.2+946bf4c32c
-	   |-- fabric-renderer-indigo 4.0.2+946bf4c32c
-	   |-- fabric-rendering-fluids-v1 3.1.30+fa6cb72b2c
-	   |-- fabric-rendering-v1 12.4.0+e8d43c762c
-	   |-- fabric-resource-conditions-api-v1 5.0.24+946bf4c32c
-	   |-- fabric-resource-loader-v0 3.1.11+946bf4c32c
-	   |-- fabric-screen-api-v1 2.1.0+277ecf7d2c
-	   |-- fabric-screen-handler-api-v1 1.3.136+946bf4c32c
-	   |-- fabric-sound-api-v1 1.0.42+946bf4c32c
-	   |-- fabric-tag-api-v1 1.2.1+946bf4c32c
-	   |-- fabric-transfer-api-v1 6.0.5+946bf4c32c
-	   \-- fabric-transitive-access-wideners-v1 6.4.1+ac3e15d12c
-	- fabric-language-kotlin 1.13.4+kotlin.2.2.0
-	   |-- org_jetbrains_kotlin_kotlin-reflect 2.2.0
-	   |-- org_jetbrains_kotlin_kotlin-stdlib 2.2.0
-	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.2.0
-	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.2.0
-	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.28.0
-	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.10.2
-	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.10.2
-	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.6.2
-	   |-- org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm 0.7.0
-	   |-- org_jetbrains_kotlinx_kotlinx-io-core-jvm 0.7.0
-	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.8.1
-	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.8.1
-	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.8.1
-	- fabricloader 0.16.14
-	   \-- mixinextras 0.4.1
-	- ferritecore 8.0.0
-	- forgeconfigapiport 21.8.0
-	   |-- com_electronwill_night-config_core 3.8.2
-	   \-- com_electronwill_night-config_toml 3.8.2
-	- fzzy_config 0.7.1+1.21.6
-	   |-- blue_endless_jankson 1.2.3
-	   \-- net_peanuuutz_tomlkt_tomlkt-jvm 0.3.7
-	- hardcorerevival 21.8.2
-	- harvest_with_ease 9.4.0
-	- heartymeals 1.21.6-r1
-	   \-- midnightlib 1.7.5
-	- java 21
-	- lithium 0.18.0+mc1.21.8
-	- luckperms 5.5.10
-	   \-- fabric-permissions-api-v0 0.4.1
-	- minecraft 1.21.8
-	- mobfilter 0.18.0+1.21.7
-	- mr_blooming_biosphere 1.1.11
-	- mss 1.3.6-1.21.8-fabric
-	- mvs 4.4.6-1.21.8-fabric
-	- netherportalfix 21.8.1
-	- onlyhammers 1.21.8-0.1
-	- polymer-bundled 0.13.8+1.21.8
-	   |-- polymer-autohost 0.13.8+1.21.8
-	   |    \-- io_netty_netty-codec-http 4.1.82
-	   |-- polymer-blocks 0.13.8+1.21.8
-	   |-- polymer-common 0.13.8+1.21.8
-	   |    \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
-	   |-- polymer-core 0.13.8+1.21.8
-	   |    |-- polymer-networking 0.13.8+1.21.8
-	   |    |    \-- polymer-common 0.13.8+1.21.8
-	   |    |         \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
-	   |    \-- polymer-registry-sync-manipulator 0.13.8+1.21.8
-	   |-- polymer-resource-pack 0.13.8+1.21.8
-	   |    \-- polymer-common 0.13.8+1.21.8
-	   |         \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
-	   |-- polymer-resource-pack-extras 0.13.8+1.21.8
-	   |-- polymer-sound-patcher 0.13.8+1.21.8
-	   \-- polymer-virtual-entity 0.13.8+1.21.8
-	        \-- polymer-common 0.13.8+1.21.8
-	             \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
-	- puzzleslib 21.8.3
-	- resource_backpacks 1.21.8-1.2.3
-	- resourceconfigapi 1.21.8-3.7.3
-	- resourcelibrary 1.21.8-2.8.1
-	- roughlyenoughitems 20.0.810
-	   \-- error_notifier 1.0.11
-	- silk-all 1.11.2
-	   |-- silk-commands 1.11.2
-	   |-- silk-core 1.11.2
-	   |-- silk-game 1.11.2
-	   |-- silk-igui 1.11.2
-	   |-- silk-nbt 1.11.2
-	   |-- silk-network 1.11.2
-	   \-- silk-persistence 1.11.2
-	- strawberrylib 1.21.7-r4
-	   |-- cardinal-components-base 7.0.0-beta.1
-	   |-- cardinal-components-entity 7.0.0-beta.1
-	   \-- datasync_minecraft 0.10.0
-	- subtle_effects 1.11.1
-	- torchtoss 2.2.0+1.21.7
-	- treeharvester 9.2
-	- veinminer 2.4.8
-	   \-- de_miraculixx_core_dev 2.4.8
-	- waystones 21.8.1
-[23:04:19] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/gueboland/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[23:04:19] [main/INFO]: Compatibility level set to JAVA_18
-[23:04:19] [main/INFO]: Compatibility level set to JAVA_21
-[23:04:19] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[23:04:19] [main/WARN]: Reference map 'harvest_with_ease.refmap.json' for harvest_with_ease.mixins.json could not be read. If this is a development environment you can ignore this message
-[23:04:19] [main/WARN]: Reference map 'harvest_with_ease.refmap.json' for harvest_with_ease.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[23:04:19] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
-[23:04:19] [main/INFO]: Loaded configuration file for Lithium: 160 options available, 0 override(s) found.
-[23:04:20] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[23:04:29] [main/INFO]: Initializing Everlasting Amber Dreams on Fabric...
-[23:04:29] [main/INFO]: Amber internal networking initialized
-[23:04:29] [main/INFO]: Successfully initialized antixray for fabric
-[23:04:29] [main/INFO]: Loading Collective version 8.4.
-[23:04:30] [main/INFO]: [Dynamic Lights] MidnightLib detected!
-[23:04:30] [main/INFO]: [Dynamic Lights] Registering server started event ...
-[23:04:30] [main/INFO]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
-[23:04:31] [main/INFO]: [STDOUT]: All 20 have been set properly
-[23:04:31] [main/INFO]: Constructing components for puzzleslib:common
-[23:04:31] [main/INFO]: Config 'appearance.json' from type 'CLIENT' was skipped.
-[23:04:31] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
-[23:04:31] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REICommonPlugin
-[23:04:31] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REICommonPlugin
-[23:04:31] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REICommonPlugin
-[23:04:31] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
-[23:04:31] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
-[23:04:31] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
-[23:04:31] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
-[23:04:31] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items_new
-[23:04:31] [main/INFO]: Initializing Silk
-[23:04:31] [main/INFO]: TorchToss initializing...
-[23:04:31] [main/INFO]: Veinminer Version: 2.4.8 (fabric)
-[23:04:32] [DefaultDispatcher-worker-3/INFO]: [STDOUT]: [VeinminerUpdater] veinminer is outdated (1.21.8). Installed: 2.4.8 -> Latest: 2.4.9
-[23:04:32] [main/INFO]: Loading configuration...
-[23:04:32] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[23:04:33] [main/WARN]: Pack file/Ender-Dragon-Fight-Remastered-5.0.zip declared support for versions [32, 48] but declared main format is 81, defaulting to 81
-[23:04:34] [main/ERROR]: Invalid path in mod resource-pack mr_blooming_biosphere: blooming_biosphere:worldgen/configured_feature/cliff/beach copy.json, ignoring
-[23:04:36] [Worker-Main-3/INFO]: Registering Amber commands for Fabric
-[23:04:37] [main/INFO]: Loaded 1482 recipes
-[23:04:37] [main/ERROR]: Couldn't load advancements: [catenary:recipes/paper_lanterns, catenary:rocket/placed, eroxified2:custom_block/data/block/catenary/workbench/placed, eroxified2:custom_block/data/block/catenary/zipline_mount_pad/placed, catenary:recipes/workbench, eroxified2:custom_block/data/block/catenary/workbench/on_default_block_use, catenary:recipes/zipline_lift_upgrade, eroxified2:interaction/internal/rclick, eroxified2:interaction/internal/lclick, catenary:recipes/zipline_mount_pad]
-[23:04:37] [main/INFO]: Loaded 1727 advancements
-[23:04:38] [main/INFO]: Applied 77 biome modifications to 74 of 83 new biomes in 9.600 ms
-[23:04:38] [Server thread/INFO]: Initialized mcCoroutineScope (MinecraftServer as executor)
-[23:04:38] [Server thread/INFO]: [MobFilter] Loading config from /workspaces/gueboland/servidor_minecraft/config/mobfilter.json5
-[23:04:38] [Server thread/INFO]: [MobFilter] 2 rule(s) loaded:
-[23:04:38] [Server thread/INFO]: - FilterRule[ruleName=Reduce hostile mobs at night in Overworld, checks=[CategoryCheck[categories=[MONSTER]], DimensionCheck[dimensionMatcher=[minecraft:overworld][]], RandomCheck[odds=0.5]], action=DISALLOW_SPAWN]
-[23:04:38] [Server thread/INFO]: - FilterRule[ruleName=Allow all other spawns, checks=[], action=ALLOW_SPAWN]
-[23:04:38] [Server thread/INFO]: [MobFilter] Log level is INFO
-[23:04:38] [Server thread/INFO]:         __    
-[23:04:38] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.10
-[23:04:38] [Server thread/INFO]:   |___ |      Running on Fabric - fabric@0.130.0+1.21.8
-[23:04:38] [Server thread/INFO]: 
-[23:04:38] [Server thread/INFO]: Loading storage provider... [H2]
-[23:04:38] [Server thread/INFO]: Loading internal permission managers...
-[23:04:38] [Server thread/INFO]: Performing initial data load...
-[23:04:38] [Server thread/INFO]: Successfully enabled. (took 450ms)
-[23:04:38] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[23:04:38] [Server thread/INFO]: Loading properties
-[23:04:38] [Server thread/INFO]: Default game type: SURVIVAL
-[23:04:38] [Server thread/INFO]: Generating keypair
-[23:04:38] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:04:38] [Server thread/INFO]: Using epoll channel type
-[23:04:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:04:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:04:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:04:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:04:38] [Server thread/INFO]: Preparing level "world"
-[23:04:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:04:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:04:48] [Server thread/INFO]: Time elapsed: 8530 ms
-[23:04:48] [Server thread/INFO]: Done (9.468s)! For help, type "help"
-[23:04:48] [Server thread/INFO]: [REI] ++++++++++++++++++++++++++++++++++++++++
-[23:04:48] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for START.
-[23:04:48] [Server thread/INFO]: [REI] Plugins (3):
-[23:04:48] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[23:04:48] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
-[23:04:48] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[23:04:48] [Server thread/INFO]: [REI] ++++++++++++++++++++++++++++++++++++++++
-[23:04:48] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for START in 2.079 ms, totaling 172.4 ms.
-[23:04:48] [Server thread/INFO]: [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-[23:04:48] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for END.
-[23:04:48] [Server thread/INFO]: [REI] Plugins (3):
-[23:04:48] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[23:04:48] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
-[23:04:48] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[23:04:48] [Server thread/INFO]: [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-[23:04:48] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for END in 742.4 μs, totaling 70.66 ms.
-[23:04:48] [Server thread/INFO]: [Dynamic Lights] Sending global config to world ...
-[23:04:54] [Server thread/INFO]: faribel[/100.102.41.71:9753] logged in with entity id 36 at (-1507.3517086370982, 102.24918707874468, -1686.287698822657)
-[23:04:54] [Server thread/INFO]: Syncing Server Configs with Client
-[23:04:54] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
-[23:04:54] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
-[23:04:54] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
-[23:04:54] [Server thread/INFO]: faribel joined the game
-[23:04:55] [ForkJoinPool.commonPool-worker-3/INFO]: Loaded 1 player data objects (took 0s 387ms)
-[23:04:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
-[23:04:59] [Server thread/INFO]: caquitoquito[/100.69.176.22:59093] logged in with entity id 340 at (-1357.1390737633521, 59.25220334025373, -1577.9152066434847)
-[23:04:59] [Server thread/INFO]: Syncing Server Configs with Client
-[23:04:59] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
-[23:04:59] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
-[23:04:59] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
-[23:04:59] [Server thread/INFO]: caquitoquito joined the game
-[23:04:59] [Server thread/INFO]: Don_Jaiba[/100.90.141.112:50474] logged in with entity id 339 at (-1270.7940017371543, 63.0, -2286.6161576841755)
-[23:04:59] [Server thread/INFO]: Syncing Server Configs with Client
-[23:04:59] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
-[23:04:59] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
-[23:04:59] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
-[23:04:59] [Server thread/INFO]: Don_Jaiba joined the game
-[23:04:59] [ForkJoinPool.commonPool-worker-3/INFO]: Loaded 1 player data objects (took 0s 111ms)
-[23:04:59] [ForkJoinPool.commonPool-worker-2/INFO]: Loaded 1 player data objects (took 0s 112ms)
-[23:08:02] [Server thread/INFO]: Made faribel a server operator
-[23:08:08] [Server thread/INFO]: [faribel: Set own game mode to Creative Mode]
-[23:08:35] [Server thread/INFO]: [faribel: Set own game mode to Survival Mode]
-[23:08:40] [Server thread/INFO]: Made faribel no longer a server operator
-[23:12:49] [Server thread/INFO]: Unknown game mode: faribel
-[23:12:49] [Server thread/INFO]: ...de faribel creative<--[HERE]
-[23:13:02] [Server thread/INFO]: Set faribel's game mode to Creative Mode
-[23:15:06] [Server thread/INFO]: Made faribel a server operator
-[23:15:18] [Server thread/INFO]: [faribel: Set own game mode to Survival Mode]
-[23:15:25] [Server thread/INFO]: [Not Secure] <caquitoquito> zzz
-[23:15:25] [Server thread/INFO]: [Not Secure] <caquitoquito> z
-[23:15:27] [Server thread/INFO]: [Not Secure] <caquitoquito> zzzz
-[23:15:28] [Server thread/INFO]: [Not Secure] <Don_Jaiba> zzzzz
-[23:15:29] [Server thread/INFO]: [Not Secure] <caquitoquito> zzzzz
-[23:15:30] [Server thread/INFO]: [Not Secure] <caquitoquito> zzzz
-[23:15:30] [Server thread/INFO]: [Not Secure] <caquitoquito> z
-[23:15:30] [Server thread/INFO]: [Not Secure] <caquitoquito> z
-[23:15:30] [Server thread/INFO]: [Not Secure] <caquitoquito> z
-[23:15:30] [Server thread/INFO]: [faribel: Set own game mode to Creative Mode]
-[23:15:31] [Server thread/INFO]: [Not Secure] <caquitoquito> z
-[23:15:31] [Server thread/INFO]: [Not Secure] <caquitoquito> z
-[23:15:31] [Server thread/INFO]: [Not Secure] <caquitoquito> z
-[23:15:31] [Server thread/INFO]: [Not Secure] <caquitoquito> z
-[23:15:31] [Server thread/INFO]: [Not Secure] <caquitoquito> zz
-[23:15:32] [Server thread/INFO]: [Not Secure] <caquitoquito> z
-[23:15:33] [Server thread/INFO]: [Not Secure] <caquitoquito> zzzz
-[23:15:37] [Server thread/INFO]: [Not Secure] <Don_Jaiba> me rapo a samuellll
-[23:15:38] [Server thread/INFO]: [Not Secure] <Don_Jaiba> zzzzzzzzzz
-[23:15:43] [Server thread/INFO]: [Not Secure] <caquitoquito> way mi mai
-[23:15:44] [Server thread/INFO]: [Not Secure] <caquitoquito> zzz
-[23:15:49] [Server thread/INFO]: [Not Secure] <Don_Jaiba> diq pa subir la nota
-[23:15:50] [Server thread/INFO]: [Not Secure] <Don_Jaiba> z
-[23:16:08] [Server thread/INFO]: [faribel: Set own game mode to Survival Mode]
-[23:16:11] [Server thread/INFO]: [faribel: Made faribel no longer a server operator]
-[23:18:37] [Server thread/INFO]: Don_Jaiba lost connection: Disconnected
-[23:18:37] [Server thread/INFO]: Don_Jaiba left the game
-[23:27:32] [Server thread/WARN]: Ignored advancement 'graves:tick' in progress file ./world/advancements/1c61e4f1-4529-31a2-826c-4942417f5b6a.json - it doesn't exist anymore?
-[23:27:33] [Server thread/INFO]: Officie[/100.107.174.27:62369] logged in with entity id 18067 at (-3086.5671620852672, 91.0, 216.4160436998706)
-[23:27:33] [Server thread/INFO]: Syncing Server Configs with Client
-[23:27:33] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
-[23:27:33] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
-[23:27:33] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
-[23:27:33] [Server thread/INFO]: Officie joined the game
-[23:27:34] [ForkJoinPool.commonPool-worker-4/INFO]: Loaded 1 player data objects (took 0s 394ms)
-[23:28:02] [Server thread/INFO]: [Not Secure] <Officie> permiso
-[23:28:07] [Server thread/INFO]: [Not Secure] <faribel> klk tu dice
-[23:28:10] [Server thread/INFO]: [Not Secure] <faribel> boxer
-[23:28:17] [Server thread/INFO]: [Not Secure] <Officie> permiso
-[23:29:30] [Server thread/INFO]: Villager class_1646['Villager'/18077, l='ServerLevel[world]', x=-3062.68, y=89.06, z=227.74] died, message: 'Villager was slain by Zombie'
-[23:30:22] [Server thread/INFO]: [Not Secure] <caquitoquito> gadiel
-[23:30:24] [Server thread/INFO]: [Not Secure] <caquitoquito> hola
-[23:30:27] [Server thread/INFO]: [Not Secure] <Officie> hola
-[23:30:27] [Server thread/INFO]: [Not Secure] <caquitoquito> duerme bb
-[23:30:31] [Server thread/INFO]: [Not Secure] <Officie> quien es caquito
-[23:30:33] [Server thread/INFO]: Officie has made the advancement [Sweet Dreams]
-[23:30:35] [Server thread/INFO]: [Not Secure] <caquitoquito> samuel
-[23:30:40] [Server thread/INFO]: [Not Secure] <Officie> que lindo tu ere
-[23:30:45] [Server thread/INFO]: [Not Secure] <caquitoquito> gracias
-[23:30:52] [Server thread/INFO]: [Not Secure] <caquitoquito> espera que ariel se duerma
-[23:31:02] [Server thread/INFO]: [Not Secure] <Officie> ese sucio
-[23:31:05] [Server thread/INFO]: [Not Secure] <Officie> tu va a ve
-[23:31:54] [Server thread/INFO]: [Not Secure] <Officie> pp toy roncando mucho y ariel
-[23:31:55] [Server thread/INFO]: [Not Secure] <Officie> no duerme\
-[23:31:56] [Server thread/INFO]: [Not Secure] <faribel> ya
-[23:31:57] [Server thread/INFO]: [Not Secure] <Officie> gracia
-[23:32:01] [Server thread/INFO]: [Not Secure] <Officie> desde que hable
-[23:32:05] [Server thread/INFO]: [Not Secure] <Officie> el me hace caso
-[23:32:14] [Server thread/INFO]: [Not Secure] <faribel> sigue ahi
-[23:32:19] [Server thread/INFO]: [Not Secure] <faribel> te wa singa
-[23:32:25] [Server thread/INFO]: [Not Secure] <Officie> hmm nono
-[23:32:30] [Server thread/INFO]: caquitoquito drowned
-[23:32:37] [Server thread/INFO]: [Not Secure] <Officie> con mi pene
-[23:33:14] [Server thread/INFO]: caquitoquito was not rescued in time
-[23:37:34] [Server thread/INFO]: [Not Secure] <Officie> pp
-[23:37:41] [Server thread/INFO]: [Not Secure] <Officie> tengo tierra como yo
-[23:37:46] [Server thread/INFO]: [Not Secure] <Officie> diq tierra esteril
-[23:37:56] [Server thread/INFO]: [Not Secure] <faribel> diablo que vacano eres
-[23:37:57] [Server thread/INFO]: [Not Secure] <caquitoquito> xD
-[23:38:56] [Server thread/INFO]: [Not Secure] <Officie> loco
-[23:39:02] [Server thread/INFO]: [Not Secure] <faribel> E
-[23:39:02] [Server thread/INFO]: [Not Secure] <Officie> pero se me duplico la mochila
-[23:39:06] [Server thread/INFO]: [Not Secure] <Officie> y porque no lo diamante
-[23:39:08] [Server thread/INFO]: [Not Secure] <Officie> eso no velda
-[23:39:37] [Server thread/INFO]: [Not Secure] <faribel> a mi se me duplico algo orita
-[23:39:42] [Server thread/INFO]: [Not Secure] <faribel> no se que fue
-[23:39:55] [Server thread/INFO]: [Not Secure] <faribel> pero se te duplico to lo q tenia dentro?
-[23:39:59] [Server thread/INFO]: [Not Secure] <Officie> nono
-[23:40:01] [Server thread/INFO]: [Not Secure] <Officie> vacio
-[23:40:08] [Server thread/INFO]: [Not Secure] <faribel> a guebo
-[23:40:09] [Worker-Main-2/ERROR]: Detected setBlock in a far chunk [-210, -1], pos: class_2339{x=-3360, y=0, z=-3}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_tuff]
-[23:40:09] [Worker-Main-2/ERROR]: Detected setBlock in a far chunk [-210, -1], pos: class_2339{x=-3360, y=1, z=-3}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_tuff]
-[23:40:12] [Server thread/INFO]: [Not Secure] <Officie> dnde
-[23:40:16] [Server thread/INFO]: [Not Secure] <faribel> aki
-[23:40:20] [Server thread/INFO]: [Not Secure] <Officie> ra toriyama
-[23:40:42] [Server thread/INFO]: Don_Jaiba[/100.90.141.112:50963] logged in with entity id 30972 at (-1338.663849301812, 63.0, -2223.1032340352194)
-[23:40:42] [Server thread/INFO]: Loaded 1 player data objects (took 0s 0ms)
-[23:40:42] [Server thread/INFO]: Syncing Server Configs with Client
-[23:40:42] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
-[23:40:42] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
-[23:40:42] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
-[23:40:42] [Server thread/INFO]: Don_Jaiba joined the game
-[23:40:55] [Server thread/INFO]: [Not Secure] <Officie> ñemelson guebo rojo
-[23:41:10] [Server thread/INFO]: [Not Secure] <Don_Jaiba> hola gadiel
-[23:41:14] [Server thread/INFO]: [Not Secure] <Officie> hola quien eres
-[23:41:18] [Server thread/INFO]: [Not Secure] <Officie> identificate en este momento
-[23:41:20] [Server thread/INFO]: [Not Secure] <Don_Jaiba> maltin lora
-[23:41:22] [Server thread/INFO]: [Not Secure] <Don_Jaiba> ibra
-[23:41:30] [Server thread/INFO]: [Not Secure] <Officie> el del video de frooby?
-[23:41:37] [Server thread/INFO]: [Not Secure] <Don_Jaiba> Mr.305
-[23:41:42] [Server thread/INFO]: [Not Secure] <Officie> el hueso
-[23:42:09] [Server thread/INFO]: [Not Secure] <Officie> ariel mucho mod pero no veo el jennys mod
-[23:42:18] [Server thread/INFO]: [Not Secure] <Don_Jaiba> maldito gooner
-[23:42:26] [Server thread/INFO]: [Not Secure] <Officie> oyelo]
-[23:42:32] [Server thread/INFO]: [Not Secure] <Officie> el primero que lo va a usa si lo ponen
-[23:42:42] [Server thread/INFO]: [Not Secure] <Don_Jaiba> obvio pinocho
-[23:43:24] [Server thread/INFO]: [Not Secure] <Officie> eh ma
-[23:44:16] [Server thread/INFO]: Officie has made the advancement [Who is Cutting Onions?]
-[23:44:30] [Server thread/INFO]: [Not Secure] <Don_Jaiba> loco como diablo
-[23:44:43] [Server thread/INFO]: [Not Secure] <Officie> toy aburrio
+[00:03:43] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/60357, l='ServerLevel[world]', x=-325.07, y=-20.00, z=133.45] died: Restless Spirit was killed
+[00:04:27] [Server thread/INFO]: [Not Secure] <Officie> no os preocupeis
+[00:04:33] [Server thread/INFO]: [Not Secure] <Officie> llegue sano y salvo con un corazon
+[00:04:43] [Server thread/INFO]: [Not Secure] <faribel> q tal el nether
+[00:04:45] [Server thread/INFO]: [Not Secure] <faribel> ta lindo
+[00:04:49] [Server thread/INFO]: [Not Secure] <Officie> ta lindo si
+[00:04:53] [Server thread/INFO]: [Not Secure] <Officie> si hubiera llevado comida
+[00:05:15] [Server thread/INFO]: [Not Secure] <Officie> ahora voy a volve
+[00:05:52] [Server thread/INFO]: [Not Secure] <Officie> nama ami no se me ocurre pone un waypoint en el portal
+[00:06:00] [Server thread/INFO]: [Not Secure] <Officie> tuve que encontra la coordenada con la calculadora
+[00:06:06] [Server thread/INFO]: [Not Secure] <faribel> tu ere un tonto
+[00:06:47] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/67755, l='ServerLevel[world]', x=-357.42, y=50.00, z=86.14] died: Headless Warrior was slain by Piglin
+[00:07:06] [Server thread/INFO]: Officie has made the advancement [Strange Biomes]
+[00:07:06] [Server thread/INFO]: Officie has made the advancement [Ancient Battlefield]
+[00:07:09] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/69029, l='ServerLevel[world]', x=-400.65, y=38.00, z=-70.16] died: Headless Warrior was shot by Piglin
+[00:07:10] [Server thread/INFO]: [Not Secure] <Officie> LOCO QUE ES ESTO
+[00:07:15] [Server thread/INFO]: [Not Secure] <faribel> manda captura
+[00:07:17] [Server thread/INFO]: [Not Secure] <faribel> o foto por ws
+[00:07:18] [Server thread/INFO]: [Not Secure] <faribel> pa ve
+[00:07:23] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/67693, l='ServerLevel[world]', x=-404.26, y=36.00, z=-59.25] died: Headless Warrior was shot by Piglin
+[00:07:25] [Server thread/INFO]: [Not Secure] <Don_Jaiba> mandala si
+[00:07:33] [Server thread/INFO]: [Not Secure] <Officie> por donde
+[00:07:37] [Server thread/INFO]: [Not Secure] <faribel> por ws
+[00:07:40] [Server thread/INFO]: [Not Secure] <faribel> yo se la enseno
+[00:07:43] [Server thread/INFO]: [Not Secure] <Officie> el que
+[00:07:47] [Server thread/INFO]: [Not Secure] <faribel> tmm
+[00:08:38] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/70166, l='ServerLevel[world]', x=-395.80, y=41.00, z=-54.66] died: Headless Warrior was slain by Piglin
+[00:09:08] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/70414, l='ServerLevel[world]', x=-366.35, y=43.00, z=48.71] died: Headless Warrior was shot by Piglin
+[00:09:11] [Server thread/INFO]: [Not Secure] <Officie> LOCO
+[00:09:15] [Server thread/INFO]: [Not Secure] <Officie> TIENE BLOQUE DE HUESO ETO
+[00:09:20] [Server thread/INFO]: [Not Secure] <Officie> pp y pal colmo ta lejisimo
+[00:09:20] [Server thread/INFO]: [Not Secure] <faribel> coronaste
+[00:09:28] [Server thread/INFO]: [Not Secure] <Officie> voy a tener que entrar
+[00:09:35] [Server thread/INFO]: [Not Secure] <Officie> a un lugar con esqueletos withers y phantoms
+[00:09:42] [Server thread/INFO]: [Not Secure] <faribel> te va a llevar el diablo
+[00:09:47] [Server thread/INFO]: [Not Secure] <Officie> yo salgo vivo
+[00:10:23] [Server thread/WARN]: Ignored advancement 'graves:tick' in progress file ./world/advancements/4dfe71dd-f509-3ba7-9831-8815301bc3e6.json - it doesn't exist anymore?
+[00:10:23] [Server thread/INFO]: klyo[/100.114.68.51:50521] logged in with entity id 73484 at (-1761.5380577786543, 130.0, -1595.4553880056196)
+[00:10:23] [Server thread/INFO]: Syncing Server Configs with Client
+[00:10:23] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
+[00:10:23] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
+[00:10:23] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
+[00:10:23] [Server thread/INFO]: klyo joined the game
+[00:10:23] [ForkJoinPool.commonPool-worker-8/INFO]: Loaded 1 player data objects (took 0s 385ms)
+[00:10:36] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/74169, l='ServerLevel[world]', x=-367.88, y=48.00, z=153.33] died: Headless Warrior was doomed to fall by Piglin
+[00:11:01] [Worker-Main-3/ERROR]: Block-attached entity at invalid position: class_2338{x=147, y=169, z=-166}
+[00:11:35] [Server thread/INFO]: [Not Secure] <Officie> loc
+[00:11:39] [Server thread/INFO]: [Not Secure] <Officie> no era
+[00:11:44] [Server thread/INFO]: [Not Secure] <Officie> bloque de hueso
+[00:12:34] [Server thread/INFO]: [Not Secure] <Officie> me lleva el diablo
+[00:12:42] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/74327, l='ServerLevel[world]', x=-363.04, y=57.00, z=150.54] died: Headless Warrior was slain by Piglin
+[00:12:53] [Server thread/INFO]: [Not Secure] <Officie> donde DIABLO tara el bioma de soul sand
+[00:13:46] [Server thread/INFO]: klyo lost connection: Disconnected
+[00:13:46] [Server thread/INFO]: klyo left the game
+[00:13:49] [Server thread/INFO]: klyo[/100.114.68.51:50645] logged in with entity id 80223 at (-1518.8406061997043, 98.0, -1696.342531939356)
+[00:13:49] [Server thread/INFO]: Loaded 1 player data objects (took 0s 0ms)
+[00:13:49] [Server thread/INFO]: Syncing Server Configs with Client
+[00:13:49] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
+[00:13:49] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
+[00:13:49] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
+[00:13:49] [Server thread/INFO]: klyo joined the game
+[00:13:59] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/79823, l='ServerLevel[world]', x=-356.58, y=49.75, z=86.56] died: Headless Warrior was shot by Piglin
