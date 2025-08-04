@@ -278,3 +278,41 @@
 [01:23:25] [Server thread/INFO]: [Not Secure] <Officie> pero no le di click
 [01:23:35] [Server thread/INFO]: [Not Secure] <Officie> toy preparando la zona de aldeano
 [01:23:37] [Server thread/INFO]: [Not Secure] <Officie> que ando lento
+[01:28:21] [Server thread/INFO]: [Not Secure] <faribel> gadiel
+[01:28:23] [Server thread/INFO]: [Not Secure] <faribel> dale a la u
+[01:28:23] [Server thread/INFO]: [Not Secure] <Officie> dime
+[01:28:31] [Server thread/INFO]: [Not Secure] <Officie> que ma
+[01:28:33] [Server thread/INFO]: [Not Secure] <faribel> y el waypoint de tu casa compartelo
+[01:28:36] [Server thread/INFO]: [Not Secure] <faribel> share
+[01:28:40] [Server thread/INFO]: [Not Secure] <Officie> xaero-waypoint:Aldea:A:-3090:94:224:6:false:0:Internal-overworld
+[01:29:10] [Server thread/INFO]: Villager class_1646['Fisherman'/156364, l='ServerLevel[world]', x=-3091.66, y=95.00, z=227.70] died, message: 'Fisherman was slain by Zombie'
+[01:29:34] [Server thread/INFO]: [Not Secure] <Officie> donde eh que tu vive
+[01:29:54] [Server thread/INFO]: [Not Secure] <caquitoquito> duermman
+[01:29:56] [Server thread/INFO]: [Not Secure] <caquitoquito> gadiel
+[01:29:58] [Server thread/INFO]: [Not Secure] <faribel> xaero-waypoint:base:B:-1518:96:-1691:6:false:0:Internal-overworld
+[01:29:59] [Server thread/INFO]: [Not Secure] <caquitoquito> duerme
+[01:30:19] [Server thread/INFO]: [Not Secure] <Officie> voy
+[01:43:01] [Server thread/INFO]: klyo[/100.114.68.51:51775] logged in with entity id 175960 at (-1541.565735908247, 64.0, -1719.9585122754218)
+[01:43:01] [Server thread/INFO]: Syncing Server Configs with Client
+[01:43:01] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
+[01:43:01] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
+[01:43:01] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
+[01:43:01] [Server thread/INFO]: klyo joined the game
+[01:43:02] [ForkJoinPool.commonPool-worker-11/INFO]: Loaded 1 player data objects (took 0s 447ms)
+[01:43:18] [Server thread/INFO]: [Not Secure] <Officie> hola lindo
+[01:43:24] [Server thread/INFO]: [Not Secure] <klyo> hola linda
+[01:44:02] [Server thread/INFO]: klyo was slain by Zombie
+[01:44:34] [Server thread/INFO]: klyo was slain by Enderman
+[01:44:52] [Server thread/WARN]: Officie moved too quickly! 8.072269708635758,1.252203340253729,-5.798649312175513
+[01:44:58] [Server thread/WARN]: Officie moved too quickly! -9.935771821884828,0.47077678879223583,2.3315535683329074
+[01:53:50] [Server thread/INFO]: Officie lost connection: Timed out
+[01:53:50] [Server thread/INFO]: Officie left the game
+[01:53:50] [Server thread/WARN]: handleDisconnection() called twice
+[01:54:08] [Server thread/INFO]: Officie[/100.107.174.27:58085] logged in with entity id 184731 at (-3079.449260240225, 88.9375, 225.28826253373006)
+[01:54:08] [Server thread/INFO]: Syncing Server Configs with Client
+[01:54:08] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
+[01:54:08] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
+[01:54:08] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
+[01:54:08] [Server thread/INFO]: Officie joined the game
+[01:54:08] [ForkJoinPool.commonPool-worker-13/INFO]: Loaded 1 player data objects (took 0s 350ms)
+[01:55:00] [Server thread/INFO]: [Not Secure] <Officie> loco eto mod tan de to
