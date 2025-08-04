@@ -483,3 +483,31 @@
   waystones:waystone // net.blay09.mods.waystones.block.entity.WaystoneBlockEntity@class_2338{x=-471, y=64, z=-2306}: Expected field 'Items' to contain value of type LIST, but got COMPOUND
 [02:54:37] [Server thread/INFO]: Officie has made the advancement [What a Deal!]
 [02:55:29] [Server thread/INFO]: Don_Jaiba was slain by klyo
+[02:58:09] [Server thread/INFO]: klyo died
+[02:58:26] [Server thread/INFO]: Don_Jaiba has made the advancement [Enchanter]
+[03:00:40] [Server thread/WARN]: Ignored advancement 'graves:tick' in progress file ./world/advancements/399ef1dd-83b0-3999-93fe-1d9622e5d6d5.json - it doesn't exist anymore?
+[03:00:40] [Server thread/INFO]: SaidKiller__[/100.99.253.91:50993] logged in with entity id 263052 at (-1791.0749118164267, 134.0, -1590.2983581568099)
+[03:00:40] [Server thread/INFO]: Syncing Server Configs with Client
+[03:00:40] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
+[03:00:40] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
+[03:00:40] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
+[03:00:40] [Server thread/INFO]: SaidKiller__ joined the game
+[03:00:40] [ForkJoinPool.commonPool-worker-19/INFO]: Loaded 1 player data objects (took 0s 355ms)
+[03:00:47] [Server thread/INFO]: [Not Secure] <Officie> el killer
+[03:02:50] [Server thread/INFO]: caquitoquito[/100.69.176.22:50023] logged in with entity id 266019 at (-1354.5, 58.0, -1574.5)
+[03:02:50] [Server thread/INFO]: Syncing Server Configs with Client
+[03:02:50] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
+[03:02:50] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
+[03:02:50] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
+[03:02:50] [Server thread/INFO]: caquitoquito joined the game
+[03:02:50] [ForkJoinPool.commonPool-worker-21/INFO]: Loaded 1 player data objects (took 0s 321ms)
+[03:03:06] [Server thread/WARN]: Birch Boat (vehicle of faribel) moved too quickly! -137.40071701856846,42.5,-19.83559587761738
+[03:03:06] [Server thread/WARN]: Birch Boat (vehicle of faribel) moved too quickly! -137.40079203694336,42.5,-19.838394221851786
+[03:03:06] [Server thread/WARN]: Birch Boat (vehicle of faribel) moved too quickly! -137.40083704796575,42.5,-19.84007322829234
+[03:03:26] [Server thread/WARN]: Birch Boat (vehicle of faribel) moved too quickly! 133.01883707914226,-45.5,26.87769153876684
+[03:03:26] [Server thread/WARN]: Birch Boat (vehicle of faribel) moved too quickly! 133.01883707914226,-45.5,26.87769153876684
+[03:03:27] [Server thread/WARN]: Birch Boat (vehicle of faribel) moved too quickly! 133.01883707914226,-45.5,26.87769153876684
+[03:03:27] [Server thread/WARN]: Birch Boat (vehicle of faribel) moved too quickly! 133.01883707914226,-45.5,26.87769153876684
+[03:03:44] [Server thread/WARN]: Birch Boat (vehicle of Don_Jaiba) moved too quickly! -133.88427734375,42.5,-14.832275390625
+[03:03:44] [Server thread/WARN]: Birch Boat (vehicle of Don_Jaiba) moved too quickly! -133.88427734375,42.5,-14.832275390625
+[03:03:44] [Server thread/WARN]: Birch Boat (vehicle of Don_Jaiba) moved too quickly! -133.88427734375,42.5,-14.832275390625
