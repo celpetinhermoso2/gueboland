@@ -1020,6 +1020,7 @@
       "minecraft:pillager": "2025-07-31 18:24:09 +0000",
       "minecraft:skeleton": "2025-07-31 17:07:39 +0000",
       "minecraft:phantom": "2025-07-31 18:15:14 +0000",
+      "minecraft:wither_skeleton": "2025-08-04 02:52:12 +0000",
       "minecraft:husk": "2025-08-02 21:40:32 +0000",
       "minecraft:bogged": "2025-08-02 21:44:56 +0000",
       "minecraft:hoglin": "2025-08-04 02:07:24 +0000",
@@ -3578,6 +3579,12 @@
     },
     "done": true
   },
+  "nova_structures:nether/find_piglins": {
+    "criteria": {
+      "nova_structures:piglin_camp": "2025-08-04 02:53:59 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
       "has_logs": "2025-08-04 02:35:29 +0000"
@@ -3587,6 +3594,12 @@
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2025-08-04 02:18:34 +0000"
+    },
+    "done": true
+  },
+  "incendium:withered_forest/root": {
+    "criteria": {
+      "requirement": "2025-08-04 02:48:49 +0000"
     },
     "done": true
   },
@@ -3893,7 +3906,8 @@
   "incendium:misc/soul_searcher": {
     "criteria": {
       "incendium:weeping_valley": "2025-08-04 02:29:10 +0000",
-      "incendium:toxic_heap": "2025-08-04 02:27:48 +0000"
+      "incendium:toxic_heap": "2025-08-04 02:27:48 +0000",
+      "incendium:withered_forest": "2025-08-04 02:48:49 +0000"
     },
     "done": false
   },

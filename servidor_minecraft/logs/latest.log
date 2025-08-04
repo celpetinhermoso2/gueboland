@@ -442,3 +442,44 @@
 [02:47:29] [Server thread/INFO]: [Not Secure] <klyo> gadiel
 [02:47:32] [Server thread/INFO]: [Not Secure] <Officie> dime
 [02:47:33] [Server thread/INFO]: [Not Secure] <klyo> dondfe tu ta
+[02:47:44] [Server thread/INFO]: [Not Secure] <Officie> xaero-waypoint:Aldea:A:-3090:94:224:6:false:0:Internal-overworld
+[02:48:02] [Server thread/INFO]: [Not Secure] <klyo> no vas pal nether?
+[02:48:09] [Server thread/INFO]: [Not Secure] <Officie> no lo necesito por ahora
+[02:48:13] [Server thread/INFO]: [Not Secure] <Officie> pq
+[02:48:17] [Server thread/INFO]: [Not Secure] <klyo> pq toy aqui
+[02:48:22] [Server thread/INFO]: [Not Secure] <klyo> pero que buscabas horita vd?
+[02:48:29] [Server thread/INFO]: [Not Secure] <Officie> un bioma de soul sand
+[02:48:33] [Server thread/INFO]: [Not Secure] <Officie> pa bloque de hueso
+[02:48:35] [Server thread/INFO]: [Not Secure] <klyo> ah vd
+[02:48:42] [Server thread/INFO]: [Not Secure] <klyo> y eso pa que era
+[02:48:49] [Server thread/INFO]: klyo has made the advancement [Ancient Battlefield]
+[02:48:50] [Server thread/INFO]: [Not Secure] <Officie> pa hace polvo de hueso
+[02:48:57] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/248798, l='ServerLevel[world]', x=-388.49, y=39.00, z=47.86] died: Headless Warrior was slain by Piglin
+[02:48:57] [Server thread/INFO]: [Not Secure] <Officie> hace pila de papa
+[02:48:59] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/249659, l='ServerLevel[world]', x=-387.38, y=40.00, z=52.48] died: Headless Warrior was slain by Piglin
+[02:49:00] [Server thread/INFO]: faribel died
+[02:49:04] [Server thread/INFO]: faribel was not rescued in time
+[02:49:06] [Server thread/INFO]: [Not Secure] <Officie> pa que cojan eto aldeano
+[02:49:14] [Server thread/INFO]: [Not Secure] <Officie> wey pueden dormi?
+[02:49:16] [Server thread/INFO]: [Not Secure] <Officie> quiero que sea de dia
+[02:49:52] [Server thread/INFO]: [Not Secure] <Officie> a po gracia
+[02:50:30] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/253620, l='ServerLevel[world]', x=-383.35, y=38.00, z=76.51] died: Headless Warrior was slain by Piglin
+[02:51:59] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/255316, l='ServerLevel[world]', x=-360.97, y=50.00, z=66.70] died: Headless Warrior was slain by Piglin
+[02:52:02] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/255195, l='ServerLevel[world]', x=-392.71, y=41.00, z=214.77] died: Headless Warrior was shot by Piglin
+[02:52:12] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/254709, l='ServerLevel[world]', x=-471.89, y=56.00, z=169.65] died: Headless Warrior was shot by klyo
+[02:52:13] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/255184, l='ServerLevel[world]', x=-358.58, y=50.00, z=77.33] died: Headless Warrior was shot by Piglin
+[02:52:23] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/254800, l='ServerLevel[world]', x=-366.48, y=55.75, z=106.65] died: Headless Warrior was shot by Piglin
+[02:52:30] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/255471, l='ServerLevel[world]', x=-372.15, y=40.00, z=169.02] died: Headless Warrior was slain by Piglin
+[02:52:45] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/255873, l='ServerLevel[world]', x=-589.42, y=53.00, z=66.47] died: Headless Warrior was slain by Piglin Brute
+[02:52:48] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/255368, l='ServerLevel[world]', x=-475.35, y=62.00, z=99.36] died: Headless Warrior was shot by klyo
+[02:52:50] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/255821, l='ServerLevel[world]', x=-583.22, y=56.00, z=65.57] died: Headless Warrior was slain by Piglin Brute
+[02:53:45] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/255705, l='ServerLevel[world]', x=-555.68, y=52.00, z=70.77] died: Headless Warrior was shot by klyo
+[02:54:05] [Worker-Main-2/ERROR]: Recoverable errors when loading section [-26, 4, 11]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[02:54:05] [Worker-Main-2/ERROR]: Recoverable errors when loading section [-25, 3, 15]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[02:54:05] [Worker-Main-2/ERROR]: Recoverable errors when loading section [-25, 4, 15]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: chococraft:gysahl_green -> using default)
+[02:54:11] [Worker-Main-1/WARN]: [net.minecraft.class_3499] Serialization errors:
+:
+  waystones:waystone // net.blay09.mods.waystones.block.entity.WaystoneBlockEntity@class_2338{x=-471, y=63, z=-2306}: Expected field 'Items' to contain value of type LIST, but got COMPOUND
+  waystones:waystone // net.blay09.mods.waystones.block.entity.WaystoneBlockEntity@class_2338{x=-471, y=64, z=-2306}: Expected field 'Items' to contain value of type LIST, but got COMPOUND
+[02:54:37] [Server thread/INFO]: Officie has made the advancement [What a Deal!]
+[02:55:29] [Server thread/INFO]: Don_Jaiba was slain by klyo
