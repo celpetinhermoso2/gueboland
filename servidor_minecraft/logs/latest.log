@@ -856,3 +856,13 @@
 [05:58:13] [Server thread/INFO]: SaidKiller__ has made the advancement [Incendium]
 [05:58:13] [Server thread/INFO]: SaidKiller__ has made the advancement [We Need to Go Deeper]
 [06:08:44] [Server thread/INFO]: [Not Secure] <SaidKiller__> xaero-waypoint:CASA DEL KILLER:C:-1773:130:-1590:12:false:0:Internal-overworld
+[06:14:14] [Server thread/INFO]: Officie lost connection: Timed out
+[06:14:14] [Server thread/INFO]: Officie left the game
+[06:14:21] [Server thread/INFO]: Officie[/100.107.174.27:64414] logged in with entity id 535984 at (-3084.9475641546746, 81.0, 212.76790176267698)
+[06:14:21] [Server thread/INFO]: Syncing Server Configs with Client
+[06:14:21] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/backpacks'
+[06:14:21] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
+[06:14:21] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
+[06:14:21] [Server thread/INFO]: Officie joined the game
+[06:14:22] [ForkJoinPool.commonPool-worker-29/INFO]: Loaded 1 player data objects (took 0s 355ms)
+[06:14:53] [Server thread/INFO]: [Not Secure] <SaidKiller__> wdadadad
