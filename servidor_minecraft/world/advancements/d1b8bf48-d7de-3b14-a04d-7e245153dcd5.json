@@ -3842,6 +3842,12 @@
     },
     "done": true
   },
+  "resource_backpacks:recipes/misc/backpack_netherite": {
+    "criteria": {
+      "has_backpack_diamond": "2025-08-04 02:13:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2025-08-03 23:51:16 +0000"

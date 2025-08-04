@@ -1021,6 +1021,7 @@
       "minecraft:phantom": "2025-07-31 18:15:14 +0000",
       "minecraft:husk": "2025-08-02 21:40:32 +0000",
       "minecraft:bogged": "2025-08-02 21:44:56 +0000",
+      "minecraft:hoglin": "2025-08-04 02:07:24 +0000",
       "minecraft:cave_spider": "2025-08-02 21:26:24 +0000",
       "minecraft:piglin": "2025-08-04 01:59:42 +0000",
       "minecraft:breeze": "2025-08-02 21:36:36 +0000",
@@ -3502,9 +3503,27 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-04 02:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-04 02:05:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-08-04 01:57:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-08-04 02:07:40 +0000"
     },
     "done": true
   },
@@ -3526,6 +3545,24 @@
     },
     "done": true
   },
+  "onlyhammers:recipes/tools/gold_hammer": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-04 02:12:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-04 02:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-04 02:05:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-08-04 01:59:11 +0000"
@@ -3535,6 +3572,24 @@
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_other": "2025-08-04 02:05:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-04 02:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-04 02:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-04 02:05:14 +0000"
     },
     "done": true
   },
