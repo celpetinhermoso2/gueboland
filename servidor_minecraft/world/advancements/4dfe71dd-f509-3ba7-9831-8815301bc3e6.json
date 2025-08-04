@@ -3591,6 +3591,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-08-04 03:34:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-08-04 03:11:25 +0000"
@@ -3660,6 +3666,12 @@
   "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-08-04 02:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-08-04 03:20:45 +0000"
     },
     "done": true
   },
@@ -3969,6 +3981,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-08-04 03:34:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/brown_harness": {
     "criteria": {
       "has_dried_ghast": "2025-08-04 02:28:33 +0000"
@@ -3984,6 +4002,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-08-04 02:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-04 03:34:14 +0000"
     },
     "done": true
   },
@@ -4016,6 +4040,12 @@
   "minecraft:recipes/combat/lime_harness": {
     "criteria": {
       "has_dried_ghast": "2025-08-04 02:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-04 03:34:14 +0000"
     },
     "done": true
   },
@@ -4058,6 +4088,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-08-04 02:29:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-08-04 03:34:43 +0000"
     },
     "done": true
   },
