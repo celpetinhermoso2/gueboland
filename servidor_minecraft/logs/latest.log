@@ -923,3 +923,8 @@
 [07:27:08] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/chest_loot'
 [07:27:08] [Server thread/INFO]: Sending data for Config 'resource_backpacks:common/entity_config'
 [07:27:08] [Server thread/INFO]: faribel joined the game
+[08:03:26] [Server thread/WARN]: UUID of added entity already exists: class_6335['Marker'/637656, l='ServerLevel[world]', x=-1791.57, y=130.00, z=-1591.85]
+[08:03:51] [Server thread/WARN]: Oak Boat (vehicle of Officie) moved too quickly! -1293.808989591521,-43.540000000000006,1801.8099193292437
+[08:03:51] [Server thread/WARN]: Oak Boat (vehicle of Officie) moved too quickly! -1293.808989591521,-43.620000000000005,1801.8099193292437
+[08:05:05] [Server thread/INFO]: SaidKiller__ lost connection: Disconnected
+[08:05:05] [Server thread/INFO]: SaidKiller__ left the game
