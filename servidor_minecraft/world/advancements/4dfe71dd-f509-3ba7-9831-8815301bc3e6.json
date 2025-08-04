@@ -3821,6 +3821,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-08-04 04:22:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-08-04 03:11:25 +0000"
@@ -3842,6 +3848,12 @@
   "minecraft:recipes/combat/gray_harness": {
     "criteria": {
       "has_dried_ghast": "2025-08-04 02:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/place_dried_ghast_in_water": {
+    "criteria": {
+      "place_dried_ghast_in_water": "2025-08-04 04:23:02 +0000"
     },
     "done": true
   },
@@ -4052,6 +4064,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-08-04 02:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-08-04 04:22:58 +0000"
     },
     "done": true
   },
